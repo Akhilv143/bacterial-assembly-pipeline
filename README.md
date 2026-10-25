@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-4CAF50.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Overview
-This repository contains a fully automated, scalable bioinformatics pipeline for the *de novo* assembly, structural annotation, and functional screening of bacterial genomes. Engineered to operate efficiently on local workstations under constrained memory conditions (~7 GB RAM), the workflow utilizes a resource-bounded Snakemake architecture. Environment reproducibility is strictly maintained via Conda, circumventing the need for root or sudo privileges.
+This repository contains a fully automated, scalable bioinformatics pipeline for the *de novo* assembly, structural annotation, and functional screening of bacterial genomes, the workflow utilizes a resource-bounded Snakemake architecture. Environment reproducibility is strictly maintained via Conda, circumventing the need for root or sudo privileges.
 
 A persistent challenge in clinical genomics is the accurate molecular profiling of blind or misidentified environmental isolates. By systematically integrating raw read quality control, graph-based assembly, and deep genomic screening, this pipeline rapidly resolves pathogenicity islands, antimicrobial resistance (AMR) markers, and secondary metabolite biosynthetic gene clusters (BGCs). 
 
