@@ -1,0 +1,1002 @@
+ClusterBlast scores for NODE_64_length_22882_cov_6.509470
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_02218	172	382	-	hypothetical protein	
+OMGOKNPM_02219	590	1073	-	hypothetical protein	
+OMGOKNPM_02220	1401	2397	-	hypothetical protein	
+OMGOKNPM_02221	2404	3793	-	Cyclooctat-9-en-7-ol 5-monooxygenase	
+OMGOKNPM_02222	3805	4840	-	Geranylgeranyl diphosphate synthase	
+OMGOKNPM_02223	5703	7059	+	Cyclooctatin synthase	
+OMGOKNPM_02224	7118	7553	+	hypothetical protein	
+OMGOKNPM_02225	7563	9081	+	hypothetical protein	
+OMGOKNPM_02226	9295	10459	-	Bifunctional lipase/adenylate cyclase LipJ	
+OMGOKNPM_02227	10529	11135	-	hypothetical protein	
+OMGOKNPM_02228	11322	11733	+	hypothetical protein	
+OMGOKNPM_02229	11892	12273	+	hypothetical protein	
+OMGOKNPM_02230	12293	12557	-	Small ribosomal subunit protein bS18	
+OMGOKNPM_02231	12563	12869	-	Small ribosomal subunit protein uS14A	
+OMGOKNPM_02232	12869	13034	-	Large ribosomal subunit protein bL33B	
+OMGOKNPM_02233	13033	13270	-	Large ribosomal subunit protein bL28	
+OMGOKNPM_02234	13399	14596	+	Zinc chaperone	
+
+
+Significant hits: 
+1. NZ_CP118910	Mycobacterium marinum strain 050012 chromosome, complete genome
+2. NC_010612	Mycobacterium marinum M, complete sequence
+3. NZ_AP018410	Mycobacterium pseudoshottsii JCM 15466 chromosome, complete genome
+4. NZ_CP059165	Mycobacterium vicinigordonae strain 24 chromosome, complete genome
+5. NZ_CP026498	Streptomyces sp. CB01881 chromosome
+6. NZ_CP073720	Dactylosporangium fulvum strain NRRL B-16292 chromosome, complete genome
+7. NZ_CP021744	Streptomyces albireticuli strain MDJK11 chromosome, complete genome
+8. NZ_CP012752	Kibdelosporangium phytohabitans strain KLBMP1111 chromosome, complete genome
+9. NZ_CP103871	Actinacidiphila bryophytorum strain DS3 chromosome, complete genome
+10. NZ_CP075715	Streptomyces sp. FIT100 chromosome
+11. NZ_ML138680	Streptomyces cyaneus strain CGMCC 4.1671 Scaffold15, whole genome shotgun sequence
+12. NZ_CP023699	Streptomyces kanamyceticus strain ATCC 12853 chromosome, complete genome
+13. NZ_CP049945	Streptomyces koyangensis strain SCSIO 5802 chromosome, complete genome
+14. NZ_JALLPQ010000001	Streptomyces sp. WAC00276 contig_2_pilon_pilon_pilon, whole genome shotgun sequence
+15. NZ_KN549150	Streptomyces sp. M10 Scaffold5, whole genome shotgun sequence
+16. NZ_CP064783	Streptomyces albidoflavus strain W68 chromosome, complete genome
+17. NZ_CP031742	Streptomyces koyangensis strain VK-A60T chromosome, complete genome
+18. NZ_KZ195583	Streptomyces sp. CS227 scaffold00001, whole genome shotgun sequence
+19. NZ_CP106650	Streptomyces sp. GBA 94-10 4N24 strain GBA 94-10 chromosome, complete genome
+20. NZ_CM002273	Streptomyces sp. PVA_94-07 strain PVA 94-07 chromosome, whole genome shotgun sequence
+21. NZ_CP053539	Streptomyces sp. OUCMDZ-3434 chromosome
+22. NZ_CP076385	Streptomyces sp. G11C(2021) chromosome
+23. NZ_ML123108	Streptomyces sp. ADI96-15 scaffold002, whole genome shotgun sequence
+24. NZ_CP026490	Streptomyces sp. 604F chromosome, complete genome
+25. NZ_CP113103	Streptomyces sp. NA13 chromosome, complete genome
+26. NC_020990	Streptomyces albidoflavus, complete sequence
+27. NZ_CP014485	Streptomyces albidoflavus strain SM254 chromosome, complete genome
+28. NZ_CP047147	Streptomyces sp. GF20 chromosome, complete genome
+29. NZ_CP056773	Streptomyces violascens strain YIM 100212 chromosome, complete genome
+30. NZ_CP063844	Streptomyces sp. A10(2020) chromosome, complete genome
+31. NZ_CP079112	Streptomyces albidoflavus strain LGO-A16 chromosome
+32. NZ_CP091820	Streptomyces sp. NBU3104 chromosome, complete genome
+33. NZ_AMPN02000002	Streptomyces sp. SM8 Scaffold_2, whole genome shotgun sequence
+34. NZ_AP025692	Streptomyces sp. PLM4 chromosome
+35. NZ_OX371412	Streptomyces albidoflavus strain CCOS 2040 isolate Stup19_F108 chromosome 1
+36. NZ_CP016824	Streptomyces sampsonii strain KJ40 chromosome, complete genome
+37. NZ_MNPQ01000015	Streptomyces albidoflavus strain OsiLf-2 Scaffold11_1, whole genome shotgun sequence
+38. NZ_CP009802	Streptomyces sp. FR-008 chromosome, complete genome
+39. NZ_JAHUVY010000001	Streptomyces albidoflavus strain LGO-A19 A19_AS2_SC1, whole genome shotgun sequence
+40. NZ_CP027295	Brachybacterium sp. SGAir0954 chromosome, complete genome
+41. NZ_HG315953	Mycobacterium simiae ATCC 25275 = DSM 44165, whole genome shotgun sequence
+42. NC_002944	Mycobacterium avium subsp. paratuberculosis K-10, complete sequence
+43. NZ_AP022616	Mycolicibacterium phocaicum strain JCM 15301 chromosome
+44. NZ_CP084713	Mycolicibacterium phocaicum strain RL-HY01 chromosome, complete genome
+45. NZ_OCTY01000002	Mycobacterium simulans strain FB-527, whole genome shotgun sequence
+46. NZ_CP062008	Mycolicibacterium mucogenicum DSM 44124 chromosome, complete genome
+47. NZ_VTGW01000022	Mycolicibacterium sp. CBMA 311 strain CBMA311 Contig22, whole genome shotgun sequence
+48. NZ_AP023333	Mycolicibacterium sp. TY66 chromosome, complete genome
+49. NZ_MPKW01000015	Mycolicibacterium sp. CBMA 234 Contig15, whole genome shotgun sequence
+50. NZ_LXOV01000001	Mycolicibacterium llatzerense strain MG13 scaffold1, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_CP118910
+Source: Mycobacterium marinum strain 050012 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 5336.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02218	PQR73_RS01315	98	140	92.7536231884058	1.33e-40
+OMGOKNPM_02219	PQR73_RS01320	99	307	100.0	8.36e-106
+OMGOKNPM_02220	PQR73_RS01325	99	655	100.0	6.48e-239
+OMGOKNPM_02221	PQR73_RS01330	99	899	100.0	0.0
+OMGOKNPM_02222	PQR73_RS01335	100	665	100.0	1.94e-242
+OMGOKNPM_02223	PQR73_RS01340	99	900	100.0	0.0
+OMGOKNPM_02224	PQR73_RS01345	94	99	37.5	5.28e-23
+OMGOKNPM_02225	PQR73_RS01350	100	970	100.0	0.0
+OMGOKNPM_02226	PQR73_RS01355	98	701	94.57364341085271	2.55e-254
+
+
+
+>>
+2. NC_010612
+Source: Mycobacterium marinum M, complete sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 5298.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02218	MMAR_RS01360	98	140	92.7536231884058	1.33e-40
+OMGOKNPM_02219	MMAR_RS01365	98	303	100.0	5.61e-104
+OMGOKNPM_02220	MMAR_RS01370	98	649	100.0	1.25e-236
+OMGOKNPM_02221	MMAR_RS01375	97	877	100.0	0.0
+OMGOKNPM_02222	MMAR_RS01380	100	663	100.0	1.12e-241
+OMGOKNPM_02223	MMAR_RS01390	99	900	100.0	0.0
+OMGOKNPM_02224	MMAR_RS01395	94	99	37.5	5.28e-23
+OMGOKNPM_02225	MMAR_RS01400	99	967	100.0	0.0
+OMGOKNPM_02226	MMAR_RS01405	98	700	94.57364341085271	7.3e-254
+
+
+
+>>
+3. NZ_AP018410
+Source: Mycobacterium pseudoshottsii JCM 15466 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3306.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02218	MPSD_RS26305	98	140	92.7536231884058	1.33e-40
+OMGOKNPM_02219	MPSD_RS26300	99	305	100.0	6.85e-105
+OMGOKNPM_02220	MPSD_RS26295	99	536	82.4773413897281	4.62e-193
+OMGOKNPM_02221	MPSD_RS26280	99	892	100.0	0.0
+OMGOKNPM_02222	MPSD_RS26275	99	475	70.63953488372093	5.89e-169
+OMGOKNPM_02225	MPSD_RS26255	99	958	99.8019801980198	0.0
+
+
+
+>>
+4. NZ_CP059165
+Source: Mycobacterium vicinigordonae strain 24 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2925.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02218	H0P51_RS23185	86	131	92.7536231884058	3.49e-37
+OMGOKNPM_02219	H0P51_RS23180	71	197	85.625	1.84e-62
+OMGOKNPM_02220	H0P51_RS23175	67	434	100.0	8.25e-152
+OMGOKNPM_02221	H0P51_RS23170	74	677	99.13419913419914	4.95e-243
+OMGOKNPM_02221	H0P51_RS23155	35	242	93.93939393939394	1.43e-72
+OMGOKNPM_02222	H0P51_RS23165	79	530	100.0	5.74e-189
+OMGOKNPM_02223	H0P51_RS23155	79	714	99.77827050997783	6.75e-258
+
+
+
+>>
+5. NZ_CP026498
+Source: Streptomyces sp. CB01881 chromosome
+Type: NRPS,butyrolactone,phosphonate,terpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 726.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02221	C2142_RS34010	40	293	96.32034632034632	1.87e-92
+OMGOKNPM_02222	C2142_RS34005	32	88	79.36046511627907	2.17e-17
+OMGOKNPM_02223	C2142_RS34010	37	295	96.0088691796009	4.72e-93
+OMGOKNPM_02229	C2142_RS33990	39	50	69.84126984126983	6.91e-06
+
+
+
+>>
+6. NZ_CP073720
+Source: Dactylosporangium fulvum strain NRRL B-16292 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1493.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02221	Dfulv_RS33560	44	349	91.12554112554112	1.12e-109
+OMGOKNPM_02221	Dfulv_RS33550	38	280	95.02164502164501	1.05e-87
+OMGOKNPM_02222	Dfulv_RS33555	46	226	97.38372093023256	2.72e-69
+OMGOKNPM_02223	Dfulv_RS33550	42	331	98.00443458980045	1.25e-107
+OMGOKNPM_02223	Dfulv_RS33560	38	307	98.66962305986696	1e-93
+
+
+
+>>
+7. NZ_CP021744
+Source: Streptomyces albireticuli strain MDJK11 chromosome, complete genome
+Type: NI-siderophore,NRPS,T1PKS,T2PKS,butyrolactone,terpene,transAT-PKS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1248.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02221	SMD11_RS30320	56	481	95.67099567099568	6.69e-166
+OMGOKNPM_02221	SMD11_RS30310	50	417	95.45454545454545	2.97e-141
+OMGOKNPM_02222	SMD11_RS30315	32	76	57.26744186046512	5.13e-13
+OMGOKNPM_02223	SMD11_RS30310	37	274	98.89135254988913	2.51e-85
+
+
+
+>>
+8. NZ_CP012752
+Source: Kibdelosporangium phytohabitans strain KLBMP1111 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 878.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02221	AOZ06_RS17445	40	313	94.58874458874459	1.03e-100
+OMGOKNPM_02222	AOZ06_RS17440	48	257	95.93023255813954	1.32e-81
+OMGOKNPM_02223	AOZ06_RS17445	38	308	97.5609756097561	9.13e-99
+
+
+
+>>
+9. NZ_CP103871
+Source: Actinacidiphila bryophytorum strain DS3 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 845.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02221	NYE86_RS21810	45	351	90.47619047619048	3.82e-110
+OMGOKNPM_02222	NYE86_RS21815	41	202	97.96511627906976	2.34e-60
+OMGOKNPM_02223	NYE86_RS21810	39	292	97.5609756097561	5.77e-88
+
+
+
+>>
+10. NZ_CP075715
+Source: Streptomyces sp. FIT100 chromosome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 826.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02221	KK483_RS28560	37	274	93.72294372294373	1.98e-85
+OMGOKNPM_02222	KK483_RS28555	46	230	94.76744186046511	4.07e-71
+OMGOKNPM_02223	KK483_RS28560	41	322	96.67405764966742	2.71e-104
+
+
+
+>>
+11. NZ_ML138680
+Source: Streptomyces cyaneus strain CGMCC 4.1671 Scaffold15, whole genome shotgun sequence
+Type: NRPS,aminopolycarboxylic-acid,terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 731.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02221	EHO50_RS08895	42	306	99.56709956709958	1.78e-97
+OMGOKNPM_02222	EHO50_RS08900	34	97	72.96511627906976	1.07e-20
+OMGOKNPM_02223	EHO50_RS08895	41	328	99.33481152993349	2.52e-106
+
+
+
+>>
+12. NZ_CP023699
+Source: Streptomyces kanamyceticus strain ATCC 12853 chromosome, complete genome
+Type: NRPS-like,T3PKS,lassopeptide,terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 656.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02221	CP970_RS43660	38	281	96.1038961038961	6.47e-88
+OMGOKNPM_02222	CP970_RS43665	33	83	73.83720930232558	1.2e-15
+OMGOKNPM_02223	CP970_RS43660	37	292	96.0088691796009	2.13e-92
+
+
+
+>>
+13. NZ_CP049945
+Source: Streptomyces koyangensis strain SCSIO 5802 chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 643.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	G9U55_RS01175	35	96	83.72093023255815	7.28e-20
+OMGOKNPM_02230	G9U55_RS01115	56	85	94.25287356321839	2.97e-21
+OMGOKNPM_02231	G9U55_RS01090	68	134	100.0	2.19e-40
+OMGOKNPM_02232	G9U55_RS01100	83	100	100.0	1.58e-28
+OMGOKNPM_02233	G9U55_RS01095	55	91	100.0	7.43e-24
+OMGOKNPM_02234	G9U55_RS01110	32	137	93.71859296482413	1.91e-34
+
+
+
+>>
+14. NZ_JALLPQ010000001
+Source: Streptomyces sp. WAC00276 contig_2_pilon_pilon_pilon, whole genome shotgun sequence
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 639.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	MWG58_RS29710	35	96	83.72093023255815	9.91e-20
+OMGOKNPM_02230	MWG58_RS29765	69	84	70.11494252873564	5.98e-21
+OMGOKNPM_02231	MWG58_RS29790	66	132	100.0	1.27e-39
+OMGOKNPM_02232	MWG58_RS29780	83	100	100.0	2.25e-28
+OMGOKNPM_02233	MWG58_RS29785	55	91	100.0	7.43e-24
+OMGOKNPM_02234	MWG58_RS29770	32	136	93.71859296482413	2.65e-34
+
+
+
+>>
+15. NZ_KN549150
+Source: Streptomyces sp. M10 Scaffold5, whole genome shotgun sequence
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 638.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	D076_RS14070	34	94	83.72093023255815	2.5e-19
+OMGOKNPM_02230	D076_RS14015	69	84	70.11494252873564	5.98e-21
+OMGOKNPM_02231	D076_RS13990	66	132	100.0	1.27e-39
+OMGOKNPM_02232	D076_RS14000	83	100	100.0	1.58e-28
+OMGOKNPM_02233	D076_RS13995	55	91	100.0	7.43e-24
+OMGOKNPM_02234	D076_RS14010	32	137	93.71859296482413	1.91e-34
+
+
+
+>>
+16. NZ_CP064783
+Source: Streptomyces albidoflavus strain W68 chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 636.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	IT782_RS28095	34	94	83.72093023255815	2.5e-19
+OMGOKNPM_02230	IT782_RS28150	67	83	70.11494252873564	1.71e-20
+OMGOKNPM_02231	IT782_RS28175	66	132	100.0	1.8e-39
+OMGOKNPM_02232	IT782_RS28165	83	100	100.0	2.25e-28
+OMGOKNPM_02233	IT782_RS28170	55	91	100.0	7.43e-24
+OMGOKNPM_02234	IT782_RS28155	32	136	93.71859296482413	2.65e-34
+
+
+
+>>
+17. NZ_CP031742
+Source: Streptomyces koyangensis strain VK-A60T chromosome, complete genome
+Type: NRPS,NRPS-like,RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 635.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	D0C37_RS30630	34	94	83.72093023255815	4.81e-19
+OMGOKNPM_02230	D0C37_RS30690	55	84	94.25287356321839	5.98e-21
+OMGOKNPM_02231	D0C37_RS30715	67	132	100.0	1.27e-39
+OMGOKNPM_02232	D0C37_RS30705	83	100	100.0	1.58e-28
+OMGOKNPM_02233	D0C37_RS30710	55	91	100.0	7.43e-24
+OMGOKNPM_02234	D0C37_RS30695	32	134	93.71859296482413	1.36e-33
+
+
+
+>>
+18. NZ_KZ195583
+Source: Streptomyces sp. CS227 scaffold00001, whole genome shotgun sequence
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 633.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	B9W68_RS28485	33	92	83.72093023255815	1.16e-18
+OMGOKNPM_02230	B9W68_RS28545	68	86	78.16091954022988	1.04e-21
+OMGOKNPM_02231	B9W68_RS28570	66	131	100.0	3.63e-39
+OMGOKNPM_02232	B9W68_RS28560	83	100	100.0	1.58e-28
+OMGOKNPM_02233	B9W68_RS28565	55	91	100.0	7.43e-24
+OMGOKNPM_02234	B9W68_RS28550	33	133	93.96984924623115	3.61e-33
+
+
+
+>>
+19. NZ_CP106650
+Source: Streptomyces sp. GBA 94-10 4N24 strain GBA 94-10 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 630.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	B591_RS28685	34	94	83.72093023255815	3.4e-19
+OMGOKNPM_02230	B591_RS28735	67	83	70.11494252873564	1.71e-20
+OMGOKNPM_02231	B591_RS28760	67	132	100.0	1.8e-39
+OMGOKNPM_02232	B591_RS28750	83	100	100.0	1.58e-28
+OMGOKNPM_02233	B591_RS28755	55	91	100.0	7.43e-24
+OMGOKNPM_02234	B591_RS28740	32	130	93.71859296482413	3.53e-32
+
+
+
+>>
+20. NZ_CM002273
+Source: Streptomyces sp. PVA_94-07 strain PVA 94-07 chromosome, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 629.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	B590_RS27935	34	94	83.72093023255815	3.4e-19
+OMGOKNPM_02230	B590_RS27985	67	83	70.11494252873564	1.71e-20
+OMGOKNPM_02231	B590_RS28010	67	132	100.0	1.8e-39
+OMGOKNPM_02232	B590_RS28000	83	100	100.0	1.58e-28
+OMGOKNPM_02233	B590_RS28005	55	91	100.0	7.43e-24
+OMGOKNPM_02234	B590_RS27990	31	129	93.71859296482413	1.3e-31
+
+
+
+>>
+21. NZ_CP053539
+Source: Streptomyces sp. OUCMDZ-3434 chromosome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 629.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	HN026_RS28625	34	94	83.72093023255815	3.4e-19
+OMGOKNPM_02230	HN026_RS28675	67	83	70.11494252873564	1.71e-20
+OMGOKNPM_02231	HN026_RS28700	67	132	100.0	1.8e-39
+OMGOKNPM_02232	HN026_RS28690	83	100	100.0	1.58e-28
+OMGOKNPM_02233	HN026_RS28695	55	91	100.0	7.43e-24
+OMGOKNPM_02234	HN026_RS28680	31	129	93.71859296482413	1.3e-31
+
+
+
+>>
+22. NZ_CP076385
+Source: Streptomyces sp. G11C(2021) chromosome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 629.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	KNZ81_RS29375	34	94	83.72093023255815	3.4e-19
+OMGOKNPM_02230	KNZ81_RS29425	67	83	70.11494252873564	1.71e-20
+OMGOKNPM_02231	KNZ81_RS29450	67	132	100.0	1.8e-39
+OMGOKNPM_02232	KNZ81_RS29440	83	100	100.0	1.58e-28
+OMGOKNPM_02233	KNZ81_RS29445	55	91	100.0	7.43e-24
+OMGOKNPM_02234	KNZ81_RS29430	31	129	93.71859296482413	1.3e-31
+
+
+
+>>
+23. NZ_ML123108
+Source: Streptomyces sp. ADI96-15 scaffold002, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 629.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	EES44_RS14460	34	94	83.72093023255815	3.4e-19
+OMGOKNPM_02230	EES44_RS14510	67	83	70.11494252873564	1.71e-20
+OMGOKNPM_02231	EES44_RS14535	67	132	100.0	1.8e-39
+OMGOKNPM_02232	EES44_RS14525	83	100	100.0	1.58e-28
+OMGOKNPM_02233	EES44_RS14530	55	91	100.0	7.43e-24
+OMGOKNPM_02234	EES44_RS14515	31	129	93.71859296482413	1.3e-31
+
+
+
+>>
+24. NZ_CP026490
+Source: Streptomyces sp. 604F chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 626.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	C3K23_RS02650	34	91	83.72093023255815	2.92e-18
+OMGOKNPM_02230	C3K23_RS02600	67	83	70.11494252873564	1.71e-20
+OMGOKNPM_02231	C3K23_RS02575	67	132	100.0	1.8e-39
+OMGOKNPM_02232	C3K23_RS02585	83	100	100.0	1.58e-28
+OMGOKNPM_02233	C3K23_RS02580	55	91	100.0	7.43e-24
+OMGOKNPM_02234	C3K23_RS02595	31	129	93.71859296482413	1.3e-31
+
+
+
+>>
+25. NZ_CP113103
+Source: Streptomyces sp. NA13 chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 623.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	OSU72_RS01325	35	92	79.65116279069767	1.61e-18
+OMGOKNPM_02230	OSU72_RS01270	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	OSU72_RS01245	66	129	100.0	1.48e-38
+OMGOKNPM_02232	OSU72_RS01255	83	100	100.0	1.58e-28
+OMGOKNPM_02233	OSU72_RS01250	55	91	100.0	7.43e-24
+OMGOKNPM_02234	OSU72_RS01265	32	129	93.96984924623115	1.3e-31
+
+
+
+>>
+26. NC_020990
+Source: Streptomyces albidoflavus, complete sequence
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 622.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	XNR_RS28185	35	92	79.65116279069767	1.61e-18
+OMGOKNPM_02230	XNR_RS28250	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	XNR_RS28275	66	129	100.0	1.48e-38
+OMGOKNPM_02232	XNR_RS28265	83	100	100.0	1.58e-28
+OMGOKNPM_02233	XNR_RS28270	55	91	100.0	7.43e-24
+OMGOKNPM_02234	XNR_RS28255	32	128	94.47236180904522	2.48e-31
+
+
+
+>>
+27. NZ_CP014485
+Source: Streptomyces albidoflavus strain SM254 chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 622.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	Salbus254_RS29665	35	92	79.65116279069767	1.61e-18
+OMGOKNPM_02230	Salbus254_RS29720	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	Salbus254_RS29745	66	129	100.0	1.48e-38
+OMGOKNPM_02232	Salbus254_RS29735	83	100	100.0	1.58e-28
+OMGOKNPM_02233	Salbus254_RS29740	55	91	100.0	7.43e-24
+OMGOKNPM_02234	Salbus254_RS29725	32	128	94.47236180904522	3.43e-31
+
+
+
+>>
+28. NZ_CP047147
+Source: Streptomyces sp. GF20 chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 622.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	GR131_RS01570	35	92	79.65116279069767	1.61e-18
+OMGOKNPM_02230	GR131_RS01510	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	GR131_RS01485	66	129	100.0	1.48e-38
+OMGOKNPM_02232	GR131_RS01495	83	100	100.0	1.58e-28
+OMGOKNPM_02233	GR131_RS01490	55	91	100.0	7.43e-24
+OMGOKNPM_02234	GR131_RS01505	32	128	94.47236180904522	2.48e-31
+
+
+
+>>
+29. NZ_CP056773
+Source: Streptomyces violascens strain YIM 100212 chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 622.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	HWN34_RS28640	35	92	79.65116279069767	1.61e-18
+OMGOKNPM_02230	HWN34_RS28695	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	HWN34_RS28720	66	129	100.0	1.48e-38
+OMGOKNPM_02232	HWN34_RS28710	83	100	100.0	1.58e-28
+OMGOKNPM_02233	HWN34_RS28715	55	91	100.0	7.43e-24
+OMGOKNPM_02234	HWN34_RS28700	32	128	94.47236180904522	2.48e-31
+
+
+
+>>
+30. NZ_CP063844
+Source: Streptomyces sp. A10(2020) chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 622.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	IPZ55_RS29145	35	92	79.65116279069767	1.61e-18
+OMGOKNPM_02230	IPZ55_RS29200	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	IPZ55_RS29225	66	129	100.0	1.48e-38
+OMGOKNPM_02232	IPZ55_RS29215	83	100	100.0	1.58e-28
+OMGOKNPM_02233	IPZ55_RS29220	55	91	100.0	7.43e-24
+OMGOKNPM_02234	IPZ55_RS29205	32	128	94.47236180904522	3.43e-31
+
+
+
+>>
+31. NZ_CP079112
+Source: Streptomyces albidoflavus strain LGO-A16 chromosome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 622.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	STALF2_RS01190	38	92	65.11627906976744	1.61e-18
+OMGOKNPM_02230	STALF2_RS01135	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	STALF2_RS01110	66	129	100.0	1.48e-38
+OMGOKNPM_02232	STALF2_RS01120	83	100	100.0	1.58e-28
+OMGOKNPM_02233	STALF2_RS01115	55	91	100.0	7.43e-24
+OMGOKNPM_02234	STALF2_RS01130	32	128	94.47236180904522	2.48e-31
+
+
+
+>>
+32. NZ_CP091820
+Source: Streptomyces sp. NBU3104 chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 620.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	L2I08_RS16910	35	92	79.65116279069767	1.18e-18
+OMGOKNPM_02230	L2I08_RS16845	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	L2I08_RS16820	65	126	100.0	2.44e-37
+OMGOKNPM_02232	L2I08_RS16830	83	100	100.0	1.58e-28
+OMGOKNPM_02233	L2I08_RS16825	55	91	100.0	7.43e-24
+OMGOKNPM_02234	L2I08_RS16840	32	129	93.96984924623115	9.36e-32
+
+
+
+>>
+33. NZ_AMPN02000002
+Source: Streptomyces sp. SM8 Scaffold_2, whole genome shotgun sequence
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 620.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	SM8_RS30270	35	92	79.65116279069767	1.61e-18
+OMGOKNPM_02230	SM8_RS30325	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	SM8_RS30350	66	129	100.0	1.48e-38
+OMGOKNPM_02232	SM8_RS30340	83	100	100.0	1.58e-28
+OMGOKNPM_02233	SM8_RS30345	55	91	100.0	7.43e-24
+OMGOKNPM_02234	SM8_RS30330	32	126	93.96984924623115	1.73e-30
+
+
+
+>>
+34. NZ_AP025692
+Source: Streptomyces sp. PLM4 chromosome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 620.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	MTP06_RS01370	35	92	79.65116279069767	1.61e-18
+OMGOKNPM_02230	MTP06_RS01310	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	MTP06_RS01285	66	129	100.0	1.48e-38
+OMGOKNPM_02232	MTP06_RS01295	83	100	100.0	1.58e-28
+OMGOKNPM_02233	MTP06_RS01290	55	91	100.0	7.43e-24
+OMGOKNPM_02234	MTP06_RS01305	32	126	94.47236180904522	1.25e-30
+
+
+
+>>
+35. NZ_OX371412
+Source: Streptomyces albidoflavus strain CCOS 2040 isolate Stup19_F108 chromosome 1
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 619.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	OZE77_RS01265	35	92	79.65116279069767	1.61e-18
+OMGOKNPM_02230	OZE77_RS01200	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	OZE77_RS01175	66	129	100.0	1.48e-38
+OMGOKNPM_02232	OZE77_RS01185	83	100	100.0	1.58e-28
+OMGOKNPM_02233	OZE77_RS01180	54	88	100.0	8.65e-23
+OMGOKNPM_02234	OZE77_RS01195	32	128	94.47236180904522	2.48e-31
+
+
+
+>>
+36. NZ_CP016824
+Source: Streptomyces sampsonii strain KJ40 chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 619.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	BEN82_RS01795	35	89	79.65116279069767	1.36e-17
+OMGOKNPM_02230	BEN82_RS01740	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	BEN82_RS01715	66	129	100.0	1.48e-38
+OMGOKNPM_02232	BEN82_RS01725	83	100	100.0	1.58e-28
+OMGOKNPM_02233	BEN82_RS01720	55	91	100.0	7.43e-24
+OMGOKNPM_02234	BEN82_RS01735	32	128	94.47236180904522	3.43e-31
+
+
+
+>>
+37. NZ_MNPQ01000015
+Source: Streptomyces albidoflavus strain OsiLf-2 Scaffold11_1, whole genome shotgun sequence
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 617.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	BGV78_RS19155	35	92	79.65116279069767	1.61e-18
+OMGOKNPM_02230	BGV78_RS19100	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	BGV78_RS19075	66	129	100.0	1.48e-38
+OMGOKNPM_02232	BGV78_RS19085	83	100	100.0	1.58e-28
+OMGOKNPM_02233	BGV78_RS19080	55	91	100.0	7.43e-24
+OMGOKNPM_02234	BGV78_RS19095	33	123	78.64321608040201	1.66e-29
+
+
+
+>>
+38. NZ_CP009802
+Source: Streptomyces sp. FR-008 chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 617.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	SFR_RS29620	35	89	79.65116279069767	1.36e-17
+OMGOKNPM_02230	SFR_RS29675	66	82	70.11494252873564	2.43e-20
+OMGOKNPM_02231	SFR_RS29700	66	129	100.0	1.48e-38
+OMGOKNPM_02232	SFR_RS29690	83	100	100.0	1.58e-28
+OMGOKNPM_02233	SFR_RS29695	55	91	100.0	7.43e-24
+OMGOKNPM_02234	SFR_RS29680	32	126	94.47236180904522	1.73e-30
+
+
+
+>>
+39. NZ_JAHUVY010000001
+Source: Streptomyces albidoflavus strain LGO-A19 A19_AS2_SC1, whole genome shotgun sequence
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 610.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	STALF3_RS01380	35	91	79.65116279069767	2.96e-18
+OMGOKNPM_02230	STALF3_RS01325	69	81	63.2183908045977	4.35e-20
+OMGOKNPM_02231	STALF3_RS01300	66	129	100.0	1.48e-38
+OMGOKNPM_02232	STALF3_RS01310	83	100	100.0	1.58e-28
+OMGOKNPM_02233	STALF3_RS01305	53	81	92.3076923076923	4.07e-20
+OMGOKNPM_02234	STALF3_RS01320	32	128	94.47236180904522	2.31e-31
+
+
+
+>>
+40. NZ_CP027295
+Source: Brachybacterium sp. SGAir0954 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 368.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02222	C1N80_RS00970	31	73	83.13953488372093	4.37e-12
+OMGOKNPM_02231	C1N80_RS01030	63	122	100.0	1.64e-35
+OMGOKNPM_02232	C1N80_RS01025	67	76	101.85185185185186	1.36e-18
+OMGOKNPM_02233	C1N80_RS01020	62	97	100.0	2.71e-26
+
+
+
+>>
+41. NZ_HG315953
+Source: Mycobacterium simiae ATCC 25275 = DSM 44165, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1467.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02226	TY06_RS15885	71	520	94.57364341085271	1.45e-182
+OMGOKNPM_02227	TY06_RS15890	80	301	93.03482587064677	3.97e-103
+OMGOKNPM_02228	TY06_RS15895	78	212	94.85294117647058	1.74e-67
+OMGOKNPM_02229	TY06_RS15895	69	199	98.4126984126984	7.9e-63
+OMGOKNPM_02230	TY06_RS15915	69	103	93.10344827586206	8.3e-29
+OMGOKNPM_02231	TY06_RS15920	70	132	100.0	8.92e-40
+
+
+
+>>
+42. NC_002944
+Source: Mycobacterium avium subsp. paratuberculosis K-10, complete sequence
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1392.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02230	MAP_RS19305	74	113	94.25287356321839	1.44e-32
+OMGOKNPM_02231	MAP_RS19310	82	157	100.0	1.1e-49
+OMGOKNPM_02232	MAP_RS19315	91	104	100.0	4.7e-30
+OMGOKNPM_02233	MAP_RS23000	83	131	100.0	5.09e-40
+OMGOKNPM_02234	MAP_RS19320	68	518	94.9748743718593	8.39e-183
+OMGOKNPM_02234	MAP_RS19205	51	369	94.72361809045226	1.11e-123
+
+
+
+>>
+43. NZ_AP022616
+Source: Mycolicibacterium phocaicum strain JCM 15301 chromosome
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 992.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02230	G6N46_RS19125	75	103	86.20689655172413	1.63e-28
+OMGOKNPM_02231	G6N46_RS19130	76	149	100.0	3.55e-46
+OMGOKNPM_02232	G6N46_RS19135	80	99	100.0	9.17e-28
+OMGOKNPM_02233	G6N46_RS19140	80	122	100.0	2.33e-36
+OMGOKNPM_02234	G6N46_RS19145	66	519	94.9748743718593	3.74e-183
+
+
+
+>>
+44. NZ_CP084713
+Source: Mycolicibacterium phocaicum strain RL-HY01 chromosome, complete genome
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 992.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02230	LHJ73_RS28425	75	103	86.20689655172413	1.63e-28
+OMGOKNPM_02231	LHJ73_RS28420	76	149	100.0	3.55e-46
+OMGOKNPM_02232	LHJ73_RS28415	80	99	100.0	9.17e-28
+OMGOKNPM_02233	LHJ73_RS28410	80	122	100.0	2.33e-36
+OMGOKNPM_02234	LHJ73_RS28405	66	519	94.9748743718593	3.74e-183
+
+
+
+>>
+45. NZ_OCTY01000002
+Source: Mycobacterium simulans strain FB-527, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 987.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02230	MSIMFB_RS24545	74	112	94.25287356321839	5.68e-32
+OMGOKNPM_02231	MSIMFB_RS24540	81	158	100.0	5.48e-50
+OMGOKNPM_02232	MSIMFB_RS24535	91	104	100.0	4.7e-30
+OMGOKNPM_02233	MSIMFB_RS24530	86	133	100.0	8.78e-41
+OMGOKNPM_02234	MSIMFB_RS24525	65	480	94.47236180904522	9.24e-168
+
+
+
+>>
+46. NZ_CP062008
+Source: Mycolicibacterium mucogenicum DSM 44124 chromosome, complete genome
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 986.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02230	C1S78_RS28525	71	97	86.20689655172413	3.05e-26
+OMGOKNPM_02231	C1S78_RS28520	77	149	100.0	1.76e-46
+OMGOKNPM_02232	C1S78_RS28515	80	99	100.0	9.17e-28
+OMGOKNPM_02233	C1S78_RS28510	80	122	100.0	1.64e-36
+OMGOKNPM_02234	C1S78_RS28505	66	519	94.9748743718593	5.31e-183
+
+
+
+>>
+47. NZ_VTGW01000022
+Source: Mycolicibacterium sp. CBMA 311 strain CBMA311 Contig22, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 984.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02230	FZI96_RS18975	71	93	86.20689655172413	1.79e-24
+OMGOKNPM_02231	FZI96_RS18980	76	147	100.0	2.05e-45
+OMGOKNPM_02232	FZI96_RS18985	82	100	100.0	4.54e-28
+OMGOKNPM_02233	FZI96_RS18990	80	124	100.0	4.03e-37
+OMGOKNPM_02234	FZI96_RS18995	67	520	94.9748743718593	1.86e-183
+
+
+
+>>
+48. NZ_AP023333
+Source: Mycolicibacterium sp. TY66 chromosome, complete genome
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 983.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02230	MTY66_RS02955	80	95	68.96551724137932	2.13e-25
+OMGOKNPM_02231	MTY66_RS02960	76	148	100.0	5.04e-46
+OMGOKNPM_02232	MTY66_RS02965	80	99	100.0	9.17e-28
+OMGOKNPM_02233	MTY66_RS02970	80	122	100.0	1.64e-36
+OMGOKNPM_02234	MTY66_RS02975	66	519	94.9748743718593	3.74e-183
+
+
+
+>>
+49. NZ_MPKW01000015
+Source: Mycolicibacterium sp. CBMA 234 Contig15, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 983.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02230	BOO86_RS11660	78	89	66.66666666666666	3.62e-23
+OMGOKNPM_02231	BOO86_RS11655	76	147	100.0	2.05e-45
+OMGOKNPM_02232	BOO86_RS11650	82	100	100.0	4.54e-28
+OMGOKNPM_02233	BOO86_RS11645	82	128	100.0	1.2e-38
+OMGOKNPM_02234	BOO86_RS11640	67	519	94.9748743718593	3.74e-183
+
+
+
+>>
+50. NZ_LXOV01000001
+Source: Mycolicibacterium llatzerense strain MG13 scaffold1, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 978.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02230	A7G45_RS06830	73	101	93.10344827586206	6.43e-28
+OMGOKNPM_02231	A7G45_RS06835	76	149	100.0	3.55e-46
+OMGOKNPM_02232	A7G45_RS06840	80	99	100.0	6.45e-28
+OMGOKNPM_02233	A7G45_RS06845	77	120	100.0	1.92e-35
+OMGOKNPM_02234	A7G45_RS06850	65	509	94.9748743718593	4.76e-179
+

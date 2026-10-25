@@ -1,0 +1,21 @@
+ClusterBlast scores for NODE_147_length_13273_cov_6.456108
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_03612	36	951	+	PE cleavage protein A	
+OMGOKNPM_03613	994	1636	-	Carboxylesterase Culp1	
+OMGOKNPM_03614	1740	2922	-	hypothetical protein	
+OMGOKNPM_03615	3229	6016	+	Carboxylic acid reductase	
+OMGOKNPM_03616	6002	6611	-	hypothetical protein	
+OMGOKNPM_03617	6747	7314	-	Iodotyrosine deiodinase	
+OMGOKNPM_03618	7413	7959	+	HTH-type transcriptional repressor YetL	
+OMGOKNPM_03619	7955	9218	+	hypothetical protein	
+OMGOKNPM_03620	9260	11225	+	Serine/threonine-protein kinase PknD	
+OMGOKNPM_03621	11478	12069	-	hypothetical protein	
+OMGOKNPM_03622	12157	12730	+	hypothetical protein	
+OMGOKNPM_03623	12761	13193	-	PPE family protein PPE2	
+
+
+Significant hits: 
+
+
+Details:

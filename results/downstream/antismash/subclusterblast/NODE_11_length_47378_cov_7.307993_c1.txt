@@ -1,0 +1,46 @@
+ClusterBlast scores for NODE_11_length_47378_cov_7.307993
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_00617	706	2782	-	Penicillin-binding protein PbpB	
+OMGOKNPM_00618	2778	4050	-	hypothetical protein	
+OMGOKNPM_00619	4046	5261	-	Ribosomal RNA small subunit methyltransferase H	
+OMGOKNPM_00620	5235	5667	-	Transcriptional regulator MraZ	
+OMGOKNPM_00621	6075	6480	-	hypothetical protein	
+OMGOKNPM_00622	6575	7421	+	hypothetical protein	
+OMGOKNPM_00623	7570	8212	+	Protein LppM	
+OMGOKNPM_00624	8257	9154	-	hypothetical protein	
+OMGOKNPM_00625	9478	10501	+	(2E,6E)-farnesyl diphosphate synthase	
+OMGOKNPM_00626	10541	12086	+	Alpha-(1->6)-mannopyranosyltransferase A	
+OMGOKNPM_00627	12079	12508	-	DNA-binding protein	
+OMGOKNPM_00628	12598	13894	+	Serine/threonine-protein kinase PknL	
+OMGOKNPM_00629	14001	14217	-	Geranylgeranyl diphosphate synthase	
+OMGOKNPM_00630	14340	15006	-	Geranylgeranyl diphosphate synthase	
+OMGOKNPM_00631	15022	16105	-	Hydroxymethylglutaryl-CoA synthase	
+OMGOKNPM_00632	16234	17290	-	hypothetical protein	
+OMGOKNPM_00633	17313	17958	-	Phosphomevalonate kinase	
+OMGOKNPM_00634	17959	18427	-	hypothetical protein	
+OMGOKNPM_00635	18423	19434	-	hypothetical protein	
+OMGOKNPM_00636	19430	20414	-	Galactokinase	
+OMGOKNPM_00637	20443	20980	-	Isopentenyl-diphosphate Delta-isomerase	
+OMGOKNPM_00638	21162	21489	-	Geranylgeranyl diphosphate synthase	
+OMGOKNPM_00639	22154	23171	+	Pristinol synthase	
+OMGOKNPM_00640	23179	23332	-	hypothetical protein	
+OMGOKNPM_00641	23452	24541	+	Acetoacetyl CoA synthase NphT7	
+OMGOKNPM_00642	24733	26122	-	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG	
+OMGOKNPM_00643	26170	26650	-	3'-5' exoribonuclease.1	
+OMGOKNPM_00644	26659	27526	-	hypothetical protein	
+OMGOKNPM_00645	27641	28901	+	Polyprenol-phosphate-mannose-dependent alpha-(1-2)-phosphatidylinositol mannoside mannosyltransferase	
+OMGOKNPM_00646	28901	29633	-	hypothetical protein	
+OMGOKNPM_00647	29720	30110	-	hypothetical protein	
+OMGOKNPM_00648	30106	31306	-	Protein	
+OMGOKNPM_00649	31377	31812	-	hypothetical protein	
+OMGOKNPM_00650	31908	32298	-	hypothetical protein	
+OMGOKNPM_00651	32505	34308	+	Long-chain-fatty-acid--CoA ligase FadD15	
+OMGOKNPM_00652	34432	35599	-	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase	
+OMGOKNPM_00653	35661	36063	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

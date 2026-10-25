@@ -1,0 +1,169 @@
+ClusterBlast scores for NODE_317_length_4017_cov_8.952442
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_04969	103	247	-	hypothetical protein	
+OMGOKNPM_04970	247	499	+	hypothetical protein	
+OMGOKNPM_04971	534	3915	+	Plipastatin synthase subunit B	
+
+
+Significant hits: 
+1. NZ_AP018410	Mycobacterium pseudoshottsii JCM 15466 chromosome, complete genome
+2. NC_020133	Mycobacterium liflandii 128FXT, complete sequence
+3. NC_020133	Mycobacterium liflandii 128FXT, complete sequence
+4. NZ_SLXS01000001	Tumebacillus sp. BK434 Ga0307714_101, whole genome shotgun sequence
+5. NZ_AP018268	Scytonema sp. NIES-4073 DNA, nearly complete genome
+6. NZ_CP012159	Chondromyces crocatus strain Cm c5 chromosome, complete genome
+7. NZ_BDUC01000001	Tolypothrix sp. NIES-4075, whole genome shotgun sequence
+8. NZ_CP114039	Corallococcus sp. NCRR chromosome, complete genome
+9. NZ_CP023278	Nostoc sp. CENA543 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NZ_AP018410
+Source: Mycobacterium pseudoshottsii JCM 15466 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2331.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_04970	MPSD_RS02320	96	153	100.0	6.21e-43
+OMGOKNPM_04971	MPSD_RS02315	100	2178	99.37833037300177	0.0
+
+
+
+>>
+2. NC_020133
+Source: Mycobacterium liflandii 128FXT, complete sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2330.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_04970	MULP_RS32210	99	157	100.0	3.51e-44
+OMGOKNPM_04971	MULP_RS32205	100	2173	99.37833037300177	0.0
+
+
+
+>>
+3. NC_020133
+Source: Mycobacterium liflandii 128FXT, complete sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 936.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_04970	MULP_RS33140	54	76	89.1566265060241	1.65e-15
+OMGOKNPM_04971	MULP_RS33145	64	860	63.05506216696269	3.31e-294
+
+
+
+>>
+4. NZ_SLXS01000001
+Source: Tumebacillus sp. BK434 Ga0307714_101, whole genome shotgun sequence
+Type: NRPS,RiPP-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 4121.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_04970	EV586_RS01705	40	49	75.90361445783132	3.81e-06
+OMGOKNPM_04971	EV586_RS01740	37	669	100.08880994671404	2.76e-206
+OMGOKNPM_04971	EV586_RS01675	38	622	96.89165186500888	3.39e-190
+OMGOKNPM_04971	EV586_RS01705	32	476	99.91119005328596	1.79e-140
+OMGOKNPM_04971	EV586_RS01630	33	470	93.42806394316163	2.66e-138
+OMGOKNPM_04971	EV586_RS02035	32	470	101.86500888099468	2.78e-138
+OMGOKNPM_04971	EV586_RS01720	33	467	95.11545293072824	2.49e-137
+OMGOKNPM_04971	EV586_RS01850	32	457	101.06571936056838	2.15e-134
+OMGOKNPM_04971	EV586_RS01745	31	441	94.58259325044405	5.07e-134
+
+
+
+>>
+5. NZ_AP018268
+Source: Scytonema sp. NIES-4073 DNA, nearly complete genome
+Type: NRP-metallophore,NRPS,NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2391.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_04970	CDC39_RS08585	44	52	71.08433734939759	2.26e-07
+OMGOKNPM_04971	CDC39_RS08595	34	522	96.53641207815275	8e-165
+OMGOKNPM_04971	CDC39_RS08335	32	466	93.78330373001776	8.96e-138
+OMGOKNPM_04971	CDC39_RS08430	32	449	95.82593250444049	1.09e-136
+OMGOKNPM_04971	CDC39_RS08550	33	455	92.98401420959146	6.72e-135
+OMGOKNPM_04971	CDC39_RS08585	32	447	94.13854351687388	8.44e-131
+
+
+
+>>
+6. NZ_CP012159
+Source: Chondromyces crocatus strain Cm c5 chromosome, complete genome
+Type: NRPS,NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1605.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_04970	CMC5_RS26385	41	49	79.51807228915662	3.78e-06
+OMGOKNPM_04971	CMC5_RS26525	38	609	102.57548845470691	7.14e-187
+OMGOKNPM_04971	CMC5_RS26355	35	489	94.31616341030195	4.48e-152
+OMGOKNPM_04971	CMC5_RS26350	33	458	99.91119005328596	2.14e-134
+
+
+
+>>
+7. NZ_BDUC01000001
+Source: Tolypothrix sp. NIES-4075, whole genome shotgun sequence
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 995.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_04970	CDC34_RS40065	43	49	67.46987951807229	3.8e-06
+OMGOKNPM_04971	CDC34_RS03415	34	494	93.96092362344582	1.14e-146
+OMGOKNPM_04971	CDC34_RS40065	32	452	95.91474245115454	2.66e-132
+
+
+
+>>
+8. NZ_CP114039
+Source: Corallococcus sp. NCRR chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 509.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_04970	O0N60_RS10250	42	49	71.08433734939759	3.79e-06
+OMGOKNPM_04971	O0N60_RS10235	33	460	93.51687388987567	4.38e-135
+
+
+
+>>
+9. NZ_CP023278
+Source: Nostoc sp. CENA543 chromosome, complete genome
+Type: NRP-metallophore,NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 507.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_04970	CLI64_RS03710	38	49	79.51807228915662	5.11e-06
+OMGOKNPM_04971	CLI64_RS03750	33	458	95.73712255772647	8.05e-137
+

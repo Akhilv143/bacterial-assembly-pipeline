@@ -1,0 +1,19 @@
+ClusterBlast scores for NODE_31_length_30524_cov_7.465770
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_01337	300	1113	+	Phthiotriol/phenolphthiotriol dimycocerosates methyltransferase	
+OMGOKNPM_01338	1672	7972	+	Mycocerosic acid synthase	
+OMGOKNPM_01339	8175	9420	-	Phthiocerol/phthiodiolone dimycocerosyl transferase	
+OMGOKNPM_01340	9453	10284	-	putative doxorubicin resistance ABC transporter permease protein DrrC	
+OMGOKNPM_01341	10280	11150	-	Doxorubicin resistance ABC transporter permease protein DrrB	
+OMGOKNPM_01342	11146	12142	-	Doxorubicin resistance ATP-binding protein DrrA	
+OMGOKNPM_01343	12152	16598	-	Phenolphthiocerol/phthiocerol polyketide synthase subunit E	
+OMGOKNPM_01344	16603	22024	-	Phenolphthiocerol/phthiocerol polyketide synthase subunit C	
+OMGOKNPM_01345	22023	28629	-	Phenolphthiocerol/phthiocerol polyketide synthase subunit C	
+OMGOKNPM_01346	28628	30359	-	Phenolphthiocerol/phthiocerol polyketide synthase subunit B	
+
+
+Significant hits: 
+
+
+Details:

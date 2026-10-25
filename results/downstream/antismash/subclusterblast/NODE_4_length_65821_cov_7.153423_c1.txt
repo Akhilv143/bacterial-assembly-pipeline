@@ -1,0 +1,62 @@
+ClusterBlast scores for NODE_4_length_65821_cov_7.153423
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_00239	105	1212	-	Trehalase	
+OMGOKNPM_00240	1349	1883	+	hypothetical protein	
+OMGOKNPM_00241	2036	2792	+	hypothetical protein	
+OMGOKNPM_00242	3141	4191	+	Sulfate-binding protein	
+OMGOKNPM_00243	4187	5090	+	hypothetical protein	
+OMGOKNPM_00244	5086	5905	+	Sulfate transport system permease protein CysW	
+OMGOKNPM_00245	5901	7011	+	Sulfate/thiosulfate import ATP-binding protein CysA	
+OMGOKNPM_00246	7039	9043	-	hypothetical protein	
+OMGOKNPM_00247	9134	11075	-	Glutathione hydrolase proenzyme	
+OMGOKNPM_00248	11089	11539	-	hypothetical protein	
+OMGOKNPM_00249	11798	12548	-	Adenosine 5'-phosphosulfate reductase	
+OMGOKNPM_00250	12544	14212	-	Sulfite reductase [ferredoxin]	
+OMGOKNPM_00251	14508	15822	+	Heme chaperone HemW	
+OMGOKNPM_00252	15833	17069	-	hypothetical protein	
+OMGOKNPM_00253	17380	17590	-	putative proteinA/RVBD_2386A	
+OMGOKNPM_00254	18003	19365	+	Salicylate synthase	
+OMGOKNPM_00255	19616	20453	+	hypothetical protein	
+OMGOKNPM_00256	20437	21454	+	Putative acyl-[acyl-carrier-protein] desaturase DesA1	
+OMGOKNPM_00257	21485	22448	-	hypothetical protein	
+OMGOKNPM_00258	22426	23950	-	Baeyer-Villiger monooxygenase	
+OMGOKNPM_00259	23952	24873	-	hypothetical protein	
+OMGOKNPM_00260	24904	25765	-	putative oxidoreductase EphD	
+OMGOKNPM_00261	25766	26762	-	Acetyl esterase	
+OMGOKNPM_00262	26871	28524	-	Salicyl-AMP ligase / salicyl-S-ArCP synthetase	
+OMGOKNPM_00263	28622	28724	+	hypothetical protein	
+OMGOKNPM_00264	28720	30025	+	L-lysine N6-monooxygenase MbtG	
+OMGOKNPM_00265	30005	30221	+	Protein MbtH	
+OMGOKNPM_00266	30225	33300	-	Pikromycin polyketide synthase component PikAIII	
+OMGOKNPM_00267	33296	34616	-	Putative inactive phenolphthiocerol synthesis polyketide synthase type I Pks15	
+OMGOKNPM_00268	34612	35371	-	Phenyloxazoline synthase MbtB	
+OMGOKNPM_00269	35480	36086	-	N(6)-hydroxylysine O-acetyltransferase	
+OMGOKNPM_00270	36360	41373	+	Dimodular nonribosomal peptide synthase	
+OMGOKNPM_00271	41369	45908	+	Surfactin synthase subunit 2	
+OMGOKNPM_00272	45943	49435	+	Phenyloxazoline synthase MbtB	
+OMGOKNPM_00273	49718	50228	+	Low molecular weight antigen MTB12	
+OMGOKNPM_00274	50265	51165	-	ECF RNA polymerase sigma factor SigJ	
+OMGOKNPM_00275	51161	51761	-	hypothetical protein	
+OMGOKNPM_00276	51859	52174	-	hypothetical protein	
+OMGOKNPM_00277	52446	53478	+	Heat-inducible transcription repressor HrcA	
+OMGOKNPM_00278	53552	54641	+	Chaperone protein DnaJ 2	
+OMGOKNPM_00279	54650	55373	+	HTH-type transcriptional repressor DrrR1	
+OMGOKNPM_00280	55440	56499	+	PhoH-like protein	
+OMGOKNPM_00281	56517	57054	+	Endoribonuclease YbeY	
+OMGOKNPM_00282	57050	58373	+	hypothetical protein	
+OMGOKNPM_00283	58365	58572	+	hypothetical protein	
+OMGOKNPM_00284	58561	59464	+	GTPase Era	
+OMGOKNPM_00285	59460	60960	-	Putative amidase AmiA2	
+OMGOKNPM_00286	61021	61819	+	DNA repair protein RecO	
+OMGOKNPM_00287	61811	62702	+	Decaprenyl diphosphate synthase	
+OMGOKNPM_00288	62701	63142	+	hypothetical protein	
+OMGOKNPM_00289	63138	63552	-	Zinc uptake regulation protein	
+OMGOKNPM_00290	63548	63944	-	HTH-type transcriptional repressor SmtB	
+OMGOKNPM_00291	64136	65528	+	Glycine--tRNA ligase	
+
+
+Significant hits: 
+
+
+Details:

@@ -1,0 +1,30 @@
+ClusterBlast scores for NODE_21_length_35200_cov_7.779945
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_01012	461	635	+	hypothetical protein	
+OMGOKNPM_01013	763	1765	+	hypothetical protein	
+OMGOKNPM_01014	1757	2750	+	hypothetical protein	
+OMGOKNPM_01015	2866	3520	+	hypothetical protein	
+OMGOKNPM_01016	3509	4946	-	4-pyridoxate dehydrogenase	
+OMGOKNPM_01017	4954	6367	-	Pre-mycofactocin glycosyltransferase	
+OMGOKNPM_01018	6363	7116	-	Mycofactocin precursor peptide peptidase	
+OMGOKNPM_01019	7271	8444	-	Pre-mycofactocin synthase	
+OMGOKNPM_01020	8446	9622	-	Mycofactocin maturase MftC	
+OMGOKNPM_01021	9618	9948	-	Peptide chaperone MftB	
+OMGOKNPM_01022	9932	10025	-	Mycofactocin precursor peptide	
+OMGOKNPM_01023	10158	10752	+	Putative mycofactocin biosynthesis transcriptional regulator MftR	
+OMGOKNPM_01024	10751	11813	+	hypothetical protein	
+OMGOKNPM_01025	11910	13149	-	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin--NAD(+) reductase component	
+OMGOKNPM_01026	13158	13905	-	putative NAD-dependent oxidoreductase	
+OMGOKNPM_01027	14117	14927	-	hypothetical protein	
+OMGOKNPM_01028	15176	16367	-	Elongation factor Tu	
+OMGOKNPM_01029	16416	16635	+	hypothetical protein	
+OMGOKNPM_01030	16553	18659	-	elongation factor G FusA	
+OMGOKNPM_01031	18739	19210	-	Small ribosomal subunit protein uS7	
+OMGOKNPM_01032	19209	19584	-	Small ribosomal subunit protein uS12	
+
+
+Significant hits: 
+
+
+Details:

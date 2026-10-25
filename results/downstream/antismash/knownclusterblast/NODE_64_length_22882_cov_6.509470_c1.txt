@@ -1,0 +1,43 @@
+ClusterBlast scores for NODE_64_length_22882_cov_6.509470
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_02218	172	382	-	hypothetical protein	
+OMGOKNPM_02219	590	1073	-	hypothetical protein	
+OMGOKNPM_02220	1401	2397	-	hypothetical protein	
+OMGOKNPM_02221	2404	3793	-	Cyclooctat-9-en-7-ol 5-monooxygenase	
+OMGOKNPM_02222	3805	4840	-	Geranylgeranyl diphosphate synthase	
+OMGOKNPM_02223	5703	7059	+	Cyclooctatin synthase	
+OMGOKNPM_02224	7118	7553	+	hypothetical protein	
+OMGOKNPM_02225	7563	9081	+	hypothetical protein	
+OMGOKNPM_02226	9295	10459	-	Bifunctional lipase/adenylate cyclase LipJ	
+OMGOKNPM_02227	10529	11135	-	hypothetical protein	
+OMGOKNPM_02228	11322	11733	+	hypothetical protein	
+OMGOKNPM_02229	11892	12273	+	hypothetical protein	
+OMGOKNPM_02230	12293	12557	-	Small ribosomal subunit protein bS18	
+OMGOKNPM_02231	12563	12869	-	Small ribosomal subunit protein uS14A	
+OMGOKNPM_02232	12869	13034	-	Large ribosomal subunit protein bL33B	
+OMGOKNPM_02233	13033	13270	-	Large ribosomal subunit protein bL28	
+OMGOKNPM_02234	13399	14596	+	Zinc chaperone	
+
+
+Significant hits: 
+1. BGC0001818.4	vazabitide A
+
+
+Details:
+
+>>
+1. BGC0001818.4
+Source: vazabitide A
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 410.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02230	BAV57472.1	62	87	87.35632183908046	7.39e-24
+OMGOKNPM_02231	BAV57477.1	66	131	100.0	4.93e-41
+OMGOKNPM_02232	BAV57475.1	80	98	100.0	3.42e-29
+OMGOKNPM_02233	BAV57476.1	58	94	100.0	8.66e-27
+

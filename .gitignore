@@ -1,0 +1,17 @@
+# Ignore heavy raw data and intermediate files
+data/*.fastq.gz
+data/*.fna
+results/spades/
+results/prokka/
+results/quast/
+results/multiqc/
+results/abricate/
+*.zip
+*.tar.gz
+*.fastq
+*.bam
+*.sam
+
+# Keep downstream results and plots
+!results/downstream/
+!results/*_Final_Report.md

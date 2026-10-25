@@ -1,0 +1,17 @@
+ClusterBlast scores for NODE_143_length_13389_cov_8.109863
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_03563	103	418	-	Tryptophan 6-halogenase ThaL	
+OMGOKNPM_03564	1064	1439	+	hypothetical protein	
+OMGOKNPM_03565	1496	6137	+	D-alanine--D-alanyl carrier protein ligase	
+OMGOKNPM_03566	6149	6785	+	hypothetical protein	
+OMGOKNPM_03567	7591	10579	+	D-alanine--D-alanyl carrier protein ligase	
+OMGOKNPM_03568	10598	11156	+	Flavin reductase (NADPH)	
+OMGOKNPM_03569	11230	12442	+	Na(+)/H(+)-K(+) antiporter GerN	
+OMGOKNPM_03570	12612	13287	+	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE	
+
+
+Significant hits: 
+
+
+Details:

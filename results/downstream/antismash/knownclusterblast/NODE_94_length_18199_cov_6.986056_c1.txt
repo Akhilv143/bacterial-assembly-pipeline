@@ -1,0 +1,62 @@
+ClusterBlast scores for NODE_94_length_18199_cov_6.986056
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_02826	221	1085	-	hypothetical protein	
+OMGOKNPM_02827	1268	2285	-	hypothetical protein	
+OMGOKNPM_02828	2281	2791	-	hypothetical protein	
+OMGOKNPM_02829	2766	3918	-	Polyketide synthase-like Pks10	
+OMGOKNPM_02830	4019	5168	+	hypothetical protein	
+OMGOKNPM_02831	5219	5846	-	hypothetical protein	
+OMGOKNPM_02832	5888	7283	-	hypothetical protein	
+OMGOKNPM_02833	7355	8159	-	1,2-epoxyphenylacetyl-CoA isomerase	
+OMGOKNPM_02834	8312	9410	+	Alpha-methylacyl-CoA racemase	
+OMGOKNPM_02835	9467	10229	+	putative oxidoreductase	
+OMGOKNPM_02836	10365	10521	-	hypothetical protein	
+OMGOKNPM_02837	11131	13219	+	Trehalose monomycolate exporter MmpL3	
+OMGOKNPM_02838	13226	13919	+	hypothetical protein	
+OMGOKNPM_02839	13915	14554	+	hypothetical protein	
+OMGOKNPM_02840	14661	15378	-	NAD-dependent protein deacylase	
+OMGOKNPM_02841	15436	15802	+	HTH-type transcriptional regulator	
+OMGOKNPM_02842	15811	16084	-	hypothetical protein	
+OMGOKNPM_02843	16073	16649	-	hypothetical protein	
+OMGOKNPM_02844	16663	17179	-	hypothetical protein	
+OMGOKNPM_02845	17235	17679	+	F420H(2)-dependent reductase	
+OMGOKNPM_02846	17701	17890	+	putative proteinA	
+
+
+Significant hits: 
+1. BGC0000282.3	2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol
+2. BGC0001647.3	lagunapyrone A/lagunapyrone B/lagunapyrone C
+
+
+Details:
+
+>>
+1. BGC0000282.3
+Source: 2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol
+Type: PKS:Type III
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 847.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02827	SGR_470	52	294	99.70414201183432	2.94e-98
+OMGOKNPM_02828	SGR_471	60	199	99.40828402366864	6.29e-66
+OMGOKNPM_02829	SGR_472	52	354	92.95039164490862	7.71e-121
+
+
+
+>>
+2. BGC0001647.3
+Source: lagunapyrone A/lagunapyrone B/lagunapyrone C
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 545.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02828	STBA_03880	59	207	95.85798816568047	5.2e-69
+OMGOKNPM_02829	STBA_03890	51	338	92.16710182767625	8.71e-115
+

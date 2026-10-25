@@ -1,0 +1,14 @@
+ClusterBlast scores for NODE_226_length_7957_cov_6.030779
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_04403	281	2051	+	D-alanine--D-alanyl carrier protein ligase	
+OMGOKNPM_04404	2479	3793	+	hypothetical protein	
+OMGOKNPM_04405	4024	5203	+	PPE family protein PPE26	
+OMGOKNPM_04406	5344	6934	+	Putative multidrug resistance protein MdtD	
+OMGOKNPM_04407	6954	7704	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

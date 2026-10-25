@@ -1,0 +1,251 @@
+ClusterBlast scores for NODE_63_length_22900_cov_7.589777
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_02199	16	3121	+	Linear gramicidin synthase subunit B	
+OMGOKNPM_02200	3145	4855	+	Dimodular nonribosomal peptide synthase	
+OMGOKNPM_02201	4879	6193	+	AMB antimetabolite synthetase AmbE	
+OMGOKNPM_02202	6214	8008	-	Biotin-dependent acyl-coenzyme A carboxylase alpha3 subunit	
+OMGOKNPM_02203	8118	8538	-	putative SufE-like protein	
+OMGOKNPM_02204	8534	9440	-	Putative thiosulfate sulfurtransferase SseA	
+OMGOKNPM_02205	9479	10130	-	Nucleoside triphosphate pyrophosphatase	
+OMGOKNPM_02206	10126	10447	-	Biotin-dependent acetyl-/propionyl-coenzyme A carboxylase epsilon subunit	
+OMGOKNPM_02207	10443	12084	-	Biotin-dependent acetyl-/propionyl-coenzyme A carboxylase beta5 subunit	
+OMGOKNPM_02208	12234	13065	+	Biotin--[acetyl-CoA-carboxylase] ligase	
+OMGOKNPM_02209	13127	13646	+	hypothetical protein	
+OMGOKNPM_02210	13600	14284	-	hypothetical protein	
+OMGOKNPM_02211	14324	15599	+	N5-carboxyaminoimidazole ribonucleotide synthase	
+OMGOKNPM_02212	15591	16107	+	N5-carboxyaminoimidazole ribonucleotide mutase	
+OMGOKNPM_02213	16131	17301	+	putative acyl-CoA dehydrogenase FadE25	
+OMGOKNPM_02214	17494	18733	+	Regulator of RpoS	
+OMGOKNPM_02215	18729	20352	+	Adaptive-response sensory-kinase SasA	
+OMGOKNPM_02216	20348	20789	+	Response regulator Rcp1	
+OMGOKNPM_02217	20802	22698	-	hypothetical protein	
+
+
+Significant hits: 
+1. BGC0002676.2	skyllamycin D/skyllamycin E
+2. BGC0000429.4	skyllamycin A/skyllamycin B
+3. BGC0002109.3	kitacinnamycin A/kitacinnamycin B/kitacinnamycin C/kitacinnamycin D/kitacinnamycin E/kitacinnamycin F
+4. BGC0000268.5	Sch-47554/Sch-47555
+5. BGC0002547.2	youssoufene A1/youssoufene B1/youssoufene B2/youssoufene B3/youssoufene B4
+6. BGC0000253.4	oviedomycin
+7. BGC0000262.5	prejadomycin/rabelomycin/gaudimycin C/gaudimycin D/UWM6/gaudimycin A
+8. BGC0000038.5	coelimycin P1
+9. BGC0002478.3	rubiginone A2/rubiginone J/rubiginone K/rubiginone L/rubiginone M/rubiginone N/ochromycinone/rubiginone B2
+10. BGC0002672.2	saccharothrixin D/saccharothrixin E/saccharothrixin F/saccharothrixin G/saccharothrixin H/saccharothrixin I/saccharothrixin J/saccharothrixin K/saccharothrixin L/saccharothrixin M
+11. BGC0002070.3	SEK90/pentangumycin
+12. BGC0001500.3	allocyclinone A/allocyclinone B/allocyclinone C/allocyclinone D
+13. BGC0002369.2	maduralactomycin A/maduralactomycin B/actinospirol A/actinospirol B
+14. BGC0000223.5	rabelomycin/dehydrorabelomycin/fluostatin F/fluostatin G/fluostatin H
+
+
+Details:
+
+>>
+1. BGC0002676.2
+Source: skyllamycin D/skyllamycin E
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 957.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02200	KZO11_19525	47	434	97.89103690685414	1.21e-134
+OMGOKNPM_02207	KZO11_19615	52	523	95.97069597069597	1.73e-182
+
+
+
+>>
+2. BGC0000429.4
+Source: skyllamycin A/skyllamycin B
+Type: NRPS:Type I+PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 955.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02200	AEA30272.1	47	432	97.89103690685414	4.13e-134
+OMGOKNPM_02207	AEA30254.1	52	523	95.97069597069597	2.6e-182
+
+
+
+>>
+3. BGC0002109.3
+Source: kitacinnamycin A/kitacinnamycin B/kitacinnamycin C/kitacinnamycin D/kitacinnamycin E/kitacinnamycin F
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 909.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02200	QDJ74273.1	50	403	82.0738137082601	5.79e-124
+OMGOKNPM_02207	QDJ74289.1	54	506	91.94139194139194	9.32e-176
+
+
+
+>>
+4. BGC0000268.5
+Source: Sch-47554/Sch-47555
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1285.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02202	CAH10108.1	70	771	99.83249581239531	1.72e-277
+OMGOKNPM_02207	CAF31370.1	52	514	95.97069597069597	9.73e-179
+
+
+
+>>
+5. BGC0002547.2
+Source: youssoufene A1/youssoufene B1/youssoufene B2/youssoufene B3/youssoufene B4
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1266.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02202	QHB92603.1	67	752	99.83249581239531	2.65e-269
+OMGOKNPM_02207	QHB92602.1	52	514	97.25274725274726	1.46e-178
+
+
+
+>>
+6. BGC0000253.4
+Source: oviedomycin
+Type: PKS:Type II
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1252.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02202	CAG14974.1	68	741	99.49748743718592	1.68e-266
+OMGOKNPM_02207	CAG14973.1	53	511	91.94139194139194	1.16e-177
+
+
+
+>>
+7. BGC0000262.5
+Source: prejadomycin/rabelomycin/gaudimycin C/gaudimycin D/UWM6/gaudimycin A
+Type: PKS:Type II+saccharide:hybrid/tailoring
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1295.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02202	AHW57769.1	70	772	99.32998324958125	1.6e-278
+OMGOKNPM_02207	AAK57534.1	53	523	97.06959706959707	2.12e-182
+
+
+
+>>
+8. BGC0000038.5
+Source: coelimycin P1
+Type: PKS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1289.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02202	CAD55505.1	70	775	99.32998324958125	1.96e-279
+OMGOKNPM_02207	CAC37885.1	53	514	96.15384615384616	8.71e-179
+
+
+
+>>
+9. BGC0002478.3
+Source: rubiginone A2/rubiginone J/rubiginone K/rubiginone L/rubiginone M/rubiginone N/ochromycinone/rubiginone B2
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1259.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02202	AMK11_25725	69	752	99.16247906197655	1.51e-270
+OMGOKNPM_02207	AMK11_25600	52	507	96.52014652014653	7.04e-176
+
+
+
+>>
+10. BGC0002672.2
+Source: saccharothrixin D/saccharothrixin E/saccharothrixin F/saccharothrixin G/saccharothrixin H/saccharothrixin I/saccharothrixin J/saccharothrixin K/saccharothrixin L/saccharothrixin M
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1207.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02202	UPN68078.1	66	719	98.1574539363484	1.25e-257
+OMGOKNPM_02207	UPN68087.1	52	488	91.94139194139194	1.32e-168
+
+
+
+>>
+11. BGC0002070.3
+Source: SEK90/pentangumycin
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1207.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02202	BN6_54840	63	687	98.82747068676717	4.86e-245
+OMGOKNPM_02207	BN6_54930	55	520	92.85714285714286	3.37e-181
+
+
+
+>>
+12. BGC0001500.3
+Source: allocyclinone A/allocyclinone B/allocyclinone C/allocyclinone D
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1197.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02202	AMX23336.1	61	664	98.1574539363484	4.04e-236
+OMGOKNPM_02207	AMX23325.1	56	533	92.12454212454212	6.03e-186
+
+
+
+>>
+13. BGC0002369.2
+Source: maduralactomycin A/maduralactomycin B/actinospirol A/actinospirol B
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1158.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02202	BTM25_23920	58	641	98.65996649916248	9.2e-227
+OMGOKNPM_02207	BTM25_23800	53	517	96.88644688644689	6.92e-180
+
+
+
+>>
+14. BGC0000223.5
+Source: rabelomycin/dehydrorabelomycin/fluostatin F/fluostatin G/fluostatin H
+Type: PKS:Type II
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1140.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_02202	AEE65470.1	62	627	94.13735343383584	1.73e-221
+OMGOKNPM_02207	AEE65461.1	52	513	95.42124542124543	8.72e-178
+

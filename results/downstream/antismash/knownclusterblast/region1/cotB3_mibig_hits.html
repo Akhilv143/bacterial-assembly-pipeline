@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ADE22337.1</td>
+              <td>monooxygenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000065.5">BGC0000065.5</a></td>
+              <td>PKS:Iterative type I</td>
+              <td>49.0</td>
+              <td>98.7</td>
+              <td>421.0</td>
+              <td>9.03e-144</td>
+          </tr>
+    
+          <tr>
+              <td>BAI44339.1</td>
+              <td>P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000677.5">BGC0000677.5</a></td>
+              <td>terpene:Diterpene</td>
+              <td>44.0</td>
+              <td>90.9</td>
+              <td>371.0</td>
+              <td>9.66e-125</td>
+          </tr>
+    
+          <tr>
+              <td>BAC70710.1</td>
+              <td>pentalenene_C13_hydroxylase;_cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000678.5">BGC0000678.5</a></td>
+              <td>terpene</td>
+              <td>45.0</td>
+              <td>95.0</td>
+              <td>368.0</td>
+              <td>7.96e-124</td>
+          </tr>
+    
+          <tr>
+              <td>ADO85579.1</td>
+              <td>PntI</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000653.5">BGC0000653.5</a></td>
+              <td>terpene</td>
+              <td>44.0</td>
+              <td>95.5</td>
+              <td>362.0</td>
+              <td>2.65e-121</td>
+          </tr>
+    
+          <tr>
+              <td>BAI44340.1</td>
+              <td>P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000677.5">BGC0000677.5</a></td>
+              <td>terpene:Diterpene</td>
+              <td>44.0</td>
+              <td>92.2</td>
+              <td>349.0</td>
+              <td>2.61e-116</td>
+          </tr>
+    
+          <tr>
+              <td>BAD86796.1</td>
+              <td>putative_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000286.3">BGC0000286.3</a></td>
+              <td>PKS</td>
+              <td>38.0</td>
+              <td>99.4</td>
+              <td>301.0</td>
+              <td>1.16e-97</td>
+          </tr>
+    
+          <tr>
+              <td>BAR97462.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001911.3">BGC0001911.3</a></td>
+              <td>terpene</td>
+              <td>38.0</td>
+              <td>93.9</td>
+              <td>286.0</td>
+              <td>8.26e-92</td>
+          </tr>
+    
+          <tr>
+              <td>AAM97314.1</td>
+              <td>cytochrome_P450_hydroxylase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000093.5">BGC0000093.5</a></td>
+              <td>PKS:Type I</td>
+              <td>36.0</td>
+              <td>98.9</td>
+              <td>253.0</td>
+              <td>6.37e-79</td>
+          </tr>
+    
+          <tr>
+              <td>EDY50543.1</td>
+              <td>cytochrome_P450_hydroxylase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000675.5">BGC0000675.5</a></td>
+              <td>terpene</td>
+              <td>33.0</td>
+              <td>95.7</td>
+              <td>236.0</td>
+              <td>1.02e-72</td>
+          </tr>
+    
+          <tr>
+              <td>EDY50540.1</td>
+              <td>truncated_pentalenene_C13_hydroxylase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000675.5">BGC0000675.5</a></td>
+              <td>terpene</td>
+              <td>44.0</td>
+              <td>56.7</td>
+              <td>206.0</td>
+              <td>2.35e-63</td>
+          </tr>
+    
+          <tr>
+              <td>QTC09989.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002372.3">BGC0002372.3</a></td>
+              <td>PKS+terpene+other:other</td>
+              <td>34.0</td>
+              <td>88.1</td>
+              <td>205.0</td>
+              <td>1.41e-60</td>
+          </tr>
+    
+          <tr>
+              <td>QTC09988.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002372.3">BGC0002372.3</a></td>
+              <td>PKS+terpene+other:other</td>
+              <td>34.0</td>
+              <td>94.6</td>
+              <td>203.0</td>
+              <td>5.18e-60</td>
+          </tr>
+    
+          <tr>
+              <td>QKW93655.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002339.3">BGC0002339.3</a></td>
+              <td>terpene</td>
+              <td>35.0</td>
+              <td>87.9</td>
+              <td>203.0</td>
+              <td>8.15e-60</td>
+          </tr>
+    
+          <tr>
+              <td>AAQ17113.2</td>
+              <td>putative_P450_hydroxylase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001008.5">BGC0001008.5</a></td>
+              <td>PKS:Iterative type I</td>
+              <td>35.0</td>
+              <td>88.1</td>
+              <td>202.0</td>
+              <td>1.92e-59</td>
+          </tr>
+    
+          <tr>
+              <td>ATV95645.1</td>
+              <td>P450_hydroxylase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001503.4">BGC0001503.4</a></td>
+              <td>PKS</td>
+              <td>34.0</td>
+              <td>89.4</td>
+              <td>199.0</td>
+              <td>1.75e-58</td>
+          </tr>
+    
+          <tr>
+              <td>QGY73452.1</td>
+              <td>Itm20</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002451.2">BGC0002451.2</a></td>
+              <td>PKS</td>
+              <td>33.0</td>
+              <td>89.8</td>
+              <td>199.0</td>
+              <td>3.75e-58</td>
+          </tr>
+    
+          <tr>
+              <td>ACY13428.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001367.5">BGC0001367.5</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>30.0</td>
+              <td>93.1</td>
+              <td>188.0</td>
+              <td>3.12e-54</td>
+          </tr>
+    
+          <tr>
+              <td>AAM78009.1</td>
+              <td>cytochrome_P-450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000112.5">BGC0000112.5</a></td>
+              <td>PKS:Iterative type I</td>
+              <td>34.0</td>
+              <td>89.8</td>
+              <td>179.0</td>
+              <td>5.03e-51</td>
+          </tr>
+    
+          <tr>
+              <td>ACY13429.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001367.5">BGC0001367.5</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>31.0</td>
+              <td>97.8</td>
+              <td>179.0</td>
+              <td>5.14e-51</td>
+          </tr>
+    
+          <tr>
+              <td>ANY94468.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001584.5">BGC0001584.5</a></td>
+              <td>PKS</td>
+              <td>33.0</td>
+              <td>86.4</td>
+              <td>178.0</td>
+              <td>1.86e-50</td>
+          </tr>
+    
+          <tr>
+              <td>AFV52138.1</td>
+              <td>P450_monooxygenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000081.5">BGC0000081.5</a></td>
+              <td>NRPS:Type I+PKS:Iterative type I</td>
+              <td>32.0</td>
+              <td>89.2</td>
+              <td>177.0</td>
+              <td>2.43e-50</td>
+          </tr>
+    
+          <tr>
+              <td>AHA38204.1</td>
+              <td>GphK</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000069.5">BGC0000069.5</a></td>
+              <td>PKS</td>
+              <td>33.0</td>
+              <td>90.7</td>
+              <td>172.0</td>
+              <td>2.4e-48</td>
+          </tr>
+    
+          <tr>
+              <td>AAL06697.1</td>
+              <td>P450_hydroxylase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000965.5">BGC0000965.5</a></td>
+              <td>PKS:Iterative type I</td>
+              <td>32.0</td>
+              <td>85.3</td>
+              <td>169.0</td>
+              <td>2.67e-47</td>
+          </tr>
+    
+          <tr>
+              <td>ALU98459.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001397.5">BGC0001397.5</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>32.0</td>
+              <td>85.3</td>
+              <td>169.0</td>
+              <td>2.67e-47</td>
+          </tr>
+    
+          <tr>
+              <td>CAQ43072.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000970.5">BGC0000970.5</a></td>
+              <td>NRPS:Type I+PKS:Type I</td>
+              <td>31.0</td>
+              <td>89.6</td>
+              <td>167.0</td>
+              <td>2.32e-46</td>
+          </tr>
+    
+          <tr>
+              <td>ABP55138.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000150.4">BGC0000150.4</a></td>
+              <td>NRPS:Type I+PKS:Enediyne type I</td>
+              <td>30.0</td>
+              <td>89.2</td>
+              <td>166.0</td>
+              <td>7.61e-46</td>
+          </tr>
+    
+          <tr>
+              <td>DAC76738.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001885.3">BGC0001885.3</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>32.0</td>
+              <td>91.6</td>
+              <td>160.0</td>
+              <td>8.65e-44</td>
+          </tr>
+    
+          <tr>
+              <td>AZH23827.1</td>
+              <td>MgiT</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001971.3">BGC0001971.3</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>30.0</td>
+              <td>82.0</td>
+              <td>155.0</td>
+              <td>5.09e-42</td>
+          </tr>
+    
+          <tr>
+              <td>CAL58689.1</td>
+              <td>cytochrome_P450_dependent_monooxygenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000149.5">BGC0000149.5</a></td>
+              <td>PKS:Type I</td>
+              <td>31.0</td>
+              <td>89.4</td>
+              <td>140.0</td>
+              <td>1.61e-36</td>
+          </tr>
+    
+          <tr>
+              <td>WP_062148882.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002013.4">BGC0002013.4</a></td>
+              <td>ribosomal:RiPP</td>
+              <td>36.0</td>
+              <td>54.3</td>
+              <td>140.0</td>
+              <td>2.68e-36</td>
+          </tr>
+    
+          <tr>
+              <td>ABM21573.1</td>
+              <td>CrpE</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000975.5">BGC0000975.5</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>29.0</td>
+              <td>91.8</td>
+              <td>139.0</td>
+              <td>5.27e-36</td>
+          </tr>
+    
+          <tr>
+              <td>ADZ25011.1</td>
+              <td>cytochrome_P450_hydroxylase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000380.5">BGC0000380.5</a></td>
+              <td>NRPS:Type I+PKS:Type I</td>
+              <td>29.0</td>
+              <td>77.3</td>
+              <td>137.0</td>
+              <td>2.96e-35</td>
+          </tr>
+    
+          <tr>
+              <td>CAQ18837.1</td>
+              <td>putative_cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000954.5">BGC0000954.5</a></td>
+              <td>NRPS:Type I+PKS:Type I</td>
+              <td>31.0</td>
+              <td>77.9</td>
+              <td>134.0</td>
+              <td>2.95e-34</td>
+          </tr>
+    
+          <tr>
+              <td>CAQ18836.1</td>
+              <td>putative_cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000954.5">BGC0000954.5</a></td>
+              <td>NRPS:Type I+PKS:Type I</td>
+              <td>32.0</td>
+              <td>73.6</td>
+              <td>132.0</td>
+              <td>1.8e-33</td>
+          </tr>
+    
+          <tr>
+              <td>APZ79622.1</td>
+              <td>FisB4</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001595.3">BGC0001595.3</a></td>
+              <td>other:other</td>
+              <td>29.0</td>
+              <td>73.4</td>
+              <td>131.0</td>
+              <td>4.8e-33</td>
+          </tr>
+    
+          <tr>
+              <td>AQA28566.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001663.3">BGC0001663.3</a></td>
+              <td>PKS</td>
+              <td>29.0</td>
+              <td>73.4</td>
+              <td>129.0</td>
+              <td>1.22e-32</td>
+          </tr>
+    
+          <tr>
+              <td>ADI59538.1</td>
+              <td>CorO</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001091.5">BGC0001091.5</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>29.0</td>
+              <td>74.7</td>
+              <td>124.0</td>
+              <td>8.55e-31</td>
+          </tr>
+    
+          <tr>
+              <td>ATX68108.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001772.3">BGC0001772.3</a></td>
+              <td>PKS</td>
+              <td>27.0</td>
+              <td>81.4</td>
+              <td>123.0</td>
+              <td>2.43e-30</td>
+          </tr>
+    
+          <tr>
+              <td>AAM54108.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000020.3">BGC0000020.3</a></td>
+              <td>PKS</td>
+              <td>29.0</td>
+              <td>91.6</td>
+              <td>124.0</td>
+              <td>4.62e-30</td>
+          </tr>
+    
+          <tr>
+              <td>NP_001130688.1</td>
+              <td>uncharacterized_protein_LOC100191791</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002391.2">BGC0002391.2</a></td>
+              <td>terpene</td>
+              <td>28.0</td>
+              <td>95.7</td>
+              <td>121.0</td>
+              <td>2.03e-29</td>
+          </tr>
+    
+          <tr>
+              <td>DAB41903.1</td>
+              <td>ArzA_-_cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001884.3">BGC0001884.3</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>27.0</td>
+              <td>84.8</td>
+              <td>116.0</td>
+              <td>6.24e-28</td>
+          </tr>
+    
+          <tr>
+              <td>AEA35017.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002502.3">BGC0002502.3</a></td>
+              <td>PKS</td>
+              <td>26.0</td>
+              <td>101.1</td>
+              <td>114.0</td>
+              <td>1.34e-26</td>
+          </tr>
+    
+          <tr>
+              <td>ACB12553.1</td>
+              <td>Fum6</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000063.3">BGC0000063.3</a></td>
+              <td>PKS</td>
+              <td>26.0</td>
+              <td>101.1</td>
+              <td>114.0</td>
+              <td>1.79e-26</td>
+          </tr>
+    
+          <tr>
+              <td>AAY42399.1</td>
+              <td>HctG</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001000.5">BGC0001000.5</a></td>
+              <td>NRPS:Type I+PKS:Type I</td>
+              <td>25.0</td>
+              <td>88.5</td>
+              <td>111.0</td>
+              <td>2.26e-26</td>
+          </tr>
+    
+          <tr>
+              <td>KON97023.1</td>
+              <td>NADPH--cytochrome_P450_reductase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002122.2">BGC0002122.2</a></td>
+              <td>NRPS:Type I</td>
+              <td>27.0</td>
+              <td>90.0</td>
+              <td>109.0</td>
+              <td>4.32e-25</td>
+          </tr>
+    
+          <tr>
+              <td>ctg1_orf257</td>
+              <td></td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001200.4">BGC0001200.4</a></td>
+              <td>PKS</td>
+              <td>29.0</td>
+              <td>71.4</td>
+              <td>107.0</td>
+              <td>1.17e-24</td>
+          </tr>
+    
+          <tr>
+              <td>ACO31275.1</td>
+              <td>PtmO2</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001140.5">BGC0001140.5</a></td>
+              <td>terpene:Diterpene</td>
+              <td>27.0</td>
+              <td>83.8</td>
+              <td>105.0</td>
+              <td>2.74e-24</td>
+          </tr>
+    
+          <tr>
+              <td>ADD83003.1</td>
+              <td>PtnO2</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001156.5">BGC0001156.5</a></td>
+              <td>terpene:Diterpene</td>
+              <td>38.0</td>
+              <td>36.4</td>
+              <td>104.0</td>
+              <td>5.05e-24</td>
+          </tr>
+    
+          <tr>
+              <td>CAO98851.1</td>
+              <td>cytochrome_P450_monooxygenase_AufH</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000023.5">BGC0000023.5</a></td>
+              <td>PKS:Type I</td>
+              <td>29.0</td>
+              <td>73.6</td>
+              <td>103.0</td>
+              <td>1.15e-23</td>
+          </tr>
+    
+          <tr>
+              <td>AAG27132.1</td>
+              <td>Fum6p</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000062.4">BGC0000062.4</a></td>
+              <td>PKS</td>
+              <td>25.0</td>
+              <td>93.7</td>
+              <td>105.0</td>
+              <td>1.44e-23</td>
+          </tr>
+    
+          <tr>
+              <td>AMQ48724.1</td>
+              <td>Eceriferum-u</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002403.2">BGC0002403.2</a></td>
+              <td>PKS</td>
+              <td>24.0</td>
+              <td>89.4</td>
+              <td>102.0</td>
+              <td>5.03e-23</td>
+          </tr>
+    
+          <tr>
+              <td>KGN46388.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001315.3">BGC0001315.3</a></td>
+              <td>terpene:Triterpene</td>
+              <td>33.0</td>
+              <td>37.2</td>
+              <td>97.0</td>
+              <td>2.97e-21</td>
+          </tr>
+    
+          <tr>
+              <td>EPS29076.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001724.4">BGC0001724.4</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>31.0</td>
+              <td>40.0</td>
+              <td>97.0</td>
+              <td>3.03e-21</td>
+          </tr>
+    
+          <tr>
+              <td>QIJ55910.1</td>
+              <td>lanosterol_14-alpha_demethylase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002449.2">BGC0002449.2</a></td>
+              <td>other:other</td>
+              <td>25.0</td>
+              <td>90.7</td>
+              <td>96.0</td>
+              <td>5.66e-21</td>
+          </tr>
+    
+          <tr>
+              <td>CYP82X2</td>
+              <td></td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001325.3">BGC0001325.3</a></td>
+              <td>other:other</td>
+              <td>33.0</td>
+              <td>39.0</td>
+              <td>96.0</td>
+              <td>1.13e-20</td>
+          </tr>
+    
+          <tr>
+              <td>CYP82X1</td>
+              <td></td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001325.3">BGC0001325.3</a></td>
+              <td>other:other</td>
+              <td>35.0</td>
+              <td>33.5</td>
+              <td>95.0</td>
+              <td>1.45e-20</td>
+          </tr>
+    
+          <tr>
+              <td>EDU47079.1</td>
+              <td>cytochrome_P450_52A11</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002250.2">BGC0002250.2</a></td>
+              <td>PKS+NRPS:Type I</td>
+              <td>35.0</td>
+              <td>42.0</td>
+              <td>94.0</td>
+              <td>3.29e-20</td>
+          </tr>
+    
+          <tr>
+              <td>AZZ09610.1</td>
+              <td>PvhE</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002304.3">BGC0002304.3</a></td>
+              <td>PKS+NRPS:Type I</td>
+              <td>35.0</td>
+              <td>37.9</td>
+              <td>94.0</td>
+              <td>4.59e-20</td>
+          </tr>
+    
+          <tr>
+              <td>QQW45471.1</td>
+              <td>bifunctional_cytochrome_P450/NADPH-P450_reductase_CalG&#39;</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002168.3">BGC0002168.3</a></td>
+              <td>PKS</td>
+              <td>26.0</td>
+              <td>91.8</td>
+              <td>94.0</td>
+              <td>8.03e-20</td>
+          </tr>
+    
+          <tr>
+              <td>BBM05078.1</td>
+              <td>putative_bifunctional_cytochrome_P450/NADPH-P450_reductase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002170.2">BGC0002170.2</a></td>
+              <td>PKS</td>
+              <td>26.0</td>
+              <td>91.8</td>
+              <td>94.0</td>
+              <td>8.03e-20</td>
+          </tr>
+    
+          <tr>
+              <td>QPP46751.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002500.2">BGC0002500.2</a></td>
+              <td>PKS</td>
+              <td>26.0</td>
+              <td>72.1</td>
+              <td>89.0</td>
+              <td>8.92e-19</td>
+          </tr>
+    
+          <tr>
+              <td>BAU61566.1</td>
+              <td>putative_cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001375.4">BGC0001375.4</a></td>
+              <td>terpene</td>
+              <td>31.0</td>
+              <td>40.9</td>
+              <td>89.0</td>
+              <td>1.35e-18</td>
+          </tr>
+    
+          <tr>
+              <td>ACB12565.1</td>
+              <td>Cpm1</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000063.3">BGC0000063.3</a></td>
+              <td>PKS</td>
+              <td>25.0</td>
+              <td>92.6</td>
+              <td>89.0</td>
+              <td>2.15e-18</td>
+          </tr>
+    
+          <tr>
+              <td>KGN46390.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001315.3">BGC0001315.3</a></td>
+              <td>terpene:Triterpene</td>
+              <td>27.0</td>
+              <td>40.3</td>
+              <td>87.0</td>
+              <td>7.55e-18</td>
+          </tr>
+    
+          <tr>
+              <td>BAD83681.1</td>
+              <td>cytochrome_P-450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000012.3">BGC0000012.3</a></td>
+              <td>PKS</td>
+              <td>34.0</td>
+              <td>38.5</td>
+              <td>86.0</td>
+              <td>1.46e-17</td>
+          </tr>
+    
+          <tr>
+              <td>UJI64972.1</td>
+              <td>RadD1</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002644.2">BGC0002644.2</a></td>
+              <td>other:other+terpene</td>
+              <td>30.0</td>
+              <td>42.4</td>
+              <td>86.0</td>
+              <td>1.9e-17</td>
+          </tr>
+    
+          <tr>
+              <td>AAZ95016.1</td>
+              <td>cytochrome_P450_monooxygenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000048.3">BGC0000048.3</a></td>
+              <td>PKS</td>
+              <td>30.0</td>
+              <td>42.4</td>
+              <td>85.0</td>
+              <td>2.42e-17</td>
+          </tr>
+    
+          <tr>
+              <td>AGO65988.1</td>
+              <td>putative_cytochrome_p450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000992.4">BGC0000992.4</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>32.0</td>
+              <td>37.4</td>
+              <td>85.0</td>
+              <td>2.76e-17</td>
+          </tr>
+    
+          <tr>
+              <td>EAL89316.1</td>
+              <td>cytochrome_P450_monooxygenase,_putative</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000686.3">BGC0000686.3</a></td>
+              <td>terpene</td>
+              <td>33.0</td>
+              <td>53.2</td>
+              <td>82.0</td>
+              <td>1.78e-16</td>
+          </tr>
+    
+          <tr>
+              <td>BAV32152.1</td>
+              <td>cytochrome_P450_monooxygenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001373.3">BGC0001373.3</a></td>
+              <td>PKS</td>
+              <td>33.0</td>
+              <td>35.1</td>
+              <td>82.0</td>
+              <td>1.95e-16</td>
+          </tr>
+    
+          <tr>
+              <td>CBF73446.1</td>
+              <td>cytochrome_P450,_putative_(Eurofung)</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001515.4">BGC0001515.4</a></td>
+              <td>NRPS:Type I</td>
+              <td>31.0</td>
+              <td>40.5</td>
+              <td>78.0</td>
+              <td>4.27e-15</td>
+          </tr>
+    
+          <tr>
+              <td>EEF48742.1</td>
+              <td>cytochrome_P450,_putative</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002393.2">BGC0002393.2</a></td>
+              <td>terpene</td>
+              <td>29.0</td>
+              <td>41.1</td>
+              <td>77.0</td>
+              <td>1.27e-14</td>
+          </tr>
+    
+          <tr>
+              <td>EAU36102.1</td>
+              <td>predicted_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002273.2">BGC0002273.2</a></td>
+              <td>NRPS:Type I</td>
+              <td>32.0</td>
+              <td>34.6</td>
+              <td>74.0</td>
+              <td>8.37e-14</td>
+          </tr>
+    
+          <tr>
+              <td>BBU37365.1</td>
+              <td>P450_monooxygenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002525.3">BGC0002525.3</a></td>
+              <td>PKS</td>
+              <td>31.0</td>
+              <td>37.7</td>
+              <td>72.0</td>
+              <td>5.87e-13</td>
+          </tr>
+    
+          <tr>
+              <td>KZM73518.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000632.5">BGC0000632.5</a></td>
+              <td>terpene+saccharide</td>
+              <td>33.0</td>
+              <td>36.1</td>
+              <td>71.0</td>
+              <td>8.9e-13</td>
+          </tr>
+    
+          <tr>
+              <td>UOH28367.1</td>
+              <td>AceR</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002149.2">BGC0002149.2</a></td>
+              <td>NRPS:Type I+terpene:Diterpene</td>
+              <td>29.0</td>
+              <td>37.2</td>
+              <td>71.0</td>
+              <td>9.63e-13</td>
+          </tr>
+    
+          <tr>
+              <td>GAP90685.1</td>
+              <td>putative_benzoate_4-monooxygenase_cytochrome</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002651.2">BGC0002651.2</a></td>
+              <td>terpene</td>
+              <td>30.0</td>
+              <td>35.7</td>
+              <td>70.0</td>
+              <td>1.68e-12</td>
+          </tr>
+    
+          <tr>
+              <td>ESU17757.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002172.3">BGC0002172.3</a></td>
+              <td>NRPS:Type I</td>
+              <td>29.0</td>
+              <td>37.9</td>
+              <td>67.0</td>
+              <td>1.56e-11</td>
+          </tr>
+    
+          <tr>
+              <td>BAU61568.1</td>
+              <td>putative_cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001375.4">BGC0001375.4</a></td>
+              <td>terpene</td>
+              <td>27.0</td>
+              <td>37.9</td>
+              <td>65.0</td>
+              <td>8.98e-11</td>
+          </tr>
+    
+          <tr>
+              <td>CBF82795.1</td>
+              <td>cytochrome_P450,_putative_(Eurofung)</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001668.4">BGC0001668.4</a></td>
+              <td>NRPS:Type I</td>
+              <td>29.0</td>
+              <td>34.0</td>
+              <td>65.0</td>
+              <td>9.02e-11</td>
+          </tr>
+    
+          <tr>
+              <td>EPS34235.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002067.3">BGC0002067.3</a></td>
+              <td>NRPS:Type I+PKS:Iterative type I</td>
+              <td>30.0</td>
+              <td>37.0</td>
+              <td>64.0</td>
+              <td>1.53e-10</td>
+          </tr>
+    
+          <tr>
+              <td>EIN09897.1</td>
+              <td>cytochrome_P450</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002220.2">BGC0002220.2</a></td>
+              <td>terpene</td>
+              <td>23.0</td>
+              <td>45.2</td>
+              <td>62.0</td>
+              <td>8.89e-10</td>
+          </tr>
+    
+          <tr>
+              <td>QVN25654.1</td>
+              <td>P450_monooxygenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002363.3">BGC0002363.3</a></td>
+              <td>ribosomal:RiPP</td>
+              <td>29.0</td>
+              <td>44.8</td>
+              <td>59.0</td>
+              <td>3.49e-09</td>
+          </tr>
+    
+          <tr>
+              <td>AKA59450.1</td>
+              <td>cytochrome_P450_hydroxylase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001203.4">BGC0001203.4</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>32.0</td>
+              <td>36.4</td>
+              <td>59.0</td>
+              <td>3.53e-09</td>
+          </tr>
+    
+          <tr>
+              <td>AFW60213.1</td>
+              <td>benzoxazinone_synthesis2</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000810.3">BGC0000810.3</a></td>
+              <td>other:other</td>
+              <td>26.0</td>
+              <td>38.1</td>
+              <td>56.0</td>
+              <td>3.3e-08</td>
+          </tr>
+    
+          <tr>
+              <td>AFW60212.1</td>
+              <td>benzoxazinone_synthesis2</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000810.3">BGC0000810.3</a></td>
+              <td>other:other</td>
+              <td>26.0</td>
+              <td>38.1</td>
+              <td>56.0</td>
+              <td>4.31e-08</td>
+          </tr>
+    
+          <tr>
+              <td>OQD69071.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002745.3">BGC0002745.3</a></td>
+              <td>PKS</td>
+              <td>27.0</td>
+              <td>37.0</td>
+              <td>56.0</td>
+              <td>7.51e-08</td>
+          </tr>
+    
+          <tr>
+              <td>QOG08943.1</td>
+              <td>FfsD</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002204.3">BGC0002204.3</a></td>
+              <td>PKS+NRPS:Type I</td>
+              <td>24.0</td>
+              <td>35.5</td>
+              <td>53.0</td>
+              <td>5.27e-07</td>
+          </tr>
+    
+          <tr>
+              <td>EHK22004.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001609.4">BGC0001609.4</a></td>
+              <td>NRPS:Type I</td>
+              <td>27.0</td>
+              <td>37.0</td>
+              <td>50.0</td>
+              <td>3.64e-06</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

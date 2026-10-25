@@ -1,0 +1,25 @@
+ClusterBlast scores for NODE_134_length_14179_cov_7.599630
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_03444	16	619	+	hypothetical protein	
+OMGOKNPM_03445	754	1807	+	hypothetical protein	
+OMGOKNPM_03446	1755	3273	+	Maltodextrin phosphorylase	
+OMGOKNPM_03447	3477	3786	-	hypothetical protein	
+OMGOKNPM_03448	3971	4844	+	AB hydrolase superfamily protein YdjP	
+OMGOKNPM_03449	4885	6241	-	hypothetical protein	
+OMGOKNPM_03450	6240	7227	-	Geranylgeranyl diphosphate synthase	
+OMGOKNPM_03451	7771	8167	+	2-iminobutanoate/2-iminopropanoate deaminase	
+OMGOKNPM_03452	8221	9163	+	hypothetical protein	
+OMGOKNPM_03453	9152	9479	-	Putative monooxygenase	
+OMGOKNPM_03454	9654	10467	+	HTH-type transcriptional regulator	
+OMGOKNPM_03455	10475	11498	+	F420-dependent glucose-6-phosphate dehydrogenase	
+OMGOKNPM_03456	11546	12374	+	hypothetical protein	
+OMGOKNPM_03457	12334	13528	-	Aldose 1-epimerase	
+OMGOKNPM_03458	13664	13829	+	hypothetical protein	
+OMGOKNPM_03459	13825	14077	+	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

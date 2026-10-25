@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ANW12118.1</td>
+              <td>tryptophan_6-halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001374.5">BGC0001374.5</a></td>
+              <td>other:other</td>
+              <td>83.0</td>
+              <td>90.4</td>
+              <td>170.0</td>
+              <td>8.86e-52</td>
+          </tr>
+    
+          <tr>
+              <td>AVR52621.1</td>
+              <td>tryptophan_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002443.3">BGC0002443.3</a></td>
+              <td>PKS</td>
+              <td>77.0</td>
+              <td>92.3</td>
+              <td>166.0</td>
+              <td>4.91e-50</td>
+          </tr>
+    
+          <tr>
+              <td>WP_030845397.1</td>
+              <td>tryptophan_7-halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001368.5">BGC0001368.5</a></td>
+              <td>NRPS:Type I</td>
+              <td>77.0</td>
+              <td>95.2</td>
+              <td>163.0</td>
+              <td>3.84e-49</td>
+          </tr>
+    
+          <tr>
+              <td>AKQ20699.1</td>
+              <td>tryptophan-6_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001337.5">BGC0001337.5</a></td>
+              <td>other:other</td>
+              <td>74.0</td>
+              <td>98.1</td>
+              <td>160.0</td>
+              <td>7.47e-48</td>
+          </tr>
+    
+          <tr>
+              <td>BAP16687.1</td>
+              <td>tryptophan_6-halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000376.5">BGC0000376.5</a></td>
+              <td>NRPS:Type I</td>
+              <td>73.0</td>
+              <td>89.4</td>
+              <td>155.0</td>
+              <td>7.45e-46</td>
+          </tr>
+    
+          <tr>
+              <td>BAC10682.1</td>
+              <td>putative_halogenase_of_tryptophan</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000821.5">BGC0000821.5</a></td>
+              <td>other:other</td>
+              <td>71.0</td>
+              <td>92.3</td>
+              <td>154.0</td>
+              <td>7.99e-46</td>
+          </tr>
+    
+          <tr>
+              <td>QXL90848.1</td>
+              <td>BabH2_tryptophan_7-halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002426.3">BGC0002426.3</a></td>
+              <td>NRPS:Type I</td>
+              <td>75.0</td>
+              <td>90.4</td>
+              <td>154.0</td>
+              <td>1.1e-45</td>
+          </tr>
+    
+          <tr>
+              <td>ABV56597.1</td>
+              <td>KtzQ</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000378.5">BGC0000378.5</a></td>
+              <td>NRPS:Type I</td>
+              <td>73.0</td>
+              <td>90.4</td>
+              <td>154.0</td>
+              <td>1.16e-45</td>
+          </tr>
+    
+          <tr>
+              <td>AGI62217.1</td>
+              <td>tryptophan_6-halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001335.5">BGC0001335.5</a></td>
+              <td>other:other</td>
+              <td>76.0</td>
+              <td>88.5</td>
+              <td>152.0</td>
+              <td>8.11e-45</td>
+          </tr>
+    
+          <tr>
+              <td>ABC02805.1</td>
+              <td>putative_tryptophan_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000809.3">BGC0000809.3</a></td>
+              <td>other:other</td>
+              <td>70.0</td>
+              <td>98.1</td>
+              <td>150.0</td>
+              <td>4.62e-44</td>
+          </tr>
+    
+          <tr>
+              <td>QJU69496.1</td>
+              <td>LooH</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002460.3">BGC0002460.3</a></td>
+              <td>other:other</td>
+              <td>69.0</td>
+              <td>85.6</td>
+              <td>141.0</td>
+              <td>6.32e-41</td>
+          </tr>
+    
+          <tr>
+              <td>ABW69174.1</td>
+              <td>PrnA</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000924.5">BGC0000924.5</a></td>
+              <td>other:other</td>
+              <td>63.0</td>
+              <td>80.8</td>
+              <td>124.0</td>
+              <td>1.22e-34</td>
+          </tr>
+    
+          <tr>
+              <td>QIS94332.1</td>
+              <td>Tjp10</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002482.2">BGC0002482.2</a></td>
+              <td>other:other</td>
+              <td>55.0</td>
+              <td>84.6</td>
+              <td>109.0</td>
+              <td>5.16e-29</td>
+          </tr>
+    
+          <tr>
+              <td>AHH53512.1</td>
+              <td>tryptophan_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000439.5">BGC0000439.5</a></td>
+              <td>NRPS:Type I</td>
+              <td>53.0</td>
+              <td>87.5</td>
+              <td>102.0</td>
+              <td>1.03e-26</td>
+          </tr>
+    
+          <tr>
+              <td>QEO74978.1</td>
+              <td>omn3</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002078.2">BGC0002078.2</a></td>
+              <td>NRPS:Type I</td>
+              <td>55.0</td>
+              <td>82.7</td>
+              <td>102.0</td>
+              <td>1.87e-26</td>
+          </tr>
+    
+          <tr>
+              <td>AEF32095.1</td>
+              <td>tryptophan_5-halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001333.5">BGC0001333.5</a></td>
+              <td>other:other</td>
+              <td>52.0</td>
+              <td>84.6</td>
+              <td>100.0</td>
+              <td>1.23e-25</td>
+          </tr>
+    
+          <tr>
+              <td>ANZ15833.1</td>
+              <td>tryptophan_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001569.4">BGC0001569.4</a></td>
+              <td>NRPS:Type I</td>
+              <td>50.0</td>
+              <td>84.6</td>
+              <td>99.0</td>
+              <td>1.69e-25</td>
+          </tr>
+    
+          <tr>
+              <td>OTA20326.1</td>
+              <td>tryptophan_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001824.4">BGC0001824.4</a></td>
+              <td>NRPS:Type I</td>
+              <td>52.0</td>
+              <td>80.8</td>
+              <td>99.0</td>
+              <td>1.69e-25</td>
+          </tr>
+    
+          <tr>
+              <td>QWT72300.1</td>
+              <td>tryptophan_7-halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002430.3">BGC0002430.3</a></td>
+              <td>NRPS:Type I+saccharide</td>
+              <td>54.0</td>
+              <td>83.7</td>
+              <td>98.0</td>
+              <td>6.25e-25</td>
+          </tr>
+    
+          <tr>
+              <td>AKQ20696.1</td>
+              <td>tryptophan-5_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001337.5">BGC0001337.5</a></td>
+              <td>other:other</td>
+              <td>49.0</td>
+              <td>84.6</td>
+              <td>97.0</td>
+              <td>1.53e-24</td>
+          </tr>
+    
+          <tr>
+              <td>AEO12707.1</td>
+              <td>halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001334.5">BGC0001334.5</a></td>
+              <td>other:other</td>
+              <td>48.0</td>
+              <td>84.6</td>
+              <td>97.0</td>
+              <td>1.54e-24</td>
+          </tr>
+    
+          <tr>
+              <td>PVC99855.1</td>
+              <td>tryptophan_7-halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002100.2">BGC0002100.2</a></td>
+              <td>NRPS:Type I+other:other</td>
+              <td>49.0</td>
+              <td>84.6</td>
+              <td>96.0</td>
+              <td>4.25e-24</td>
+          </tr>
+    
+          <tr>
+              <td>ARP51747.1</td>
+              <td>tryptophan_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001782.3">BGC0001782.3</a></td>
+              <td>other:other</td>
+              <td>47.0</td>
+              <td>84.6</td>
+              <td>94.0</td>
+              <td>1.92e-23</td>
+          </tr>
+    
+          <tr>
+              <td>AVR52618.1</td>
+              <td>tryptophan_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002443.3">BGC0002443.3</a></td>
+              <td>PKS</td>
+              <td>47.0</td>
+              <td>84.6</td>
+              <td>92.0</td>
+              <td>9.25e-23</td>
+          </tr>
+    
+          <tr>
+              <td>ATU31801.1</td>
+              <td>tryptophan_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001814.5">BGC0001814.5</a></td>
+              <td>NRPS:Type I</td>
+              <td>51.0</td>
+              <td>70.2</td>
+              <td>82.0</td>
+              <td>2.33e-19</td>
+          </tr>
+    
+          <tr>
+              <td>KUM80507.1</td>
+              <td>tryptophan_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001562.5">BGC0001562.5</a></td>
+              <td>NRPS:Type I</td>
+              <td>49.0</td>
+              <td>70.2</td>
+              <td>80.0</td>
+              <td>1.11e-18</td>
+          </tr>
+    
+          <tr>
+              <td>QEO75070.1</td>
+              <td>halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002079.2">BGC0002079.2</a></td>
+              <td>NRPS:Type I</td>
+              <td>51.0</td>
+              <td>70.2</td>
+              <td>78.0</td>
+              <td>5.31e-18</td>
+          </tr>
+    
+          <tr>
+              <td>DAC74150.1</td>
+              <td>tryptophan_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002019.3">BGC0002019.3</a></td>
+              <td>terpene</td>
+              <td>48.0</td>
+              <td>70.2</td>
+              <td>74.0</td>
+              <td>2.23e-16</td>
+          </tr>
+    
+          <tr>
+              <td>AHB82073.1</td>
+              <td>tryptophan_halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001231.5">BGC0001231.5</a></td>
+              <td>NRPS:Type I+PKS:Type I</td>
+              <td>38.0</td>
+              <td>84.6</td>
+              <td>68.0</td>
+              <td>1.77e-14</td>
+          </tr>
+    
+          <tr>
+              <td>OKH92601.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002343.3">BGC0002343.3</a></td>
+              <td>other:other+ribosomal:RiPP</td>
+              <td>37.0</td>
+              <td>87.5</td>
+              <td>64.0</td>
+              <td>7.55e-13</td>
+          </tr>
+    
+          <tr>
+              <td>ADK32563.1</td>
+              <td>tryptophan-5-halogenase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000529.5">BGC0000529.5</a></td>
+              <td>ribosomal:RiPP:Lanthipeptide</td>
+              <td>38.0</td>
+              <td>94.2</td>
+              <td>61.0</td>
+              <td>6.6e-12</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

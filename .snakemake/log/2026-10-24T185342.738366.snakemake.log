@@ -1,0 +1,21 @@
+Assuming unrestricted shared filesystem usage.
+
+SNAKEMAKE
+=========
+  Date: 2026-10-24 18:53:42
+  Workflow ID: 144d005d-3b20-443d-bde4-a8db9ebaac96
+  Platform: Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.39
+  Host: akhil
+  User: akhil
+  Snakemake version: 9.27.1
+  Python version: 3.11.9 | packaged by conda-forge | (main, Apr 19 2024, 18:36:13) [GCC 12.3.0]
+  Command: /home/akhil/miniforge3/envs/full_assembly_env/bin/snakemake --cores 12 --printshellcmds
+  Snakefile: /home/akhil/snakemake_assembly/Snakefile
+  Base directory: /home/akhil/snakemake_assembly
+  Run directory: /home/akhil/snakemake_assembly
+  Working directory: /home/akhil/snakemake_assembly
+  Config file(s): []
+  Config MD5: 99914b932bd37a50b983c5e7c90ae93b
+
+Building DAG of jobs...
+Nothing to be done (all requested files are present and up to date).

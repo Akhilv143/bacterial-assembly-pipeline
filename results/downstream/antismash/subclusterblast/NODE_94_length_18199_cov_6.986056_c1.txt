@@ -1,0 +1,30 @@
+ClusterBlast scores for NODE_94_length_18199_cov_6.986056
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_02826	221	1085	-	hypothetical protein	
+OMGOKNPM_02827	1268	2285	-	hypothetical protein	
+OMGOKNPM_02828	2281	2791	-	hypothetical protein	
+OMGOKNPM_02829	2766	3918	-	Polyketide synthase-like Pks10	
+OMGOKNPM_02830	4019	5168	+	hypothetical protein	
+OMGOKNPM_02831	5219	5846	-	hypothetical protein	
+OMGOKNPM_02832	5888	7283	-	hypothetical protein	
+OMGOKNPM_02833	7355	8159	-	1,2-epoxyphenylacetyl-CoA isomerase	
+OMGOKNPM_02834	8312	9410	+	Alpha-methylacyl-CoA racemase	
+OMGOKNPM_02835	9467	10229	+	putative oxidoreductase	
+OMGOKNPM_02836	10365	10521	-	hypothetical protein	
+OMGOKNPM_02837	11131	13219	+	Trehalose monomycolate exporter MmpL3	
+OMGOKNPM_02838	13226	13919	+	hypothetical protein	
+OMGOKNPM_02839	13915	14554	+	hypothetical protein	
+OMGOKNPM_02840	14661	15378	-	NAD-dependent protein deacylase	
+OMGOKNPM_02841	15436	15802	+	HTH-type transcriptional regulator	
+OMGOKNPM_02842	15811	16084	-	hypothetical protein	
+OMGOKNPM_02843	16073	16649	-	hypothetical protein	
+OMGOKNPM_02844	16663	17179	-	hypothetical protein	
+OMGOKNPM_02845	17235	17679	+	F420H(2)-dependent reductase	
+OMGOKNPM_02846	17701	17890	+	putative proteinA	
+
+
+Significant hits: 
+
+
+Details:

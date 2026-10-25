@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ONK09688.1</td>
+              <td>Alpha-pyrone_synthesis_polyketide_synthase-like_Pks11</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001647.3">BGC0001647.3</a></td>
+              <td>PKS</td>
+              <td>31.0</td>
+              <td>69.3</td>
+              <td>124.0</td>
+              <td>4.64e-32</td>
+          </tr>
+    
+          <tr>
+              <td>BAL92976.1</td>
+              <td>putative_type-III_polyketide_synthase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001077.4">BGC0001077.4</a></td>
+              <td>PKS:Type III</td>
+              <td>31.0</td>
+              <td>80.6</td>
+              <td>123.0</td>
+              <td>9.25e-32</td>
+          </tr>
+    
+          <tr>
+              <td>QZS07521.1</td>
+              <td>type_III_polyketide_synthase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002362.3">BGC0002362.3</a></td>
+              <td>PKS</td>
+              <td>29.0</td>
+              <td>80.6</td>
+              <td>116.0</td>
+              <td>2.23e-29</td>
+          </tr>
+    
+          <tr>
+              <td>AAL78053.1</td>
+              <td>RppA</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000285.5">BGC0000285.5</a></td>
+              <td>PKS:Type III+saccharide:oligosaccharide</td>
+              <td>26.0</td>
+              <td>89.2</td>
+              <td>105.0</td>
+              <td>2.36e-25</td>
+          </tr>
+    
+          <tr>
+              <td>CAM00568.1</td>
+              <td>putative_type_III_polyketide_synthase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000902.4">BGC0000902.4</a></td>
+              <td>PKS</td>
+              <td>26.0</td>
+              <td>89.2</td>
+              <td>103.0</td>
+              <td>1.58e-24</td>
+          </tr>
+    
+          <tr>
+              <td>AMQ48725.1</td>
+              <td>Eceriferum-c</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002403.2">BGC0002403.2</a></td>
+              <td>PKS</td>
+              <td>28.0</td>
+              <td>72.0</td>
+              <td>98.0</td>
+              <td>1.73e-22</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

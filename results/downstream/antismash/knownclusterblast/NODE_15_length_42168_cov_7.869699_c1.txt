@@ -1,0 +1,38 @@
+ClusterBlast scores for NODE_15_length_42168_cov_7.869699
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_00804	27	246	+	hypothetical protein	
+OMGOKNPM_00805	242	926	+	Uracil-DNA glycosylase	
+OMGOKNPM_00806	931	1864	+	2-haloacrylate reductase	
+OMGOKNPM_00807	1913	2564	+	Nitrobenzene nitroreductase	
+OMGOKNPM_00808	2719	2914	-	Large ribosomal subunit protein bL28C	
+OMGOKNPM_00809	3195	4890	+	putative protein	
+OMGOKNPM_00810	4892	7124	+	ATP-dependent DNA helicase RecG	
+OMGOKNPM_00811	7140	7842	+	hypothetical protein	
+OMGOKNPM_00812	7846	8635	-	Aldo-keto reductase	
+OMGOKNPM_00813	8661	9243	+	hypothetical protein	
+OMGOKNPM_00814	9262	10381	+	Carboxylic ester hydrolase LipN	
+OMGOKNPM_00815	10567	11335	+	hypothetical protein	
+OMGOKNPM_00816	11340	11979	+	hypothetical protein	
+OMGOKNPM_00817	12021	15417	+	Pyruvate carboxylase	
+OMGOKNPM_00818	15494	15968	+	RNA/DNA methyltransferase	
+OMGOKNPM_00819	16041	16515	+	Phosphopantetheine adenylyltransferase	
+OMGOKNPM_00820	16588	16771	-	hypothetical protein	
+OMGOKNPM_00821	16927	17824	-	Formyltetrahydrofolate deformylase	
+OMGOKNPM_00822	17857	19039	-	Putative permease	
+OMGOKNPM_00823	19537	20800	+	PGL/p-HBAD biosynthesis rhamnosyltransferase	
+OMGOKNPM_00824	20960	21758	+	hypothetical protein	
+OMGOKNPM_00825	21808	23065	-	Trans-acting enoyl reductase	
+OMGOKNPM_00826	23346	24435	+	Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase	
+OMGOKNPM_00827	25270	27133	+	4-hydroxyphenylalkanoate adenylyltransferase	
+OMGOKNPM_00828	27167	27776	+	Chorismate pyruvate-lyase	
+OMGOKNPM_00829	27894	30003	+	p-hydroxybenzoic acid--AMP ligase FadD22	
+OMGOKNPM_00831	36748	37438	+	Putative phthiocerol dimycocerosate transporter LppX	
+OMGOKNPM_00832	37477	40228	-	Phthiocerol dimycocerosate exporter MmpL7	
+OMGOKNPM_00833	40229	42044	-	Long-chain-fatty-acid--AMP ligase FadD28	
+
+
+Significant hits: 
+
+
+Details:

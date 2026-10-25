@@ -1,0 +1,95 @@
+Assuming unrestricted shared filesystem usage.
+
+SNAKEMAKE
+=========
+  Date: 2026-10-24 18:55:18
+  Workflow ID: 83667c63-6f14-472d-bbb9-9b1204b9d073
+  Platform: Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.39
+  Host: akhil
+  User: akhil
+  Snakemake version: 9.27.1
+  Python version: 3.11.9 | packaged by conda-forge | (main, Apr 19 2024, 18:36:13) [GCC 12.3.0]
+  Command: /home/akhil/miniforge3/envs/full_assembly_env/bin/snakemake --cores 12 --printshellcmds
+  Snakefile: /home/akhil/snakemake_assembly/Snakefile
+  Base directory: /home/akhil/snakemake_assembly
+  Run directory: /home/akhil/snakemake_assembly
+  Working directory: /home/akhil/snakemake_assembly
+  Config file(s): []
+  Config MD5: 99914b932bd37a50b983c5e7c90ae93b
+
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job stats:
+job         count
+--------  -------
+abricate        1
+prokka          1
+multiqc         1
+all             1
+total           4
+
+Select jobs to execute...
+Execute 2 jobs...
+[Sat Oct 24 18:55:18 2026]
+localrule prokka:
+    input: results/spades/ERR3335404/contigs.fasta
+    output: results/prokka/ERR3335404/ERR3335404.gff, results/prokka/ERR3335404/ERR3335404.txt
+    jobid: 7
+    reason: Missing output files: results/prokka/ERR3335404/ERR3335404.txt
+    wildcards: sample=ERR3335404
+    threads: 8
+    resources: tmpdir=/tmp
+Shell command: 
+        rm -rf results/prokka/ERR3335404
+        prokka --outdir results/prokka/ERR3335404 --prefix ERR3335404 --cpus 8 results/spades/ERR3335404/contigs.fasta
+        
+[Sat Oct 24 18:55:18 2026]
+localrule abricate:
+    input: results/spades/ERR3335404/contigs.fasta
+    output: results/abricate/ERR3335404_amr.csv
+    jobid: 8
+    reason: Missing output files: results/abricate/ERR3335404_amr.csv
+    wildcards: sample=ERR3335404
+    threads: 4
+    resources: tmpdir=/tmp
+Shell command: 
+        mkdir -p results/abricate
+        abricate --threads 4 results/spades/ERR3335404/contigs.fasta > results/abricate/ERR3335404_amr.csv
+        
+[Sat Oct 24 18:55:26 2026]
+Finished jobid: 8 (Rule: abricate)
+1 of 4 steps (25%) done
+[Sat Oct 24 18:59:13 2026]
+Finished jobid: 7 (Rule: prokka)
+2 of 4 steps (50%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Sat Oct 24 18:59:13 2026]
+localrule multiqc:
+    input: results/fastqc/raw/ERR3335404_1_fastqc.zip, results/fastqc/trimmed/ERR3335404_1_trimmed_fastqc.zip, results/quast/ERR3335404/report.html, results/prokka/ERR3335404/ERR3335404.txt
+    output: results/multiqc/multiqc_report.html
+    jobid: 1
+    reason: Input files updated by another job: results/prokka/ERR3335404/ERR3335404.txt
+    resources: tmpdir=/tmp
+Shell command: 
+        multiqc -f results/ -o results/multiqc/
+        
+[Sat Oct 24 18:59:19 2026]
+Finished jobid: 1 (Rule: multiqc)
+3 of 4 steps (75%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Sat Oct 24 18:59:19 2026]
+localrule all:
+    input: results/multiqc/multiqc_report.html, results/prokka/ERR3335404/ERR3335404.txt, results/abricate/ERR3335404_amr.csv
+    jobid: 0
+    reason: Input files updated by another job: results/multiqc/multiqc_report.html, results/abricate/ERR3335404_amr.csv, results/prokka/ERR3335404/ERR3335404.txt
+    resources: tmpdir=/tmp
+Shell command: None
+[Sat Oct 24 18:59:19 2026]
+Finished jobid: 0 (Rule: all)
+4 of 4 steps (100%) done
+Complete log(s): /home/akhil/snakemake_assembly/.snakemake/log/2026-10-24T185518.259469.snakemake.log
+Elapsed time: 0:04:01.587118

@@ -1,0 +1,317 @@
+LOCUS       NODE_319_length_3980_cov_12.948871 3980 bp    DNA              UNK 01-JAN-1980
+DEFINITION  NODE_319_length_3980_cov_12.948871.
+ACCESSION   NODE_319_length_3980_cov_12
+VERSION     NODE_319_length_3980_cov_12.948871
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+COMMENT     ##antiSMASH-Data-START##
+            Version     :: 8.0.4
+            Run date    :: 2026-10-24 19:50:07
+            NOTE :: This is a single region extracted from a larger record!
+            Orig. start :: 0
+            Orig. end   :: 3980
+            ##antiSMASH-Data-END##
+FEATURES             Location/Qualifiers
+     region          1..3980
+                     /candidate_cluster_numbers="1"
+                     /contig_edge="True"
+                     /product="PKS-like"
+                     /region_number="1"
+                     /rules="(t2pks2 or ksIII)"
+                     /tool="antismash"
+     cand_cluster    1..3980
+                     /candidate_cluster_number="1"
+                     /contig_edge="True"
+                     /detection_rules="(t2pks2 or ksIII)"
+                     /kind="single"
+                     /product="PKS-like"
+                     /protoclusters="1"
+                     /tool="antismash"
+     protocluster    1..3980
+                     /aStool="rule-based-clusters"
+                     /category="PKS"
+                     /contig_edge="True"
+                     /core_location="[2530:3517](+)"
+                     /cutoff="10000"
+                     /detection_rule="(t2pks2 or ksIII)"
+                     /neighbourhood="20000"
+                     /product="PKS-like"
+                     /protocluster_number="1"
+                     /tool="antismash"
+     proto_core      2531..3517
+                     /aStool="rule-based-clusters"
+                     /tool="antismash"
+                     /cutoff="10000"
+                     /detection_rule="(t2pks2 or ksIII)"
+                     /neighbourhood="20000"
+                     /product="PKS-like"
+                     /protocluster_number="1"
+     CDS             complement(100..237)
+                     /ID="OMGOKNPM_04976"
+                     /gene="OMGOKNPM_04976"
+                     /inference="ab initio prediction:Prodigal:v2.6"
+                     /locus_tag="OMGOKNPM_04976"
+                     /phase="0"
+                     /product="hypothetical protein"
+                     /source="Prodigal:v2.6"
+                     /transl_table=11
+                     /translation="MDFQFDFTTDSKAVKIASMVDEHIRESLLNIVERSITAQGSGVVD
+                     "
+     CDS             complement(425..565)
+                     /ID="OMGOKNPM_04977"
+                     /gene="OMGOKNPM_04977"
+                     /inference="ab initio prediction:Prodigal:v2.6"
+                     /locus_tag="OMGOKNPM_04977"
+                     /phase="0"
+                     /product="hypothetical protein"
+                     /source="Prodigal:v2.6"
+                     /transl_table=11
+                     /translation="MLKEVLGMSERLACKAVGRAHSTYRRTPLAATLADPDALLRQWLR
+                     T"
+     CDS             879..1283
+                     /ID="OMGOKNPM_04978"
+                     /gene="OMGOKNPM_04978"
+                     /inference="ab initio prediction:Prodigal:v2.6"
+                     /inference="similar to AA sequence:ISfinder:ISMch6"
+                     /locus_tag="OMGOKNPM_04978"
+                     /phase="0"
+                     /product="IS110 family transposase ISMch6"
+                     /source="Prodigal:v2.6"
+                     /transl_table=11
+                     /translation="MGRSSRAIIGGVDTHAATHHGAVIDSRGRLLADAEYPASGRGYAA
+                     MLAWMRSKGNLTKVSVEGTGAYGAGLARYLHEQGVEVLEVPRPDRRIRRQRGKSDPIDA
+                     EAAARTVLAGRASGAPKLVDGPIEAIRICG"
+     PFAM_domain     909..1220
+                     /aSDomain="DEDD_Tnp_IS110"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF01548.20"
+                     /db_xref="GO:0003677"
+                     /db_xref="GO:0004803"
+                     /db_xref="GO:0006313"
+                     /description="Transposase"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_OMGOKNPM_04978_0001"
+                     /evalue="2.90E-15"
+                     /gene_ontologies="GO:0003677: DNA binding"
+                     /gene_ontologies="GO:0004803: transposase activity"
+                     /gene_ontologies="GO:0006313: DNA transposition"
+                     /label="OMGOKNPM_04978"
+                     /locus_tag="OMGOKNPM_04978"
+                     /protein_end="114"
+                     /protein_start="10"
+                     /score="56.6"
+                     /tool="antismash"
+                     /translation="GVDTHAATHHGAVIDSRGRLLADAEYPASGRGYAAMLAWMRSKGN
+                     LTKVSVEGTGAYGAGLARYLHEQGVEVLEVPRPDRRIRRQRGKSDPIDAEAAARTVLAG
+                     "
+     CDS             1337..1933
+                     /ID="OMGOKNPM_04979"
+                     /gene="OMGOKNPM_04979"
+                     /gene_functions="other (smcogs) SMCOG1237: transposase"
+                     /gene_kind="other"
+                     /inference="ab initio prediction:Prodigal:v2.6"
+                     /inference="similar to AA sequence:ISfinder:ISLxx2"
+                     /locus_tag="OMGOKNPM_04979"
+                     /phase="0"
+                     /product="IS110 family transposase ISLxx2"
+                     /source="Prodigal:v2.6"
+                     /transl_table=11
+                     /translation="MLITTPDTLRSQLHGLSSAQLVAACTKLRPDAANLTDPVQAAKAA
+                     LRSIATRTRQLELESQALRTQLDGLIKSVAPATSTVFGLGPDTTSALLVTIGDNPDRLR
+                     SEAAFARLCGVAPIPASSGKTHRHRLHRGGDRTGNRALHIAAVVRLRYDPRSRAYADRR
+                     TSEGLSKPKIIRCQKRYLAREVFDALRTNFTKLNT"
+     PFAM_domain     1574..1813
+                     /aSDomain="Transposase_20"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF02371.19"
+                     /db_xref="GO:0003677"
+                     /db_xref="GO:0004803"
+                     /db_xref="GO:0006313"
+                     /description="Transposase IS116/IS110/IS902 family"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_OMGOKNPM_04979_0002"
+                     /evalue="3.60E-18"
+                     /gene_ontologies="GO:0003677: DNA binding"
+                     /gene_ontologies="GO:0004803: transposase activity"
+                     /gene_ontologies="GO:0006313: DNA transposition"
+                     /label="OMGOKNPM_04979"
+                     /locus_tag="OMGOKNPM_04979"
+                     /protein_end="159"
+                     /protein_start="79"
+                     /score="65.7"
+                     /tool="antismash"
+                     /translation="TVFGLGPDTTSALLVTIGDNPDRLRSEAAFARLCGVAPIPASSGK
+                     THRHRLHRGGDRTGNRALHIAAVVRLRYDPRSRAY"
+     CDS             complement(2006..2182)
+                     /ID="OMGOKNPM_04980"
+                     /gene="OMGOKNPM_04980"
+                     /inference="ab initio prediction:Prodigal:v2.6"
+                     /locus_tag="OMGOKNPM_04980"
+                     /phase="0"
+                     /product="hypothetical protein"
+                     /source="Prodigal:v2.6"
+                     /transl_table=11
+                     /translation="MRKLRRADELAAAGKINEEIAAELEVSPSTLYDWRCGYGAWTWTR
+                     ARSSKNCGNRTPA"
+     PFAM_domain     complement(2069..2155)
+                     /aSDomain="HTH_23"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF13384.9"
+                     /description="Homeodomain-like domain"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_OMGOKNPM_04980_0003"
+                     /evalue="1.70E-05"
+                     /label="OMGOKNPM_04980"
+                     /locus_tag="OMGOKNPM_04980"
+                     /protein_end="38"
+                     /protein_start="9"
+                     /score="24.7"
+                     /tool="antismash"
+                     /translation="LAAAGKINEEIAAELEVSPSTLYDWRCGY"
+     CDS             2531..3517
+                     /ID="OMGOKNPM_04981"
+                     /Name="fabH_4"
+                     /db_xref="COG:COG0332"
+                     /eC_number="2.3.1.180"
+                     /gene="fabH_4"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     PKS-like: ksIII"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1084: 3-oxoacyl-(acyl carrier protein) synthase III"
+                     /gene_kind="biosynthetic"
+                     /inference="ab initio prediction:Prodigal:v2.6"
+                     /inference="similar to AA sequence:UniProtKB:O67185"
+                     /locus_tag="OMGOKNPM_04981"
+                     /phase="0"
+                     /product="Beta-ketoacyl-[acyl-carrier-protein] synthase
+                     III"
+                     /sec_met_domain="ksIII (E-value: 6.6e-25, bitscore: 76.5,
+                     seeds: 7, tool: rule-based-clusters)"
+                     /source="Prodigal:v2.6"
+                     /transl_table=11
+                     /translation="MIWNDIYISGTGRFIPSMRPINDIQVDGVPNDHTIVQSDYISFTE
+                     ADEPATVMATRAATEALTASELVSADVGVLIYAAIIGDAHHFAPVCHVQRVLRAPDALA
+                     FELSAASNGGTQGIAVAANLMTADASVKAALVCTAYRHPIDIISRWSSGMVFGDGAAAA
+                     VLSRDGGMVRLISGYHGSLPELEVLARNRSNERLGFVLPDVGLGKYLTAIARMYQAVIA
+                     QVLEEAQTSIAEIDYFGLIGIGIPSLTATILEPNGIPVNKTSWGLLRQMGHVGACDPLL
+                     SLNHLFEQNVLKRGDKVLLLGGGVGYRLTCIVAEIAMNPGVPGHSTS"
+     PFAM_domain     2843..3037
+                     /aSDomain="ACP_syn_III"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF08545.13"
+                     /db_xref="GO:0004315"
+                     /db_xref="GO:0006633"
+                     /description="3-Oxoacyl-[acyl-carrier-protein (ACP)]
+                     synthase III"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_OMGOKNPM_04981_0004"
+                     /evalue="7.50E-09"
+                     /gene_ontologies="GO:0004315:
+                     3-oxoacyl-[acyl-carrier-protein] synthase activity"
+                     /gene_ontologies="GO:0006633: fatty acid biosynthetic
+                     process"
+                     /label="OMGOKNPM_04981"
+                     /locus_tag="OMGOKNPM_04981"
+                     /protein_end="169"
+                     /protein_start="104"
+                     /score="35.5"
+                     /tool="antismash"
+                     /translation="FELSAASNGGTQGIAVAANLMTADASVKAALVCTAYRHPIDIISR
+                     WSSGMVFGDGAAAAVLSRDG"
+     PFAM_domain     3203..3475
+                     /aSDomain="ACP_syn_III_C"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF08541.13"
+                     /description="3-Oxoacyl-[acyl-carrier-protein (ACP)]
+                     synthase III C terminal"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_OMGOKNPM_04981_0005"
+                     /evalue="3.60E-11"
+                     /label="OMGOKNPM_04981"
+                     /locus_tag="OMGOKNPM_04981"
+                     /protein_end="315"
+                     /protein_start="224"
+                     /score="43.2"
+                     /tool="antismash"
+                     /translation="LEEAQTSIAEIDYFGLIGIGIPSLTATILEPNGIPVNKTSWGLLR
+                     QMGHVGACDPLLSLNHLFEQNVLKRGDKVLLLGGGVGYRLTCIVAE"
+     misc_feature    3847..3867
+                     /note="TFBS match to MntR, Manganese transport regulator,
+                     confidence: weak, score: 24.98"
+                     /tool="antismash"
+ORIGIN
+        1 cggcgccgac aacatcgccg aagcctgccg gatcaccgct ctgaccgcca accaccgcct
+       61 agaccacctc aatccacaat tccccagctc acaagcctgc taatcaacaa cgccggagcc
+      121 ctgggcggta atcgagcgct ccacgatgtt cagcaacgat tctcggatgt gctcgtcgac
+      181 cattgaagcg atcttgaccg ctttgctgtc tgtggtgaag tcgaactgga aatccatcgc
+      241 cacaacacct tcggcgcatc tgcctcgccg tgcggggcgg tgcaggcatc agcacgtttg
+      301 cgcggctgtg cactcgacgc tgcagccccc tgttttcgct gccggtgttg ttcacgtcgc
+      361 ggtgctcgtc gtggcgcagg gtcgccctca cgcagcgaaa cccatggcag aggtgtttgg
+      421 cggactaggt ccgcagccac tgccgtagca gggcatcagg gtcagccagg gtagccgcga
+      481 gcggggtgcg gcgataggtg gagtgggcac gcccgaccgc cttgcacgcc agccgttccg
+      541 acatgcccag aacctctttg agcatgtcca cggctcggcg tttggcgtcc gggctcagaa
+      601 ttttccagtg atgattggat gggtgctggc cggatggtgt gaccccgaag tttccagtga
+      661 tgattgggtg ctggccggat ggtgtgaccc cgaagtttcc tggccgacga tttgtgcctt
+      721 gcgtaggacc tgtcgaccct gcggccagca cctagcccca aggaaccagg ggcgccgccc
+      781 gcgcaggatg tgacctcaca ggagcgtgct cgcccgcagc ccgtcactgg cctgtccgcc
+      841 ctgctcggcg atgcccgacg acaggaagga caaccggtat gggccggagt tcacgagcca
+      901 tcatcggcgg cgtggatacg cacgcagcaa ctcatcacgg cgcggtcatc gattcacgtg
+      961 gccggctgct cgctgacgcc gaatacccgg cctcggggcg cggttatgcc gcgatgctgg
+     1021 cgtggatgcg cagcaaagga aacctcacaa aagttagcgt cgaaggaacc ggcgcctacg
+     1081 gggccgggct tgcccgctac ctgcacgagc agggcgtcga ggtgcttgag gtgccccgcc
+     1141 ccgaccggcg catccgtcgg cagcgcggca agagcgaccc gatcgatgct gaagccgcgg
+     1201 cacgaaccgt cttggcaggt cgggcaagcg gagctccgaa gctagtcgat gggccgatcg
+     1261 aagccatccg catctgcggg tagcccgcag cggtgcggtc aaagccaaaa ccgccgcggt
+     1321 caacgccctg cgcgcgatgc tcatcactac gcccgacacg ctgcgttctc agctacacgg
+     1381 cctgtcttcg gcccaactcg ttgccgcatg caccaagtta cgtcccgacg cggctaatct
+     1441 caccgacccg gttcaagccg ccaaagccgc gttgcgttcg atcgcgaccc gcacacgcca
+     1501 gctcgaactc gaatcacagg ctctgcgaac ccaactcgac ggactcatca aatcggtcgc
+     1561 gcccgccacc agcaccgtct tcgggctcgg gccagacacc acatccgcgc tgctggtcac
+     1621 catcggagac aaccccgacc ggctacgcag cgaggcggcg ttcgcccgcc tatgcggagt
+     1681 agccccgatc cccgcctcat ccgggaaaac ccaccgccat cggctacacc gcggcggcga
+     1741 cagaaccggc aaccgcgccc tgcacatcgc cgcagtcgtg cgcctgcgct acgacccacg
+     1801 cagccgcgcc tacgccgacc gccgcacctc cgaaggccta tcgaagccca aaatcatccg
+     1861 ctgccagaag cgttaccttg cccgcgaagt ctttgacgcg ctacgcacta acttcaccaa
+     1921 actcaacact tgacatctat aggaacgtcc ttggcgacct cccgcagggc gtccttcacc
+     1981 agctaggtct cggccggcag ccgcttcagg cgggtgttct gttcccgcag ttctttgagc
+     2041 tccttgcccg cgtccacgtc catgcgccgt agccgcatcg ccagtcgtac agcgtggacg
+     2101 gcgacacctc cagctcggcc gcgatctctt cgttgatctt gcccgccgcg gccagctcat
+     2161 cagcgcggcg cagcttgcgc accacgtcct cggccgaata ccccttacga ccagccccgt
+     2221 cgactcatcg tccctccacg cccctccacg cccccattcg gggcatatga cctcctgatg
+     2281 atcactctgc cctcgactcc cgcaacggcg gacctacagc atgggcacag atcaggcgga
+     2341 ctcattggct ggggacacgc gaccatcttc gtggcaaatg acgcccaccg aatcgtctcc
+     2401 ctctctgatc gtttagactg ctaacgcgga ggaaccacga gatcgagcgt tcacgcacgc
+     2461 tacctctgtg ggctcggccc ttgataacga tctgcaagtc aagagtagcg agatatcgga
+     2521 gaaccagcgc gtgatttgga atgacatcta cataagtgga acggggcgtt tcatcccgtc
+     2581 aatgcgacca attaatgata tccaggtcga cggtgttccg aatgatcata ctatcgtgca
+     2641 atccgattac atttccttca ccgaagccga tgagccggct acagtcatgg ccacgcgcgc
+     2701 tgcaaccgaa gcgctgaccg cttccgagct agtatccgct gatgttggcg tcttgatata
+     2761 tgccgcgatc atcggcgatg cgcatcattt tgcccccgta tgtcacgtcc aaagagtcct
+     2821 ccgggcgccc gatgcgctgg cattcgaact ttccgcagca agtaacggtg gaacacaagg
+     2881 catcgcagtt gctgcaaatc tcatgacagc tgacgcgtcc gtgaaagctg cactcgtttg
+     2941 tacagcttac cggcacccga tcgatattat cagccgttgg tcgtcaggta tggtattcgg
+     3001 cgatggagca gccgctgccg tgctttcaag agacggcgga atggtgcgat tgatttccgg
+     3061 gtatcacggc tcactgccgg agctagaggt tcttgctaga aatcgatcca acgaacgact
+     3121 tggctttgtg ctgccagacg tcgggttagg aaaataccta actgctatag cgcggatgta
+     3181 ccaagcggta attgcgcaag tactagaaga ggcacaaact agtattgccg agatcgacta
+     3241 tttcggcctg atcggtatag gaattccaag tctcacagcg actatcttag aacccaacgg
+     3301 tattccagtt aataaaacat cctggggttt gctaagacaa atgggccacg ttggagcttg
+     3361 cgatcccctg ctgagcctta accacctatt cgagcagaat gtcctcaagc gcggcgacaa
+     3421 agtcctactc ctgggtggcg gggtggggta tcgattgaca tgcattgtgg ctgaaatcgc
+     3481 catgaatccc ggcgtgcccg gacactccac ttcgtagtga aaagcgaagg tgaaggccat
+     3541 gtctgtacgt gcgtcaaaca ggctcttcga cgttggctgg gcagtgagtg gtgagtctgg
+     3601 gttgcggccc gccgtttgcg ggtgcagtgg aattgtgtcc ggcgggcgga gttgtttggg
+     3661 tttcggaagc cgcagctgac gcgtttgacg gctcttccgg cttgatgggg gtctggtgtg
+     3721 gccgattccg gatcgtgtcg gtgattgatt agcggctggc gcccttgtga acagggtgtt
+     3781 ctcacgcatc cagatcgcag agaggcgcga gcttgtctgg cggtagtaca ttgctgctgg
+     3841 gtcttgaggc agagctccgg cgttgttgat tagcaggctt gtgagctggg gaattgtgga
+     3901 ttgaggaggt ctaggcggcg gttggcggtc aaagcggtga tccggcaggc ttcggcgatg
+     3961 ttgtcggcgc cgttgaggcg
+//

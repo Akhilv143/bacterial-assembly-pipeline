@@ -1,0 +1,221 @@
+ClusterBlast scores for NODE_11_length_47378_cov_7.307993
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_00617	706	2782	-	Penicillin-binding protein PbpB	
+OMGOKNPM_00618	2778	4050	-	hypothetical protein	
+OMGOKNPM_00619	4046	5261	-	Ribosomal RNA small subunit methyltransferase H	
+OMGOKNPM_00620	5235	5667	-	Transcriptional regulator MraZ	
+OMGOKNPM_00621	6075	6480	-	hypothetical protein	
+OMGOKNPM_00622	6575	7421	+	hypothetical protein	
+OMGOKNPM_00623	7570	8212	+	Protein LppM	
+OMGOKNPM_00624	8257	9154	-	hypothetical protein	
+OMGOKNPM_00625	9478	10501	+	(2E,6E)-farnesyl diphosphate synthase	
+OMGOKNPM_00626	10541	12086	+	Alpha-(1->6)-mannopyranosyltransferase A	
+OMGOKNPM_00627	12079	12508	-	DNA-binding protein	
+OMGOKNPM_00628	12598	13894	+	Serine/threonine-protein kinase PknL	
+OMGOKNPM_00629	14001	14217	-	Geranylgeranyl diphosphate synthase	
+OMGOKNPM_00630	14340	15006	-	Geranylgeranyl diphosphate synthase	
+OMGOKNPM_00631	15022	16105	-	Hydroxymethylglutaryl-CoA synthase	
+OMGOKNPM_00632	16234	17290	-	hypothetical protein	
+OMGOKNPM_00633	17313	17958	-	Phosphomevalonate kinase	
+OMGOKNPM_00634	17959	18427	-	hypothetical protein	
+OMGOKNPM_00635	18423	19434	-	hypothetical protein	
+OMGOKNPM_00636	19430	20414	-	Galactokinase	
+OMGOKNPM_00637	20443	20980	-	Isopentenyl-diphosphate Delta-isomerase	
+OMGOKNPM_00638	21162	21489	-	Geranylgeranyl diphosphate synthase	
+OMGOKNPM_00639	22154	23171	+	Pristinol synthase	
+OMGOKNPM_00640	23179	23332	-	hypothetical protein	
+OMGOKNPM_00641	23452	24541	+	Acetoacetyl CoA synthase NphT7	
+OMGOKNPM_00642	24733	26122	-	Phospho-2-dehydro-3-deoxyheptonate aldolase AroG	
+OMGOKNPM_00643	26170	26650	-	3'-5' exoribonuclease.1	
+OMGOKNPM_00644	26659	27526	-	hypothetical protein	
+OMGOKNPM_00645	27641	28901	+	Polyprenol-phosphate-mannose-dependent alpha-(1-2)-phosphatidylinositol mannoside mannosyltransferase	
+OMGOKNPM_00646	28901	29633	-	hypothetical protein	
+OMGOKNPM_00647	29720	30110	-	hypothetical protein	
+OMGOKNPM_00648	30106	31306	-	Protein	
+OMGOKNPM_00649	31377	31812	-	hypothetical protein	
+OMGOKNPM_00650	31908	32298	-	hypothetical protein	
+OMGOKNPM_00651	32505	34308	+	Long-chain-fatty-acid--CoA ligase FadD15	
+OMGOKNPM_00652	34432	35599	-	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase	
+OMGOKNPM_00653	35661	36063	-	hypothetical protein	
+
+
+Significant hits: 
+1. BGC0001848.4	diazaquinomycin H/diazaquinomycin J
+2. BGC0000679.5	diazepinomicin
+3. BGC0001083.5	merochlorin A/merochlorin B/deschloro-merochlorin A/deschloro-merochlorin B/isochloro-merochlorin B/dichloro-merochlorin B/merochlorin D/merochlorin C
+4. BGC0000286.3	viguiepinol
+5. BGC0001080.5	endophenazine A/endophenazine B
+6. BGC0001078.5	furaquinocin B
+7. BGC0001079.5	napyradiomycin A80915C/napyradiomycin 2/napyradiomycin 3/napyradiomycin 4
+8. BGC0000934.4	5-acetyl-5,10-dihydrophenazine-1-carboxylic acid/5-(2-hydroxyacetyl)-5,10-dihydrophenazine-1-carboxylic acid/endophenazine A1/endophenazine F/endophenazine G
+9. BGC0002561.3	phenazine SA/phenazine SB/phenazine SC
+10. BGC0001666.3	microansamycin A/microansamycin B/microansamycin C/microansamycin D/microansamycin E/microansamycin F/microansamycin G/microansamycin H/microansamycin I
+
+
+Details:
+
+>>
+1. BGC0001848.4
+Source: diazaquinomycin H/diazaquinomycin J
+Type: other:other
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1788.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00625	MicB006_2921	50	300	99.70588235294117	5.22e-100
+OMGOKNPM_00631	MicB006_2915	62	449	98.88888888888889	4.68e-158
+OMGOKNPM_00632	MicB006_2916	69	441	92.02279202279202	8.58e-156
+OMGOKNPM_00635	MicB006_2919	60	328	95.83333333333334	1.74e-111
+OMGOKNPM_00641	MicB006_2931	48	270	90.88397790055248	1.29e-88
+
+
+
+>>
+2. BGC0000679.5
+Source: diazepinomicin
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1540.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00625	MCBG_00167	50	297	99.70588235294117	5.95e-99
+OMGOKNPM_00631	MCBG_00173	62	452	98.88888888888889	2.85e-159
+OMGOKNPM_00632	MCBG_00172	69	463	96.58119658119658	1.94e-164
+OMGOKNPM_00635	MCBG_00169	60	328	96.72619047619048	2.47e-111
+
+
+
+>>
+3. BGC0001083.5
+Source: merochlorin A/merochlorin B/deschloro-merochlorin A/deschloro-merochlorin B/isochloro-merochlorin B/dichloro-merochlorin B/merochlorin D/merochlorin C
+Type: PKS:Type III+terpene:Sesquiterpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1579.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00631	AGH68889.1	63	466	98.88888888888889	1.37e-164
+OMGOKNPM_00632	AGH68890.1	68	458	96.86609686609687	2.8e-162
+OMGOKNPM_00635	AGH68893.1	61	340	98.80952380952381	3.51e-116
+OMGOKNPM_00641	AGH68888.1	54	315	89.22651933701657	4.34e-106
+
+
+
+>>
+4. BGC0000286.3
+Source: viguiepinol
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1565.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00631	BAD86805.1	64	468	99.44444444444444	1.69e-165
+OMGOKNPM_00632	BAD86804.1	69	464	96.86609686609687	1.03e-164
+OMGOKNPM_00635	BAD86801.1	60	323	99.10714285714286	2.61e-109
+OMGOKNPM_00641	BAD86806.1	53	310	88.67403314917127	2.07e-104
+
+
+
+>>
+5. BGC0001080.5
+Source: endophenazine A/endophenazine B
+Type: other:phenazine
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1561.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00631	CAX48661.1	64	471	98.88888888888889	1.46e-166
+OMGOKNPM_00632	CAX48660.1	69	465	96.86609686609687	5.13e-165
+OMGOKNPM_00635	CAX48657.1	59	320	99.40476190476191	4.38e-108
+OMGOKNPM_00641	CAX48662.1	54	305	89.22651933701657	3.96e-102
+
+
+
+>>
+6. BGC0001078.5
+Source: furaquinocin B
+Type: terpene+PKS
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1519.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00631	BAE78982.1	61	448	99.44444444444444	1.33e-157
+OMGOKNPM_00632	BAE78981.1	69	464	98.57549857549857	9.98e-165
+OMGOKNPM_00635	BAE78978.1	58	290	92.85714285714286	3.48e-97
+OMGOKNPM_00641	BAE78983.1	55	317	89.22651933701657	5.2e-107
+
+
+
+>>
+7. BGC0001079.5
+Source: napyradiomycin A80915C/napyradiomycin 2/napyradiomycin 3/napyradiomycin 4
+Type: PKS:Type III+terpene:Monoterpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1263.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00631	ABS50443.1	63	462	98.88888888888889	2.99e-163
+OMGOKNPM_00632	ABS50444.1	70	466	96.86609686609687	2.55e-165
+OMGOKNPM_00635	ABS50447.1	60	335	99.70238095238095	9.37e-114
+
+
+
+>>
+8. BGC0000934.4
+Source: 5-acetyl-5,10-dihydrophenazine-1-carboxylic acid/5-(2-hydroxyacetyl)-5,10-dihydrophenazine-1-carboxylic acid/endophenazine A1/endophenazine F/endophenazine G
+Type: other:phenazine
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1261.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00631	AHW81466.1	63	468	98.61111111111111	1.19e-165
+OMGOKNPM_00632	AHW81465.1	69	460	95.44159544159544	3.31e-163
+OMGOKNPM_00635	AHW81462.1	61	333	97.91666666666666	1.66e-113
+
+
+
+>>
+9. BGC0002561.3
+Source: phenazine SA/phenazine SB/phenazine SC
+Type: other:other
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1261.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00631	QDJ94222.1	59	442	98.88888888888889	7.16e-155
+OMGOKNPM_00632	QDJ94221.1	70	474	96.29629629629629	1.58e-168
+OMGOKNPM_00635	QDJ94218.1	62	345	97.32142857142857	1.97e-118
+
+
+
+>>
+10. BGC0001666.3
+Source: microansamycin A/microansamycin B/microansamycin C/microansamycin D/microansamycin E/microansamycin F/microansamycin G/microansamycin H/microansamycin I
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 731.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00642	ATY46605.1	61	545	96.32034632034632	1.7e-193
+OMGOKNPM_00646	ATY46607.1	47	186	85.59670781893004	2.78e-58
+

@@ -1,0 +1,15 @@
+ClusterBlast scores for NODE_319_length_3980_cov_12.948871
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_04976	99	237	-	hypothetical protein	
+OMGOKNPM_04977	424	565	-	hypothetical protein	
+OMGOKNPM_04978	878	1283	+	IS110 family transposase ISMch6	
+OMGOKNPM_04979	1336	1933	+	IS110 family transposase ISLxx2	
+OMGOKNPM_04980	2005	2182	-	hypothetical protein	
+OMGOKNPM_04981	2530	3517	+	Beta-ketoacyl-[acyl-carrier-protein] synthase III	
+
+
+Significant hits: 
+
+
+Details:

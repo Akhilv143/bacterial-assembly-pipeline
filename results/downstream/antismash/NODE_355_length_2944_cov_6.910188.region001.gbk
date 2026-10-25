@@ -1,0 +1,186 @@
+LOCUS       NODE_355_length_2944_cov_6.910188 2944 bp    DNA              UNK 01-JAN-1980
+DEFINITION  NODE_355_length_2944_cov_6.910188.
+ACCESSION   NODE_355_length_2944_cov_6
+VERSION     NODE_355_length_2944_cov_6.910188
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+COMMENT     ##antiSMASH-Data-START##
+            Version     :: 8.0.4
+            Run date    :: 2026-10-24 19:50:07
+            NOTE :: This is a single region extracted from a larger record!
+            Orig. start :: 0
+            Orig. end   :: 2944
+            ##antiSMASH-Data-END##
+FEATURES             Location/Qualifiers
+     region          1..2944
+                     /candidate_cluster_numbers="1"
+                     /contig_edge="True"
+                     /product="thioamitides"
+                     /region_number="1"
+                     /rules="((YcaO or TIGR03604) and TfuA)"
+                     /tool="antismash"
+     cand_cluster    1..2944
+                     /candidate_cluster_number="1"
+                     /contig_edge="True"
+                     /detection_rules="((YcaO or TIGR03604) and TfuA)"
+                     /kind="single"
+                     /product="thioamitides"
+                     /protoclusters="1"
+                     /tool="antismash"
+     protocluster    1..2944
+                     /aStool="rule-based-clusters"
+                     /category="RiPP"
+                     /contig_edge="True"
+                     /core_location="[126:2879](-)"
+                     /cutoff="20000"
+                     /detection_rule="((YcaO or TIGR03604) and TfuA)"
+                     /neighbourhood="10000"
+                     /product="thioamitides"
+                     /protocluster_number="1"
+                     /tool="antismash"
+     proto_core      complement(127..2879)
+                     /aStool="rule-based-clusters"
+                     /tool="antismash"
+                     /cutoff="20000"
+                     /detection_rule="((YcaO or TIGR03604) and TfuA)"
+                     /neighbourhood="10000"
+                     /product="thioamitides"
+                     /protocluster_number="1"
+     CDS             complement(127..1428)
+                     /ID="OMGOKNPM_05110"
+                     /gene="OMGOKNPM_05110"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     thioamitides: TfuA"
+                     /gene_kind="biosynthetic"
+                     /inference="ab initio prediction:Prodigal:v2.6"
+                     /locus_tag="OMGOKNPM_05110"
+                     /phase="0"
+                     /product="hypothetical protein"
+                     /sec_met_domain="TfuA (E-value: 2e-40, bitscore: 124.5,
+                     seeds: 78, tool: rule-based-clusters)"
+                     /source="Prodigal:v2.6"
+                     /transl_table=11
+                     /translation="MRHKELLTLISDGIRVVGSSSMGALRAAELHPFGMEGYGWVFEGY
+                     RDGLLEADDEVGMVHGDPEDGYPIFVDALVNIRQTLAHAVESGLLPAALADQLIDTARS
+                     TPFTQRTWNRLLDTVGAGESQNLAKQLRSLRVDIKHADAVLALQEVLRGQASTAVRPGP
+                     PPTVWSERWRQRWSPPTPVALDAAESAEPAIDAIDVADIDVLSLLSLCASDRWAYLPAL
+                     EQVAAWHWSLNHPDASGNVGDRAALAAAEVPCDSYQLSLEMVAHHYALATGIIDDAGFP
+                     EHVRAHWLTAEENSALGDDAVAVSARLTTRTLFFARSLPAVAHFLDLLRGDPRLPEWRL
+                     MAARAVARRDELARQKPHLNLRRPDPALLKQLFGTIWGTPVDRVELAQRGLMTEDPFYT
+                     AATVCAVAAADGQLPAIEVGCLGPVQSRQSPPAH"
+     PFAM_domain     complement(1096..1425)
+                     /aSDomain="TfuA"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF07812.15"
+                     /description="TfuA-like protein"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_OMGOKNPM_05110_0001"
+                     /evalue="4.60E-37"
+                     /label="OMGOKNPM_05110"
+                     /locus_tag="OMGOKNPM_05110"
+                     /protein_end="111"
+                     /protein_start="1"
+                     /score="126.5"
+                     /tool="antismash"
+                     /translation="RHKELLTLISDGIRVVGSSSMGALRAAELHPFGMEGYGWVFEGYR
+                     DGLLEADDEVGMVHGDPEDGYPIFVDALVNIRQTLAHAVESGLLPAALADQLIDTARST
+                     PFTQRT"
+     CDS             complement(1407..2879)
+                     /ID="OMGOKNPM_05111"
+                     /gene="OMGOKNPM_05111"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     thioamitides: YcaO"
+                     /gene_kind="biosynthetic"
+                     /inference="ab initio prediction:Prodigal:v2.6"
+                     /locus_tag="OMGOKNPM_05111"
+                     /phase="0"
+                     /product="hypothetical protein"
+                     /sec_met_domain="YcaO (E-value: 2.2e-63, bitscore: 202.0,
+                     seeds: 127, tool: rule-based-clusters)"
+                     /source="Prodigal:v2.6"
+                     /transl_table=11
+                     /translation="MSKPPRLGTRQLPQKPNGPDWSHWPVRVLGHADPTTIGHRAGTHR
+                     TISPDQTWQAVQPLLAQAGITRVADLTWLDDLGIPTVQAVRPASLTLSVSQGKATTYRA
+                     AQVSAVMESLENWHAENVTPTMLATPARDLTAELTYDPADLNRPAGSLYHPSAKLDWMV
+                     ATTLLSGRRTFVPWLSTVVNVAVNDSWGPPMFGMDTTGLASGNSYHEATVHALYEIMER
+                     HGMATAEPGSTLFHVPLEDVARSDCAELVEMIHQAGSEVQVARIDTWDGFYCFAAELTS
+                     PMLEVPFSGSGLHHDPNVALSRAITEAAQSRLTAISGAREDLPSAIYHRFARVHSYAAV
+                     HRSMQSMPDAEPTAWHIDYTNSLGELLATAATAVTKRSGTEPLAVVCEFADACVPVVKV
+                     IAPGLSASIASPMRTPLQEHQRHSRQPADGSSSRPGPRSAPTTCTPWCPTLRWCRRSRS
+                     ATLLVTGCGPAMRCSLSTACSSSRHRCVTRNC"
+     PFAM_domain     complement(1665..2594)
+                     /aSDomain="YcaO"
+                     /aSTool="clusterhmmer"
+                     /database="35.0"
+                     /db_xref="PF02624.19"
+                     /description="YcaO cyclodehydratase, ATP-ad Mg2+-binding"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_OMGOKNPM_05111_0002"
+                     /evalue="4.20E-59"
+                     /label="OMGOKNPM_05111"
+                     /locus_tag="OMGOKNPM_05111"
+                     /protein_end="405"
+                     /protein_start="95"
+                     /score="200.6"
+                     /tool="antismash"
+                     /translation="QGKATTYRAAQVSAVMESLENWHAENVTPTMLATPARDLTAELTY
+                     DPADLNRPAGSLYHPSAKLDWMVATTLLSGRRTFVPWLSTVVNVAVNDSWGPPMFGMDT
+                     TGLASGNSYHEATVHALYEIMERHGMATAEPGSTLFHVPLEDVARSDCAELVEMIHQAG
+                     SEVQVARIDTWDGFYCFAAELTSPMLEVPFSGSGLHHDPNVALSRAITEAAQSRLTAIS
+                     GAREDLPSAIYHRFARVHSYAAVHRSMQSMPDAEPTAWHIDYTNSLGELLATAATAVTK
+                     RSGTEPLAVVCEFADACVPVVKVIAPGLS"
+ORIGIN
+        1 caacggcgcc gacaacatcg ccgaagcctg ccggatcacc gctttgaccg ccaaccgcca
+       61 cctagacctc ctcaatccac aattccccag ctcacaagcc tgctaatcaa caacgccgga
+      121 gccctgctag tgggccggag gtgactggcg tgactgaacg ggccccagac agccgacctc
+      181 gatggctggc aactggccgt cggcagcggc taccgcgcag acagtggcgg cggtgtagaa
+      241 ggggtcctcg gtcatcaagc cacgttgggc caactcgacc cgatccaccg gggtgcccca
+      301 tatcgtgccg aacagctgct tgagcagtgc gggatccggg cgacgcaggt tcaaatgtgg
+      361 tttttgacga gccagctcat cgcggcgggc caccgcgcgt gcggccatga ggcgccattc
+      421 cggcagccgg gggtcgccgc gcagcaggtc caggaaatgc gcgacggcag gcaaggatcg
+      481 ggcgaaaaac aaggtgcggg tagtcagccg cgcggacacc gcaaccgcgt cgtcgccaag
+      541 ggcggaattt tcttcggcgg tcagccaatg cgccctgacg tgctcgggaa aacctgcgtc
+      601 gtcgatgatg ccggttgcca atgcgtagtg gtgggcgacc atctccagcg agagttgata
+      661 actgtcgcag gggacttcgg cggcagctag cgcggcccgg tcaccgacgt tgccgctggc
+      721 gtcggggtgg ttcaaactcc agtgccaggc ggccacctgc tccaatgcgg gcaggtaggc
+      781 ccaccgatcg ctggcgcaca agctcagcag cgaaagtacg tcgatatcgg caacgtcaat
+      841 ggcgtcgatc gcgggctcgg cgctctccgc ggcgtccaaa gccaccggcg tcggcggtga
+      901 ccagcgttgc cgccagcgct ccgaccacac ggtcgggggt gggccgggcc gcacggcggt
+      961 actggcttga ccgcggagca cttcttgaag cgcgagcacc gcatcggcgt gtttgatgtc
+     1021 cactcgcaga gacctcaact gctttgccag attctggctc tcgccggcgc caacggtgtc
+     1081 cagcaggcga ttccaggtcc gctgggtaaa cggtgtactg cgggccgtgt cgatcagctg
+     1141 atccgctaaa gctgctggta gcaaaccgga ttcgacggcg tgcgccaagg tttgccgaat
+     1201 gttgaccagc gcatcgacga agatgggata accgtcttcg ggatcgccgt gcaccatccc
+     1261 cacctcgtcg tctgcttcca gcagcccgtc ccgatatcct tcgaaaaccc agccgtaacc
+     1321 ctccataccg aacgggtgca gctcggcggc tcgcaatgct cccatgctgg acgaaccgac
+     1381 gacccgaatg ccgtcggaga tcagagtcag cagttccttg tgacgcaccg atgcctgctg
+     1441 gaagaacaag ccgtcgacaa tgagcagcgc atcgccgggc cgcagcccgt aaccaagagc
+     1501 gtggccgaac gcgatcggcg gcaccacctc agcgtggggc accacggcgt gcacgtcgtc
+     1561 ggcgctgatc gtgggcccgg ccgtgacgac gatccgtccg ccggttgtcg tgaatgtcgc
+     1621 tggtgctcct gcagcggggt tcgcatcggc gaggctatcg aagcggacaa accgggggct
+     1681 atcaccttca ccaccggaac gcaggcgtcg gcgaattcgc agacgaccgc gagcggctcg
+     1741 gtgccagaac gtttggtcac cgcggtcgct gcggtggcca gcagctcgcc cagcgagttg
+     1801 gtgtagtcga tgtgccacgc ggtgggttcg gcgtcgggca tcgattgcat ggatcggtgc
+     1861 accgccgcat aactgtgaac ccgggcgaac cggtggtaga tcgctgaggg caggtcctcg
+     1921 cgggctccgc tgatggcggt caagcgcgat tgtgcggctt cggtgatcgc cctggacagg
+     1981 gcgacattgg ggtcatggtg aagtccgctg ccgctgaacg gaacttccaa catcggcgac
+     2041 gtcagctcgg cggcgaagca atagaagccg tcccacgtgt cgatgcgagc gacctgcact
+     2101 tcgcttccag cttggtggat catttcgacc aattcggcgc agtcggagcg ggcgacgtcc
+     2161 tcgaggggga catggaaaag ggtcgatccg ggctcggcgg tggccatgcc gtggcgctcc
+     2221 ataatctcgt agagcgcgtg cactgtcgct tcgtggtagc tgttgcccga agccaatccg
+     2281 gtggtgtcca tgccgaacat cggaggtccc caggaatcgt tgacagcgac attcaccacg
+     2341 gtggacagcc acggcacgaa ggtccgtcgg ccgctcaaca aagttgtcgc gaccatccag
+     2401 tcgagcttgg ccgaagggtg atacagactg cctgccggcc ggttgaggtc ggctgggtcg
+     2461 taggtcagct ccgccgtgag atcccttgcc ggcgttgcca acatggtggg cgtgacgttt
+     2521 tcagcgtgcc agttttccag ggactccatc acggccgaca cctgagcggc ccggtaagtg
+     2581 gtggcttttc cctggctcac cgacaaggtc agggaggcgg ggcgcaccgc ctgcacggtg
+     2641 ggaatcccga gatcgtcgag ccaggtcagg tcggcgactc gggtgattcc ggcttgcgcc
+     2701 agcagcggtt ggaccgcctg ccaggtttga tcgggagaaa tggtccggtg agtaccggct
+     2761 cgatgcccga tcgtggtggg gtcggcgtgc ccgaggactc gaaccggcca gtgcgaccaa
+     2821 tccggaccgt tcggcttttg gggcaactgc cgcgtaccaa gccggggagg tttggacatt
+     2881 gcttcacgcc caccatgttg gcaacgccgg caagggatct cacggcggag ctgacctacg
+     2941 accc
+//

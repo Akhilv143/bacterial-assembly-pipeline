@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ACM68685.1</td>
+              <td>AerK</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000298.5">BGC0000298.5</a></td>
+              <td>NRPS:Type I</td>
+              <td>43.0</td>
+              <td>98.6</td>
+              <td>263.0</td>
+              <td>1.28e-85</td>
+          </tr>
+    
+          <tr>
+              <td>AAZ73134.1</td>
+              <td>isopentenyl_pyrophosphate_isomerase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000640.3">BGC0000640.3</a></td>
+              <td>terpene</td>
+              <td>43.0</td>
+              <td>97.4</td>
+              <td>228.0</td>
+              <td>6.3e-72</td>
+          </tr>
+    
+          <tr>
+              <td>AAZ73146.1</td>
+              <td>isopentenyl_pyrophosphate_isomerase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000642.3">BGC0000642.3</a></td>
+              <td>terpene</td>
+              <td>42.0</td>
+              <td>97.1</td>
+              <td>216.0</td>
+              <td>1.68e-67</td>
+          </tr>
+    
+          <tr>
+              <td>BAD99413.1</td>
+              <td>IPP_isomerase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000634.3">BGC0000634.3</a></td>
+              <td>terpene</td>
+              <td>39.0</td>
+              <td>96.0</td>
+              <td>198.0</td>
+              <td>2.02e-60</td>
+          </tr>
+    
+          <tr>
+              <td>BAE47464.1</td>
+              <td>IPP_isomerase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000635.3">BGC0000635.3</a></td>
+              <td>terpene</td>
+              <td>39.0</td>
+              <td>97.7</td>
+              <td>184.0</td>
+              <td>8.12e-55</td>
+          </tr>
+    
+          <tr>
+              <td>ABC50109.1</td>
+              <td>isopentenyl_pyrophosphate_isomerase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000643.3">BGC0000643.3</a></td>
+              <td>terpene</td>
+              <td>36.0</td>
+              <td>98.9</td>
+              <td>179.0</td>
+              <td>3.47e-53</td>
+          </tr>
+    
+          <tr>
+              <td>ABS50445.1</td>
+              <td>NapT3</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001079.5">BGC0001079.5</a></td>
+              <td>PKS:Type III+terpene:Monoterpene</td>
+              <td>32.0</td>
+              <td>95.4</td>
+              <td>125.0</td>
+              <td>1.16e-32</td>
+          </tr>
+    
+          <tr>
+              <td>BAD86803.1</td>
+              <td>isopentenyl_diphosphate_isomerase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000286.3">BGC0000286.3</a></td>
+              <td>PKS</td>
+              <td>32.0</td>
+              <td>90.2</td>
+              <td>122.0</td>
+              <td>1.65e-31</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

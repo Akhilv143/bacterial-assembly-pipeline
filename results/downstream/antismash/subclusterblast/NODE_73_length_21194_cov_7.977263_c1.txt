@@ -1,0 +1,22 @@
+ClusterBlast scores for NODE_73_length_21194_cov_7.977263
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_02424	5653	5893	+	Phosphoribosylformylglycinamidine synthase subunit PurS	
+OMGOKNPM_02425	5889	6564	+	Phosphoribosylformylglycinamidine synthase subunit PurQ	
+OMGOKNPM_02426	6575	7040	-	hypothetical protein	
+OMGOKNPM_02427	7140	7605	-	hypothetical protein	
+OMGOKNPM_02428	7630	8002	-	Dihydrolipoyl dehydrogenase	
+OMGOKNPM_02429	8161	8707	-	Mercuric reductase	
+OMGOKNPM_02430	8797	9115	-	Soluble pyridine nucleotide transhydrogenase	
+OMGOKNPM_02431	9229	9442	-	hypothetical protein	
+OMGOKNPM_02432	9673	10480	-	Type 1 encapsulin shell protein	
+OMGOKNPM_02433	10476	11589	-	Dye-decolorizing peroxidase	
+OMGOKNPM_02434	11626	12829	+	putative M18 family aminopeptidase 2	
+OMGOKNPM_02435	12853	13201	+	hypothetical protein	
+OMGOKNPM_02436	13218	13869	-	Acetyl- and succinyl-CoA transferase	
+
+
+Significant hits: 
+
+
+Details:

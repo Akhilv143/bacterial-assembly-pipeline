@@ -1,0 +1,311 @@
+ClusterBlast scores for NODE_4_length_65821_cov_7.153423
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_00239	105	1212	-	Trehalase	
+OMGOKNPM_00240	1349	1883	+	hypothetical protein	
+OMGOKNPM_00241	2036	2792	+	hypothetical protein	
+OMGOKNPM_00242	3141	4191	+	Sulfate-binding protein	
+OMGOKNPM_00243	4187	5090	+	hypothetical protein	
+OMGOKNPM_00244	5086	5905	+	Sulfate transport system permease protein CysW	
+OMGOKNPM_00245	5901	7011	+	Sulfate/thiosulfate import ATP-binding protein CysA	
+OMGOKNPM_00246	7039	9043	-	hypothetical protein	
+OMGOKNPM_00247	9134	11075	-	Glutathione hydrolase proenzyme	
+OMGOKNPM_00248	11089	11539	-	hypothetical protein	
+OMGOKNPM_00249	11798	12548	-	Adenosine 5'-phosphosulfate reductase	
+OMGOKNPM_00250	12544	14212	-	Sulfite reductase [ferredoxin]	
+OMGOKNPM_00251	14508	15822	+	Heme chaperone HemW	
+OMGOKNPM_00252	15833	17069	-	hypothetical protein	
+OMGOKNPM_00253	17380	17590	-	putative proteinA/RVBD_2386A	
+OMGOKNPM_00254	18003	19365	+	Salicylate synthase	
+OMGOKNPM_00255	19616	20453	+	hypothetical protein	
+OMGOKNPM_00256	20437	21454	+	Putative acyl-[acyl-carrier-protein] desaturase DesA1	
+OMGOKNPM_00257	21485	22448	-	hypothetical protein	
+OMGOKNPM_00258	22426	23950	-	Baeyer-Villiger monooxygenase	
+OMGOKNPM_00259	23952	24873	-	hypothetical protein	
+OMGOKNPM_00260	24904	25765	-	putative oxidoreductase EphD	
+OMGOKNPM_00261	25766	26762	-	Acetyl esterase	
+OMGOKNPM_00262	26871	28524	-	Salicyl-AMP ligase / salicyl-S-ArCP synthetase	
+OMGOKNPM_00263	28622	28724	+	hypothetical protein	
+OMGOKNPM_00264	28720	30025	+	L-lysine N6-monooxygenase MbtG	
+OMGOKNPM_00265	30005	30221	+	Protein MbtH	
+OMGOKNPM_00266	30225	33300	-	Pikromycin polyketide synthase component PikAIII	
+OMGOKNPM_00267	33296	34616	-	Putative inactive phenolphthiocerol synthesis polyketide synthase type I Pks15	
+OMGOKNPM_00268	34612	35371	-	Phenyloxazoline synthase MbtB	
+OMGOKNPM_00269	35480	36086	-	N(6)-hydroxylysine O-acetyltransferase	
+OMGOKNPM_00270	36360	41373	+	Dimodular nonribosomal peptide synthase	
+OMGOKNPM_00271	41369	45908	+	Surfactin synthase subunit 2	
+OMGOKNPM_00272	45943	49435	+	Phenyloxazoline synthase MbtB	
+OMGOKNPM_00273	49718	50228	+	Low molecular weight antigen MTB12	
+OMGOKNPM_00274	50265	51165	-	ECF RNA polymerase sigma factor SigJ	
+OMGOKNPM_00275	51161	51761	-	hypothetical protein	
+OMGOKNPM_00276	51859	52174	-	hypothetical protein	
+OMGOKNPM_00277	52446	53478	+	Heat-inducible transcription repressor HrcA	
+OMGOKNPM_00278	53552	54641	+	Chaperone protein DnaJ 2	
+OMGOKNPM_00279	54650	55373	+	HTH-type transcriptional repressor DrrR1	
+OMGOKNPM_00280	55440	56499	+	PhoH-like protein	
+OMGOKNPM_00281	56517	57054	+	Endoribonuclease YbeY	
+OMGOKNPM_00282	57050	58373	+	hypothetical protein	
+OMGOKNPM_00283	58365	58572	+	hypothetical protein	
+OMGOKNPM_00284	58561	59464	+	GTPase Era	
+OMGOKNPM_00285	59460	60960	-	Putative amidase AmiA2	
+OMGOKNPM_00286	61021	61819	+	DNA repair protein RecO	
+OMGOKNPM_00287	61811	62702	+	Decaprenyl diphosphate synthase	
+OMGOKNPM_00288	62701	63142	+	hypothetical protein	
+OMGOKNPM_00289	63138	63552	-	Zinc uptake regulation protein	
+OMGOKNPM_00290	63548	63944	-	HTH-type transcriptional repressor SmtB	
+OMGOKNPM_00291	64136	65528	+	Glycine--tRNA ligase	
+
+
+Significant hits: 
+1. BGC0001027.5	nocobactin NA/nocobactin NA 10152B
+2. BGC0001021.5	mycobactin
+3. BGC0002352.2	terpenibactin A/terpenibactin B/terpenibactin C
+4. BGC0002544.3	amychelin A/amychelin B
+5. BGC0001351.3	cahuitamycin A/cahuitamycin B/cahuitamycin C
+6. BGC0000300.5	amychelin
+7. BGC0002686.2	madurastatin D1/madurastatin D2/(-)-Madurastatin C1
+8. BGC0002718.2	madurastatin A2/madurastatin E1/madurastatin F/madurastatin G1/madurastatin A1
+9. BGC0000366.5	gobichelin A/gobichelin B
+10. BGC0002410.3	frankobactin A1/frankobactin A2/frankobactin A3/frankobactin B1/frankobactin B2/frankobactin B3/frankobactin C1
+11. BGC0000324.5	coelibactin
+12. BGC0002676.2	skyllamycin D/skyllamycin E
+13. BGC0000245.5	medermycin
+14. BGC0000445.5	thiocoraline
+
+
+Details:
+
+>>
+1. BGC0001027.5
+Source: nocobactin NA/nocobactin NA 10152B
+Type: NRPS:Type I+PKS
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 7636.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00264	NFA_7610	54	436	96.08294930875576	5.47e-151
+OMGOKNPM_00266	NFA_7650	47	839	101.7578125	1.82e-291
+OMGOKNPM_00267	NFA_7640	62	528	96.12756264236903	4.7e-187
+OMGOKNPM_00268	NFA_7630	54	275	96.42857142857143	4e-93
+OMGOKNPM_00270	NFA_7660	64	2006	101.25748502994011	0.0
+OMGOKNPM_00271	NFA_7670	65	1873	100.59523809523809	0.0
+OMGOKNPM_00272	NFA_7680	73	1679	99.6560619088564	0.0
+
+
+
+>>
+2. BGC0001021.5
+Source: mycobactin
+Type: NRPS:Type I+PKS
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 4052.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00254	Rv2386c	78	666	100.0	2.49e-241
+OMGOKNPM_00261	Rv2385	75	454	89.72809667673715	1.14e-161
+OMGOKNPM_00262	Rv2384	72	788	100.9090909090909	6.2e-286
+OMGOKNPM_00264	Rv2378c	67	571	99.76958525345621	3.13e-204
+OMGOKNPM_00265	Rv2377c	71	116	95.77464788732394	3.79e-36
+OMGOKNPM_00267	Rv2382c	51	408	97.03872437357631	6.04e-140
+OMGOKNPM_00272	Rv2383c	51	1049	100.51590713671538	0.0
+
+
+
+>>
+3. BGC0002352.2
+Source: terpenibactin A/terpenibactin B/terpenibactin C
+Type: other:other
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 5271.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00264	AWN90_15480	54	424	94.47004608294931	1.85e-146
+OMGOKNPM_00266	AWN90_15500	47	819	104.296875	2.85e-283
+OMGOKNPM_00267	AWN90_15495	67	567	97.26651480637814	1.55e-202
+OMGOKNPM_00268	AWN90_15490	59	288	96.82539682539682	1.94e-98
+OMGOKNPM_00270	AWN90_15505	58	1680	93.41317365269461	0.0
+OMGOKNPM_00271	AWN90_15510	54	1493	103.76984126984128	0.0
+
+
+
+>>
+4. BGC0002544.3
+Source: amychelin A/amychelin B
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2049.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00254	QIE08742.1	49	364	95.36423841059603	1.76e-122
+OMGOKNPM_00262	QIE08740.1	51	493	96.54545454545455	4.31e-170
+OMGOKNPM_00265	QIE08753.1	63	101	87.32394366197182	4.43e-30
+OMGOKNPM_00272	QIE08738.1	52	1091	98.10834049871023	0.0
+
+
+
+>>
+5. BGC0001351.3
+Source: cahuitamycin A/cahuitamycin B/cahuitamycin C
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2020.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00254	AMK48233.1	46	312	98.45474613686534	3.24e-102
+OMGOKNPM_00262	AMK48234.1	52	519	96.36363636363636	2.47e-180
+OMGOKNPM_00265	AMK48229.1	62	100	91.54929577464789	2.01e-29
+OMGOKNPM_00272	AMK48225.1	52	1089	99.140154772141	0.0
+
+
+
+>>
+6. BGC0000300.5
+Source: amychelin
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2015.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00254	SSMG_02545	52	361	89.40397350993378	2.83e-121
+OMGOKNPM_00262	SSMG_02542	49	456	95.81818181818181	3.98e-156
+OMGOKNPM_00265	SSMG_02539	62	100	95.77464788732394	1.02e-29
+OMGOKNPM_00272	SSMG_02535	53	1098	97.93637145313843	0.0
+
+
+
+>>
+7. BGC0002686.2
+Source: madurastatin D1/madurastatin D2/(-)-Madurastatin C1
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1977.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00254	FKD65_RS04335	50	348	89.62472406181016	1.87e-116
+OMGOKNPM_00262	FKD65_RS04500	49	478	96.18181818181817	1.24e-164
+OMGOKNPM_00265	FKD65_RS04315	63	93	87.32394366197182	1e-26
+OMGOKNPM_00272	FKD65_RS04515	52	1058	99.39810834049871	0.0
+
+
+
+>>
+8. BGC0002718.2
+Source: madurastatin A2/madurastatin E1/madurastatin F/madurastatin G1/madurastatin A1
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1944.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00254	amrb99_16360	48	337	90.28697571743929	8.69e-112
+OMGOKNPM_00262	amrb99_16370	50	497	96.36363636363636	8.1e-172
+OMGOKNPM_00265	amrb99_16320	66	99	87.32394366197182	4.78e-29
+OMGOKNPM_00272	amrb99_16400	51	1011	99.74204643164231	0.0
+
+
+
+>>
+9. BGC0000366.5
+Source: gobichelin A/gobichelin B
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1683.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00262	AGE11892.1	51	518	98.18181818181819	2.12e-179
+OMGOKNPM_00265	AGE11893.1	54	87	95.77464788732394	3.81e-24
+OMGOKNPM_00272	AGE11891.1	50	1078	101.80567497850387	0.0
+
+
+
+>>
+10. BGC0002410.3
+Source: frankobactin A1/frankobactin A2/frankobactin A3/frankobactin B1/frankobactin B2/frankobactin B3/frankobactin C1
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1564.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00262	IHE48_18570	47	496	103.27272727272727	1.34e-170
+OMGOKNPM_00265	IHE48_18580	63	102	105.63380281690141	3.6e-30
+OMGOKNPM_00272	IHE48_18575	52	966	95.01289767841789	0.0
+
+
+
+>>
+11. BGC0000324.5
+Source: coelibactin
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1351.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00262	CAC17498.1	46	449	98.36363636363636	1.01e-152
+OMGOKNPM_00272	CAC17499.1	46	902	100.1719690455718	1.37e-299
+
+
+
+>>
+12. BGC0002676.2
+Source: skyllamycin D/skyllamycin E
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1274.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00265	KZO11_19595	63	98	90.14084507042254	1.2e-28
+OMGOKNPM_00272	KZO11_19370	54	1176	101.89165950128978	0.0
+
+
+
+>>
+13. BGC0000245.5
+Source: medermycin
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 923.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00249	BAC79015.1	53	256	99.19678714859438	2.85e-86
+OMGOKNPM_00250	BAC79016.1	60	667	98.73873873873875	3.75e-238
+
+
+
+>>
+14. BGC0000445.5
+Source: thiocoraline
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 571.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00262	CAJ34366.1	46	456	94.54545454545455	7.33e-156
+OMGOKNPM_00265	CAJ34376.1	70	115	97.1830985915493	1.09e-35
+

@@ -1,0 +1,1213 @@
+ClusterBlast scores for NODE_47_length_26826_cov_7.602981
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_01800	2677	3493	-	Acetoacetate decarboxylase	
+OMGOKNPM_01801	3489	4428	-	CLA biosynthesis dehydrogenase/reductase	
+OMGOKNPM_01802	4702	5176	+	hypothetical protein	
+OMGOKNPM_01803	5365	5647	+	hypothetical protein	
+OMGOKNPM_01804	5650	6151	+	hypothetical protein	
+OMGOKNPM_01805	6092	7145	+	L-asparagine permease 1	
+OMGOKNPM_01806	7226	7829	+	hypothetical protein	
+OMGOKNPM_01807	7822	8530	+	hypothetical protein	
+OMGOKNPM_01808	8646	9693	+	Isopentenyl-diphosphate delta-isomerase	
+OMGOKNPM_01809	9702	10254	-	hypothetical protein	
+OMGOKNPM_01810	10299	12609	-	Trehalose monomycolate exporter MmpL3	
+OMGOKNPM_01811	12602	12977	-	hypothetical protein	
+OMGOKNPM_01812	12973	13297	-	hypothetical protein	
+OMGOKNPM_01813	13293	14253	-	15-cis-phytoene synthase	
+OMGOKNPM_01814	14249	15779	-	zeta-carotene-forming phytoene desaturase	
+OMGOKNPM_01815	15803	16694	-	(2E,6E)-farnesyl diphosphate synthase	
+OMGOKNPM_01816	17338	17671	+	hypothetical protein	
+OMGOKNPM_01817	17667	17958	+	hypothetical protein	
+OMGOKNPM_01818	17976	19365	-	Carnitine monooxygenase oxygenase subunit	
+OMGOKNPM_01819	19372	19921	-	hypothetical protein	
+OMGOKNPM_01820	20249	20459	+	hypothetical protein	
+OMGOKNPM_01821	20528	21548	+	hypothetical protein	
+OMGOKNPM_01822	21658	22825	+	Acyl-CoA dehydrogenase FadE12	
+OMGOKNPM_01823	22920	24081	+	Steroid 3-ketoacyl-CoA thiolase FadA6	
+OMGOKNPM_01824	24184	24790	+	hypothetical protein	
+OMGOKNPM_01825	24786	25134	+	hypothetical protein	
+OMGOKNPM_01826	25138	25291	+	hypothetical protein	
+OMGOKNPM_01827	25399	26671	+	Cytochrome P450 144	
+
+
+Significant hits: 
+1. NC_010612	Mycobacterium marinum M, complete sequence
+2. NZ_CP058277	Mycobacterium marinum strain MMA1 chromosome, complete genome
+3. NC_020133	Mycobacterium liflandii 128FXT, complete sequence
+4. NZ_CP118910	Mycobacterium marinum strain 050012 chromosome, complete genome
+5. NZ_CP024190	Mycobacterium marinum strain CCUG20998 chromosome, complete genome
+6. NZ_AP018410	Mycobacterium pseudoshottsii JCM 15466 chromosome, complete genome
+7. NZ_AP017635	Mycobacterium ulcerans subsp. shinshuense strain ATCC 33728 chromosome
+8. NZ_AP022572	Mycobacterium shottsii strain JCM 12657 chromosome, complete genome
+9. NZ_LR135168	Mycobacterium ulcerans strain SGL03 isolate ITM032481 chromosome 1
+10. NZ_CP089224	Mycobacterium ostraviense strain FDAARGOS_1613 chromosome, complete genome
+11. NZ_NKQW01000001	Mycobacterium kansasii strain K4 Scaffold_1, whole genome shotgun sequence
+12. NZ_CP019883	Mycobacterium kansasii strain 1MK chromosome
+13. NZ_VBSB01000001	Mycolicibacterium sphagni strain ENV482 MSphagni_S6_L001_R1_001__paired__contig_2, whole genome shotgun sequence
+14. NZ_JACIBD010000001	Mycolicibacterium sp. BK607 Ga0365315_01, whole genome shotgun sequence
+15. NZ_JACIBJ010000001	Mycolicibacterium sp. BK634 Ga0365322_01, whole genome shotgun sequence
+16. NZ_AP022595	Mycolicibacterium sarraceniae strain JCM 30395 chromosome, complete genome
+17. NZ_CP046600	Mycobacterium spongiae strain FSD4b-SM chromosome, complete genome
+18. NZ_CP020821	Mycobacterium colombiense CECT 3035 chromosome, complete genome
+19. NZ_KK328284	Mycobacterium [tuberculosis] TKK-01-0051 addxi-supercont1.1, whole genome shotgun sequence
+20. NZ_CP092488	Mycobacterium paraterrae strain DSM 45127 chromosome, complete genome
+21. NC_021715	Mycobacterium intracellulare subsp. yongonense 05-1390, complete sequence
+22. NZ_CP023147	Mycobacterium marseillense strain FLAC0026 chromosome, complete genome
+23. NZ_AP022584	Mycobacterium marseillense strain JCM 17324 chromosome, complete genome
+24. NZ_CP015964	Mycobacterium intracellulare subsp. yongonense strain Asan 36912 chromosome, complete genome
+25. NZ_AP012555	Mycobacterium avium subsp. hominissuis TH135 chromosome, complete genome
+26. NZ_CP018020	Mycobacterium avium subsp. hominissuis strain OCU873s_P7_4s chromosome, complete genome
+27. NZ_CP018019	Mycobacterium avium subsp. hominissuis strain OCU889s_P11_4s chromosome, complete genome
+28. NZ_CP036220	Mycobacterium avium subsp. hominissuis strain mc2 2500 chromosome, complete genome
+29. NZ_CP040250	Mycobacterium avium subsp. hominissuis strain 101174 chromosome, complete genome
+30. NZ_CP076851	Mycobacterium avium subsp. hominissuis strain CAM177 chromosome, complete genome
+31. NZ_CP029332	Mycobacterium avium subsp. hominissuis strain MAC109 chromosome, complete genome
+32. NC_008595	Mycobacterium avium 104, complete sequence
+33. NZ_KK322661	Mycobacterium avium XTB13-223 adWtH-supercont1.2, whole genome shotgun sequence
+34. NZ_CP016396	Mycobacterium avium strain RCAD0278 isolate SC150824 chromosome, complete genome
+35. NZ_CP060405	Mycobacterium avium subsp. hominissuis strain W9 chromosome
+36. NZ_CP060407	Mycobacterium avium subsp. hominissuis strain w14 chromosome
+37. NZ_HG315953	Mycobacterium simiae ATCC 25275 = DSM 44165, whole genome shotgun sequence
+38. NZ_AP020326	Mycobacterium avium subsp. hominissuis strain JP-H-1 chromosome, complete genome
+39. NZ_AP022573	Mycobacterium saskatchewanense strain JCM 13016 chromosome, complete genome
+40. NZ_AP022582	Mycobacterium seoulense strain JCM 16018 chromosome, complete genome
+41. NZ_JACPNT010000048	MAG: Mycobacterium nebraskense isolate NC_groundwater_582_Pr5_B-0.1um_67_19 alan_book_18_scaffold_245435, whole genome shotgun sequence
+42. NZ_AP022590	Mycobacterium mantenii strain JCM 18113 chromosome, complete genome
+43. NZ_AP024828	Mycobacterium senriense strain TY59 chromosome, complete genome
+44. NZ_LT719128	Mycobacterium colombiense strain CSURP297, whole genome shotgun sequence
+45. NZ_CP065047	Mycobacterium kubicae strain JCM 13573 chromosome, complete genome
+46. NZ_CP045081	Mycobacterium kubicae strain NJH_MKUB1 chromosome, complete genome
+47. NZ_AP025179	Mycobacterium sp. IWGMT90018-18076 strain IWGMT90018 chromosome, complete genome
+48. NZ_AP018164	Mycobacterium shigaense strain JCM 32072 chromosome, complete genome
+49. NZ_CP059165	Mycobacterium vicinigordonae strain 24 chromosome, complete genome
+50. NZ_AP024251	Mycobacterium paraintracellulare strain M011 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NC_010612
+Source: Mycobacterium marinum M, complete sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 18
+Cumulative BLAST score: 8416.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01801	MMAR_RS24150	99	619	100.0	1.56e-225
+OMGOKNPM_01802	MMAR_RS24145	99	315	100.0	8.04e-110
+OMGOKNPM_01803	MMAR_RS24140	100	153	83.87096774193549	2.01e-48
+OMGOKNPM_01804	MMAR_RS24135	95	258	83.13253012048193	7.04e-83
+OMGOKNPM_01805	MMAR_RS24135	99	666	100.0	2.19e-240
+OMGOKNPM_01806	MMAR_RS24130	100	364	100.0	3.3e-128
+OMGOKNPM_01807	MMAR_RS24125	100	481	100.0	1.52e-173
+OMGOKNPM_01808	MMAR_RS24120	99	652	100.0	2.83e-237
+OMGOKNPM_01809	MMAR_RS24115	100	353	100.0	1.69e-124
+OMGOKNPM_01810	MMAR_RS24110	99	1404	100.0	0.0
+OMGOKNPM_01811	MMAR_RS24105	98	246	100.0	4.95e-84
+OMGOKNPM_01812	MMAR_RS24100	100	212	100.0	5.32e-71
+OMGOKNPM_01813	MMAR_RS24095	99	622	100.0	2.31e-226
+OMGOKNPM_01814	MMAR_RS24090	100	985	100.0	0.0
+OMGOKNPM_01815	MMAR_RS24085	99	580	100.0	1e-208
+OMGOKNPM_01816	MMAR_RS24080	99	202	100.0	6.14e-67
+OMGOKNPM_01817	MMAR_RS24075	99	164	100.0	1.97e-52
+OMGOKNPM_01818	MMAR_RS24070	99	140	15.151515151515152	5.41e-36
+
+
+
+>>
+2. NZ_CP058277
+Source: Mycobacterium marinum strain MMA1 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 18
+Cumulative BLAST score: 8409.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01801	HXW97_RS02950	99	619	100.0	1.56e-225
+OMGOKNPM_01802	HXW97_RS02945	99	313	100.0	3.28e-109
+OMGOKNPM_01803	HXW97_RS02940	100	153	83.87096774193549	2.01e-48
+OMGOKNPM_01804	HXW97_RS02935	95	258	83.13253012048193	7.04e-83
+OMGOKNPM_01805	HXW97_RS02935	99	666	100.0	2.19e-240
+OMGOKNPM_01806	HXW97_RS02930	100	364	100.0	3.3e-128
+OMGOKNPM_01807	HXW97_RS02925	100	481	100.0	1.52e-173
+OMGOKNPM_01808	HXW97_RS02920	99	658	100.0	1.03e-239
+OMGOKNPM_01809	HXW97_RS02915	100	354	100.0	5.88e-125
+OMGOKNPM_01810	HXW97_RS02910	99	1398	100.0	0.0
+OMGOKNPM_01811	HXW97_RS02905	99	249	100.0	2.1e-85
+OMGOKNPM_01812	HXW97_RS02900	100	212	100.0	5.32e-71
+OMGOKNPM_01813	HXW97_RS02895	98	619	100.0	5.43e-225
+OMGOKNPM_01814	HXW97_RS02890	100	986	100.0	0.0
+OMGOKNPM_01815	HXW97_RS02885	99	578	100.0	5.79e-208
+OMGOKNPM_01816	HXW97_RS02880	98	199	100.0	5.05e-66
+OMGOKNPM_01817	HXW97_RS02875	99	164	100.0	1.97e-52
+OMGOKNPM_01818	HXW97_RS02870	97	138	15.151515151515152	2.02e-35
+
+
+
+>>
+3. NC_020133
+Source: Mycobacterium liflandii 128FXT, complete sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 18
+Cumulative BLAST score: 8395.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01801	MULP_RS23695	99	620	100.0	7.74e-226
+OMGOKNPM_01802	MULP_RS23690	99	315	100.0	8.04e-110
+OMGOKNPM_01803	MULP_RS23685	100	122	66.66666666666666	2.05e-36
+OMGOKNPM_01804	MULP_RS23680	95	258	83.13253012048193	7.04e-83
+OMGOKNPM_01805	MULP_RS23680	99	666	100.0	2.19e-240
+OMGOKNPM_01806	MULP_RS23675	100	364	100.0	3.3e-128
+OMGOKNPM_01807	MULP_RS23670	100	484	100.0	9.16e-175
+OMGOKNPM_01808	MULP_RS23665	99	657	100.0	2.08e-239
+OMGOKNPM_01809	MULP_RS23660	100	354	100.0	5.88e-125
+OMGOKNPM_01810	MULP_RS23655	99	1399	100.0	0.0
+OMGOKNPM_01811	MULP_RS23650	98	248	100.0	6.01e-85
+OMGOKNPM_01812	MULP_RS23645	99	209	100.0	6.22e-70
+OMGOKNPM_01813	MULP_RS23640	99	625	100.0	1.98e-227
+OMGOKNPM_01814	MULP_RS23635	100	988	100.0	0.0
+OMGOKNPM_01815	MULP_RS23630	99	580	100.0	2.5e-209
+OMGOKNPM_01816	MULP_RS23625	99	202	100.0	6.14e-67
+OMGOKNPM_01817	MULP_RS23620	99	164	100.0	1.97e-52
+OMGOKNPM_01818	MULP_RS29290	99	140	15.151515151515152	1.23e-38
+
+
+
+>>
+4. NZ_CP118910
+Source: Mycobacterium marinum strain 050012 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 18
+Cumulative BLAST score: 8372.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01801	PQR73_RS22975	98	612	100.0	1.75e-222
+OMGOKNPM_01802	PQR73_RS22970	99	312	100.0	9.39e-109
+OMGOKNPM_01803	PQR73_RS22965	100	153	83.87096774193549	2.01e-48
+OMGOKNPM_01804	PQR73_RS22960	95	258	83.13253012048193	7.04e-83
+OMGOKNPM_01805	PQR73_RS22960	99	664	100.0	8.92e-240
+OMGOKNPM_01806	PQR73_RS22955	98	357	100.0	1.29e-125
+OMGOKNPM_01807	PQR73_RS22950	100	484	100.0	9.16e-175
+OMGOKNPM_01808	PQR73_RS22945	99	657	100.0	2.96e-239
+OMGOKNPM_01809	PQR73_RS22940	99	351	100.0	9.75e-124
+OMGOKNPM_01810	PQR73_RS22935	99	1393	100.0	0.0
+OMGOKNPM_01811	PQR73_RS22930	99	249	100.0	2.1e-85
+OMGOKNPM_01812	PQR73_RS22925	100	212	100.0	5.32e-71
+OMGOKNPM_01813	PQR73_RS22920	98	616	100.0	4.46e-224
+OMGOKNPM_01814	PQR73_RS22915	98	974	100.0	0.0
+OMGOKNPM_01815	PQR73_RS22910	98	575	100.0	9.57e-207
+OMGOKNPM_01816	PQR73_RS22905	99	202	100.0	6.14e-67
+OMGOKNPM_01817	PQR73_RS22900	99	164	100.0	1.97e-52
+OMGOKNPM_01818	PQR73_RS22895	97	139	15.151515151515152	1.45e-35
+
+
+
+>>
+5. NZ_CP024190
+Source: Mycobacterium marinum strain CCUG20998 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 18
+Cumulative BLAST score: 8298.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01801	CCUG20998_RS23950	97	606	100.0	4.55e-220
+OMGOKNPM_01802	CCUG20998_RS23945	96	305	100.0	9.07e-106
+OMGOKNPM_01803	CCUG20998_RS23940	100	153	83.87096774193549	2.01e-48
+OMGOKNPM_01804	CCUG20998_RS23935	95	258	83.13253012048193	7.04e-83
+OMGOKNPM_01805	CCUG20998_RS23935	99	660	100.0	2.97e-238
+OMGOKNPM_01806	CCUG20998_RS23930	95	346	100.0	4.81e-121
+OMGOKNPM_01807	CCUG20998_RS23925	99	481	100.0	3.07e-173
+OMGOKNPM_01808	CCUG20998_RS23920	97	645	100.0	1.57e-234
+OMGOKNPM_01809	CCUG20998_RS23915	95	329	98.90710382513662	6.79e-115
+OMGOKNPM_01810	CCUG20998_RS23910	97	1364	100.0	0.0
+OMGOKNPM_01811	CCUG20998_RS23905	97	242	100.0	2.36e-82
+OMGOKNPM_01812	CCUG20998_RS23900	94	202	100.0	3.47e-67
+OMGOKNPM_01813	CCUG20998_RS23895	96	606	100.0	4.1e-220
+OMGOKNPM_01814	CCUG20998_RS23890	97	954	100.0	0.0
+OMGOKNPM_01815	CCUG20998_RS23885	98	569	100.0	1.3e-204
+OMGOKNPM_01816	CCUG20998_RS23880	98	200	100.0	2.5e-66
+OMGOKNPM_01817	CCUG20998_RS23875	97	160	100.0	9.4e-51
+OMGOKNPM_01818	CCUG20998_RS28785	96	137	15.151515151515152	9.82e-37
+OMGOKNPM_01818	CCUG20998_RS28780	64	81	12.554112554112553	3.61e-16
+
+
+
+>>
+6. NZ_AP018410
+Source: Mycobacterium pseudoshottsii JCM 15466 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 18
+Cumulative BLAST score: 8009.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01801	MPSD_RS24730	98	315	50.96153846153846	2.32e-107
+OMGOKNPM_01802	MPSD_RS24725	99	315	100.0	8.04e-110
+OMGOKNPM_01803	MPSD_RS24720	100	153	83.87096774193549	2.01e-48
+OMGOKNPM_01804	MPSD_RS24715	95	258	83.13253012048193	7.04e-83
+OMGOKNPM_01805	MPSD_RS24715	99	661	100.0	1.47e-238
+OMGOKNPM_01806	MPSD_RS24710	100	364	100.0	3.3e-128
+OMGOKNPM_01807	MPSD_RS24705	100	484	100.0	9.16e-175
+OMGOKNPM_01808	MPSD_RS24700	100	660	100.0	1.26e-240
+OMGOKNPM_01809	MPSD_RS24695	100	354	100.0	5.88e-125
+OMGOKNPM_01810	MPSD_RS24690	99	1402	100.0	0.0
+OMGOKNPM_01811	MPSD_RS24685	99	249	100.0	2.1e-85
+OMGOKNPM_01812	MPSD_RS24680	99	209	100.0	4.38e-70
+OMGOKNPM_01813	MPSD_RS24675	99	624	100.0	5.67e-227
+OMGOKNPM_01814	MPSD_RS24670	100	984	100.0	0.0
+OMGOKNPM_01815	MPSD_RS24660	98	439	75.67567567567568	7.11e-155
+OMGOKNPM_01816	MPSD_RS24655	98	153	79.0909090909091	7.01e-48
+OMGOKNPM_01817	MPSD_RS24650	99	164	100.0	1.97e-52
+OMGOKNPM_01818	MPSD_RS24645	97	139	15.151515151515152	3.35e-38
+OMGOKNPM_01818	MPSD_RS24630	61	82	13.41991341991342	4.75e-16
+
+
+
+>>
+7. NZ_AP017635
+Source: Mycobacterium ulcerans subsp. shinshuense strain ATCC 33728 chromosome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 17
+Cumulative BLAST score: 7588.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01801	CPZ18_RS11950	99	617	100.0	1.82e-224
+OMGOKNPM_01802	CPZ18_RS11955	98	229	73.24840764331209	1.32e-76
+OMGOKNPM_01803	CPZ18_RS11960	97	148	83.87096774193549	2.75e-46
+OMGOKNPM_01804	CPZ18_RS11965	94	256	83.13253012048193	1.08e-84
+OMGOKNPM_01805	CPZ18_RS11965	99	240	37.714285714285715	1.34e-75
+OMGOKNPM_01806	CPZ18_RS11970	100	364	100.0	3.3e-128
+OMGOKNPM_01807	CPZ18_RS11975	99	479	100.0	1.77e-172
+OMGOKNPM_01808	CPZ18_RS11980	99	655	100.0	2.43e-238
+OMGOKNPM_01809	CPZ18_RS11985	100	354	100.0	5.88e-125
+OMGOKNPM_01810	CPZ18_RS11990	99	1395	100.0	0.0
+OMGOKNPM_01811	CPZ18_RS11995	98	248	100.0	6.01e-85
+OMGOKNPM_01812	CPZ18_RS12000	99	211	100.0	1.53e-70
+OMGOKNPM_01813	CPZ18_RS12005	99	625	100.0	1.98e-227
+OMGOKNPM_01814	CPZ18_RS12010	99	981	100.0	0.0
+OMGOKNPM_01815	CPZ18_RS12020	99	446	76.6891891891892	5.6e-157
+OMGOKNPM_01816	CPZ18_RS12025	98	200	100.0	2.5e-66
+OMGOKNPM_01818	CPZ18_RS12035	99	140	15.151515151515152	5.41e-36
+
+
+
+>>
+8. NZ_AP022572
+Source: Mycobacterium shottsii strain JCM 12657 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 17
+Cumulative BLAST score: 7287.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01801	G6N41_RS26110	97	529	86.53846153846155	1.02e-189
+OMGOKNPM_01802	G6N41_RS26105	95	303	100.0	5.24e-105
+OMGOKNPM_01803	G6N41_RS26100	99	152	83.87096774193549	8.21e-48
+OMGOKNPM_01804	G6N41_RS26095	94	256	83.13253012048193	2.8e-82
+OMGOKNPM_01805	G6N41_RS26095	98	658	100.0	2.43e-237
+OMGOKNPM_01806	G6N41_RS26090	93	339	100.0	1.88e-118
+OMGOKNPM_01807	G6N41_RS26085	99	478	100.0	3.58e-172
+OMGOKNPM_01808	G6N41_RS26080	97	642	100.0	3.69e-233
+OMGOKNPM_01809	G6N41_RS26075	94	327	98.90710382513662	5.58e-114
+OMGOKNPM_01810	G6N41_RS26070	96	1357	100.0	0.0
+OMGOKNPM_01811	G6N41_RS26065	94	235	100.0	9.24e-80
+OMGOKNPM_01812	G6N41_RS26060	93	201	100.0	9.94e-67
+OMGOKNPM_01813	G6N41_RS26055	95	598	100.0	9.24e-217
+OMGOKNPM_01814	G6N41_RS26050	80	278	37.13163064833006	2.45e-89
+OMGOKNPM_01815	G6N41_RS26045	97	568	100.0	3.71e-204
+OMGOKNPM_01817	G6N41_RS26030	94	154	100.0	1.28e-48
+OMGOKNPM_01818	G6N41_RS29295	94	134	15.151515151515152	1.01e-35
+OMGOKNPM_01818	G6N41_RS29290	62	78	12.554112554112553	4.4e-15
+
+
+
+>>
+9. NZ_LR135168
+Source: Mycobacterium ulcerans strain SGL03 isolate ITM032481 chromosome 1
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 17
+Cumulative BLAST score: 5666.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01801	EQB88_RS28765	100	229	36.217948717948715	3.23e-74
+OMGOKNPM_01801	EQB88_RS28770	98	130	20.51282051282051	3.72e-36
+OMGOKNPM_01802	EQB88_RS01960	98	232	73.24840764331209	1.6e-77
+OMGOKNPM_01803	EQB88_RS01955	99	152	83.87096774193549	8.21e-48
+OMGOKNPM_01804	EQB88_RS01950	94	255	83.13253012048193	5.6e-82
+OMGOKNPM_01805	EQB88_RS01950	98	656	100.0	1.4e-236
+OMGOKNPM_01806	EQB88_RS01945	99	362	100.0	2.71e-127
+OMGOKNPM_01807	EQB88_RS01940	100	481	100.0	1.52e-173
+OMGOKNPM_01808	EQB88_RS01935	99	659	100.0	3.6e-240
+OMGOKNPM_01809	EQB88_RS01930	99	350	100.0	3.97e-123
+OMGOKNPM_01811	EQB88_RS01920	98	246	100.0	3.48e-84
+OMGOKNPM_01812	EQB88_RS01915	98	207	100.0	5.12e-69
+OMGOKNPM_01813	EQB88_RS01910	99	626	100.0	4.85e-228
+OMGOKNPM_01814	EQB88_RS01905	100	243	24.165029469548134	5.21e-77
+OMGOKNPM_01815	EQB88_RS01900	99	447	76.6891891891892	1.38e-157
+OMGOKNPM_01816	EQB88_RS01895	96	89	49.09090909090909	7.8e-23
+OMGOKNPM_01817	EQB88_RS01890	98	162	100.0	8.04e-52
+OMGOKNPM_01818	EQB88_RS01885	99	140	15.151515151515152	5.41e-36
+
+
+
+>>
+10. NZ_CP089224
+Source: Mycobacterium ostraviense strain FDAARGOS_1613 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 11
+Cumulative BLAST score: 4996.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01800	LTS72_RS01115	81	445	98.8929889298893	4.25e-158
+OMGOKNPM_01801	LTS72_RS01120	85	529	100.0	9.79e-190
+OMGOKNPM_01808	LTS72_RS01140	83	540	97.12643678160919	6.63e-193
+OMGOKNPM_01809	LTS72_RS01145	68	223	96.17486338797814	9.06e-73
+OMGOKNPM_01810	LTS72_RS01150	81	1105	96.35890767230168	0.0
+OMGOKNPM_01811	LTS72_RS01155	82	166	79.83870967741935	1.31e-52
+OMGOKNPM_01812	LTS72_RS01160	79	173	100.0	1.35e-55
+OMGOKNPM_01813	LTS72_RS01165	78	482	100.31347962382443	6.78e-171
+OMGOKNPM_01814	LTS72_RS01170	82	822	99.21414538310412	7.76e-299
+OMGOKNPM_01815	LTS72_RS01175	73	417	99.66216216216216	1.65e-145
+OMGOKNPM_01818	LTS72_RS01180	68	94	14.06926406926407	2.32e-18
+
+
+
+>>
+11. NZ_NKQW01000001
+Source: Mycobacterium kansasii strain K4 Scaffold_1, whole genome shotgun sequence
+Type: NRPS,terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 4102.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	CDK94_RS10545	82	532	97.12643678160919	7.35e-190
+OMGOKNPM_01809	CDK94_RS10540	68	209	90.7103825136612	2.57e-67
+OMGOKNPM_01810	CDK94_RS10535	83	1129	96.35890767230168	0.0
+OMGOKNPM_01811	CDK94_RS10530	84	173	80.64516129032258	2.37e-55
+OMGOKNPM_01812	CDK94_RS10525	80	176	100.0	5.74e-57
+OMGOKNPM_01813	CDK94_RS10520	78	473	98.7460815047022	2.15e-167
+OMGOKNPM_01814	CDK94_RS10515	81	814	100.78585461689586	6.06e-296
+OMGOKNPM_01815	CDK94_RS10510	73	417	99.66216216216216	1.65e-145
+OMGOKNPM_01818	CDK94_RS32120	68	98	14.71861471861472	2.41e-20
+OMGOKNPM_01818	CDK94_RS32115	59	81	12.554112554112553	6.93e-16
+
+
+
+>>
+12. NZ_CP019883
+Source: Mycobacterium kansasii strain 1MK chromosome
+Type: NRPS,terpene
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 4099.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	B1T43_RS18500	82	532	97.12643678160919	7.35e-190
+OMGOKNPM_01809	B1T43_RS18505	68	209	90.7103825136612	2.57e-67
+OMGOKNPM_01810	B1T43_RS18510	83	1132	96.35890767230168	0.0
+OMGOKNPM_01811	B1T43_RS18515	84	173	80.64516129032258	2.37e-55
+OMGOKNPM_01812	B1T43_RS18520	79	174	100.0	6.71e-56
+OMGOKNPM_01813	B1T43_RS18525	78	476	98.7460815047022	1.3e-168
+OMGOKNPM_01814	B1T43_RS18530	81	814	100.78585461689586	6.06e-296
+OMGOKNPM_01815	B1T43_RS18535	72	410	99.66216216216216	8.98e-143
+OMGOKNPM_01818	B1T43_RS30985	68	98	14.71861471861472	2.74e-20
+OMGOKNPM_01818	B1T43_RS30990	59	81	12.554112554112553	6.93e-16
+
+
+
+>>
+13. NZ_VBSB01000001
+Source: Mycolicibacterium sphagni strain ENV482 MSphagni_S6_L001_R1_001__paired__contig_2, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 3369.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	FEG63_RS00750	74	492	98.27586206896551	5.51e-174
+OMGOKNPM_01809	FEG63_RS00740	63	171	74.31693989071039	1.43e-52
+OMGOKNPM_01810	FEG63_RS00755	67	894	95.96879063719116	0.0
+OMGOKNPM_01811	FEG63_RS00720	72	137	74.19354838709677	3.54e-41
+OMGOKNPM_01812	FEG63_RS00715	61	139	99.06542056074767	4.53e-42
+OMGOKNPM_01813	FEG63_RS00710	69	436	100.62695924764891	1.28e-152
+OMGOKNPM_01814	FEG63_RS00705	74	740	99.80353634577604	8.65e-267
+OMGOKNPM_01815	FEG63_RS00700	63	360	99.66216216216216	1.65e-122
+
+
+
+>>
+14. NZ_JACIBD010000001
+Source: Mycolicibacterium sp. BK607 Ga0365315_01, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 3346.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	FHT43_RS09755	73	482	98.27586206896551	3.5e-170
+OMGOKNPM_01809	FHT43_RS09765	61	172	80.32786885245902	2.35e-53
+OMGOKNPM_01810	FHT43_RS09750	67	905	94.92847854356306	0.0
+OMGOKNPM_01811	FHT43_RS09785	66	138	79.03225806451613	1.53e-41
+OMGOKNPM_01812	FHT43_RS09790	59	142	99.06542056074767	2.91e-43
+OMGOKNPM_01813	FHT43_RS09795	69	428	99.05956112852664	9.89e-150
+OMGOKNPM_01814	FHT43_RS09800	73	725	99.60707269155206	1.01e-260
+OMGOKNPM_01815	FHT43_RS09805	62	354	99.66216216216216	1.3e-120
+
+
+
+>>
+15. NZ_JACIBJ010000001
+Source: Mycolicibacterium sp. BK634 Ga0365322_01, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 3345.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	FHT44_RS12750	73	482	98.27586206896551	3.5e-170
+OMGOKNPM_01809	FHT44_RS12760	61	172	80.32786885245902	2.35e-53
+OMGOKNPM_01810	FHT44_RS12745	67	904	94.92847854356306	0.0
+OMGOKNPM_01811	FHT44_RS12780	66	138	79.03225806451613	1.53e-41
+OMGOKNPM_01812	FHT44_RS12785	59	142	99.06542056074767	2.91e-43
+OMGOKNPM_01813	FHT44_RS12790	69	430	99.05956112852664	1.72e-150
+OMGOKNPM_01814	FHT44_RS12795	72	720	99.60707269155206	9.61e-259
+OMGOKNPM_01815	FHT44_RS12800	62	357	99.66216216216216	7.93e-122
+
+
+
+>>
+16. NZ_AP022595
+Source: Mycolicibacterium sarraceniae strain JCM 30395 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 3282.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	G6N13_RS02810	74	485	98.27586206896551	2.12e-171
+OMGOKNPM_01809	G6N13_RS02800	60	169	80.87431693989072	7.96e-52
+OMGOKNPM_01810	G6N13_RS02815	62	818	96.22886866059818	1.72e-289
+OMGOKNPM_01811	G6N13_RS02780	70	147	79.83870967741935	3.38e-45
+OMGOKNPM_01812	G6N13_RS02775	60	146	100.0	6.32e-45
+OMGOKNPM_01813	G6N13_RS02770	68	419	100.0	7.21e-146
+OMGOKNPM_01814	G6N13_RS02765	73	731	99.80353634577604	3.87e-263
+OMGOKNPM_01815	G6N13_RS02760	62	367	99.32432432432432	2.86e-125
+
+
+
+>>
+17. NZ_CP046600
+Source: Mycobacterium spongiae strain FSD4b-SM chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3122.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01810	F6B93_RS04115	81	1095	96.4889466840052	0.0
+OMGOKNPM_01811	F6B93_RS04110	82	163	80.64516129032258	4.9e-51
+OMGOKNPM_01812	F6B93_RS04105	78	166	95.32710280373831	5.29e-53
+OMGOKNPM_01813	F6B93_RS04100	78	486	100.0	9.75e-173
+OMGOKNPM_01814	F6B93_RS04095	81	806	99.80353634577604	5.78e-293
+OMGOKNPM_01815	F6B93_RS04090	70	406	99.66216216216216	1.42e-140
+
+
+
+>>
+18. NZ_CP020821
+Source: Mycobacterium colombiense CECT 3035 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2821.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	B9D87_RS00140	78	517	98.85057471264368	5.76e-184
+OMGOKNPM_01809	B9D87_RS00145	64	206	91.80327868852459	5.23e-66
+OMGOKNPM_01809	B9D87_RS00210	51	154	87.43169398907104	4.29e-46
+OMGOKNPM_01811	B9D87_RS00185	85	174	80.64516129032258	1.17e-55
+OMGOKNPM_01812	B9D87_RS00190	74	167	100.0	2.62e-53
+OMGOKNPM_01813	B9D87_RS00195	76	458	95.61128526645768	1.17e-161
+OMGOKNPM_01814	B9D87_RS00200	76	753	99.80353634577604	1.05e-271
+OMGOKNPM_01815	B9D87_RS00205	67	392	99.66216216216216	3.48e-135
+
+
+
+>>
+19. NZ_KK328284
+Source: Mycobacterium [tuberculosis] TKK-01-0051 addxi-supercont1.1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2807.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	K875_RS09035	77	508	98.85057471264368	2.59e-180
+OMGOKNPM_01809	K875_RS09040	62	207	98.90710382513662	9.11e-67
+OMGOKNPM_01809	K875_RS09100	51	154	85.24590163934425	6.08e-46
+OMGOKNPM_01811	K875_RS09075	85	174	80.64516129032258	1.17e-55
+OMGOKNPM_01812	K875_RS09080	74	167	100.0	3.72e-53
+OMGOKNPM_01813	K875_RS09085	76	460	95.61128526645768	2.88e-162
+OMGOKNPM_01814	K875_RS09090	76	745	99.80353634577604	8.15e-269
+OMGOKNPM_01815	K875_RS09095	66	392	99.66216216216216	7.01e-135
+
+
+
+>>
+20. NZ_CP092488
+Source: Mycobacterium paraterrae strain DSM 45127 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2715.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	MKK62_RS17815	74	491	97.70114942528735	7.54e-174
+OMGOKNPM_01809	MKK62_RS17820	69	192	78.14207650273224	3.2e-61
+OMGOKNPM_01809	MKK62_RS17810	54	157	81.9672131147541	2.17e-47
+OMGOKNPM_01811	MKK62_RS17860	78	164	81.45161290322581	7.58e-52
+OMGOKNPM_01812	MKK62_RS17865	68	152	98.13084112149532	2.24e-47
+OMGOKNPM_01813	MKK62_RS17870	73	461	99.68652037617555	1.54e-162
+OMGOKNPM_01814	MKK62_RS17875	74	723	96.85658153241651	8.59e-260
+OMGOKNPM_01815	MKK62_RS17880	63	375	99.66216216216216	1.25e-128
+
+
+
+>>
+21. NC_021715
+Source: Mycobacterium intracellulare subsp. yongonense 05-1390, complete sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2650.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	OEM_RS18290	76	508	99.71264367816092	1.82e-180
+OMGOKNPM_01809	OEM_RS18285	65	206	88.52459016393442	2.85e-66
+OMGOKNPM_01811	OEM_RS18255	87	177	79.83870967741935	3.51e-57
+OMGOKNPM_01812	OEM_RS18250	75	165	100.0	2.15e-52
+OMGOKNPM_01813	OEM_RS18245	76	466	96.55172413793103	7.45e-165
+OMGOKNPM_01814	OEM_RS18240	77	761	99.80353634577604	4.71e-275
+OMGOKNPM_01815	OEM_RS18235	65	367	99.66216216216216	2.47e-125
+
+
+
+>>
+22. NZ_CP023147
+Source: Mycobacterium marseillense strain FLAC0026 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2650.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	CKJ54_RS17660	77	508	100.0	1.82e-180
+OMGOKNPM_01809	CKJ54_RS17650	61	205	100.0	8.4e-66
+OMGOKNPM_01811	CKJ54_RS17615	83	172	80.64516129032258	3.36e-55
+OMGOKNPM_01812	CKJ54_RS17610	75	166	100.0	5.29e-53
+OMGOKNPM_01813	CKJ54_RS17605	75	456	96.55172413793103	1.36e-160
+OMGOKNPM_01814	CKJ54_RS17600	79	778	99.80353634577604	6.68e-282
+OMGOKNPM_01815	CKJ54_RS17595	64	365	99.66216216216216	2.85e-124
+
+
+
+>>
+23. NZ_AP022584
+Source: Mycobacterium marseillense strain JCM 17324 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2649.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	G6N26_RS10535	77	509	100.0	1.28e-180
+OMGOKNPM_01809	G6N26_RS10525	64	204	91.80327868852459	2.4e-65
+OMGOKNPM_01811	G6N26_RS10495	83	172	80.64516129032258	3.36e-55
+OMGOKNPM_01812	G6N26_RS10490	75	167	100.0	1.84e-53
+OMGOKNPM_01813	G6N26_RS10485	75	456	96.55172413793103	1.36e-160
+OMGOKNPM_01814	G6N26_RS10480	79	775	99.80353634577604	1.57e-280
+OMGOKNPM_01815	G6N26_RS10475	64	366	99.66216216216216	7.04e-125
+
+
+
+>>
+24. NZ_CP015964
+Source: Mycobacterium intracellulare subsp. yongonense strain Asan 36912 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2648.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	MOTT12_RS18450	76	506	99.71264367816092	1.05e-179
+OMGOKNPM_01809	MOTT12_RS18445	65	206	88.52459016393442	2.85e-66
+OMGOKNPM_01811	MOTT12_RS18415	87	177	79.83870967741935	3.51e-57
+OMGOKNPM_01812	MOTT12_RS18410	75	165	100.0	2.15e-52
+OMGOKNPM_01813	MOTT12_RS18405	76	466	96.55172413793103	7.45e-165
+OMGOKNPM_01814	MOTT12_RS18400	77	761	99.80353634577604	4.71e-275
+OMGOKNPM_01815	MOTT12_RS18395	65	367	99.66216216216216	2.47e-125
+
+
+
+>>
+25. NZ_AP012555
+Source: Mycobacterium avium subsp. hominissuis TH135 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2612.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	MAH_RS16265	76	492	96.26436781609196	3.88e-174
+OMGOKNPM_01809	MAH_RS16260	64	214	98.90710382513662	1.9e-69
+OMGOKNPM_01811	MAH_RS16240	85	173	80.64516129032258	1.67e-55
+OMGOKNPM_01812	MAH_RS16235	74	169	100.0	6.44e-54
+OMGOKNPM_01813	MAH_RS16230	73	448	96.23824451410658	1.02e-157
+OMGOKNPM_01814	MAH_RS16225	74	731	99.41060903732809	4.92e-263
+OMGOKNPM_01815	MAH_RS16220	66	385	99.66216216216216	6.94e-132
+
+
+
+>>
+26. NZ_CP018020
+Source: Mycobacterium avium subsp. hominissuis strain OCU873s_P7_4s chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2610.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	BJP74_RS16740	76	492	96.26436781609196	3.88e-174
+OMGOKNPM_01809	BJP74_RS16735	64	214	98.90710382513662	1.9e-69
+OMGOKNPM_01811	BJP74_RS16715	85	172	80.64516129032258	3.36e-55
+OMGOKNPM_01812	BJP74_RS16710	74	168	100.0	1.3e-53
+OMGOKNPM_01813	BJP74_RS16705	74	453	96.23824451410658	1.07e-159
+OMGOKNPM_01814	BJP74_RS16700	74	729	99.41060903732809	2.84e-262
+OMGOKNPM_01815	BJP74_RS16695	65	382	99.66216216216216	8.01e-131
+
+
+
+>>
+27. NZ_CP018019
+Source: Mycobacterium avium subsp. hominissuis strain OCU889s_P11_4s chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2607.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	BJP76_RS16845	77	491	95.6896551724138	1.58e-173
+OMGOKNPM_01809	BJP76_RS16840	64	214	98.90710382513662	1.9e-69
+OMGOKNPM_01811	BJP76_RS16820	84	172	80.64516129032258	6.78e-55
+OMGOKNPM_01812	BJP76_RS16815	73	165	100.0	1.52e-52
+OMGOKNPM_01813	BJP76_RS16810	74	452	96.23824451410658	3.07e-159
+OMGOKNPM_01814	BJP76_RS16805	74	729	99.41060903732809	2.84e-262
+OMGOKNPM_01815	BJP76_RS16800	66	384	99.66216216216216	9.85e-132
+
+
+
+>>
+28. NZ_CP036220
+Source: Mycobacterium avium subsp. hominissuis strain mc2 2500 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2605.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	EX350_RS18685	77	494	96.26436781609196	9.56e-175
+OMGOKNPM_01809	EX350_RS18680	64	214	98.90710382513662	1.34e-69
+OMGOKNPM_01811	EX350_RS18660	84	171	80.64516129032258	1.37e-54
+OMGOKNPM_01812	EX350_RS18655	74	168	100.0	1.3e-53
+OMGOKNPM_01813	EX350_RS18650	74	449	96.23824451410658	5.06e-158
+OMGOKNPM_01814	EX350_RS18645	74	726	99.41060903732809	2.32e-261
+OMGOKNPM_01815	EX350_RS18640	65	383	99.66216216216216	2.81e-131
+
+
+
+>>
+29. NZ_CP040250
+Source: Mycobacterium avium subsp. hominissuis strain 101174 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2605.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	FCV17_RS22320	77	491	95.6896551724138	1.58e-173
+OMGOKNPM_01809	FCV17_RS22315	64	214	98.90710382513662	1.9e-69
+OMGOKNPM_01811	FCV17_RS22290	84	172	80.64516129032258	6.78e-55
+OMGOKNPM_01812	FCV17_RS22285	73	165	100.0	1.52e-52
+OMGOKNPM_01813	FCV17_RS22280	74	450	96.23824451410658	1.77e-158
+OMGOKNPM_01814	FCV17_RS22275	74	727	99.41060903732809	1.63e-261
+OMGOKNPM_01815	FCV17_RS22270	66	386	99.66216216216216	2.43e-132
+
+
+
+>>
+30. NZ_CP076851
+Source: Mycobacterium avium subsp. hominissuis strain CAM177 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2605.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	BB735_RS18500	77	491	95.6896551724138	1.58e-173
+OMGOKNPM_01809	BB735_RS18495	64	214	98.90710382513662	1.9e-69
+OMGOKNPM_01811	BB735_RS18475	84	172	80.64516129032258	6.78e-55
+OMGOKNPM_01812	BB735_RS18470	73	165	100.0	1.52e-52
+OMGOKNPM_01813	BB735_RS18465	74	450	96.23824451410658	1.77e-158
+OMGOKNPM_01814	BB735_RS18460	74	727	99.41060903732809	1.63e-261
+OMGOKNPM_01815	BB735_RS18455	66	386	99.66216216216216	2.43e-132
+
+
+
+>>
+31. NZ_CP029332
+Source: Mycobacterium avium subsp. hominissuis strain MAC109 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2604.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	DFS55_RS07155	77	493	96.26436781609196	1.36e-174
+OMGOKNPM_01809	DFS55_RS07160	62	211	98.90710382513662	3.12e-68
+OMGOKNPM_01811	DFS55_RS07185	84	172	80.64516129032258	6.78e-55
+OMGOKNPM_01812	DFS55_RS07190	72	164	100.0	6.17e-52
+OMGOKNPM_01813	DFS55_RS07195	74	451	96.23824451410658	1.25e-158
+OMGOKNPM_01814	DFS55_RS07200	74	727	99.41060903732809	1.63e-261
+OMGOKNPM_01815	DFS55_RS07205	66	386	99.66216216216216	1.72e-132
+
+
+
+>>
+32. NC_008595
+Source: Mycobacterium avium 104, complete sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2603.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	MAV_RS18660	76	492	96.26436781609196	3.88e-174
+OMGOKNPM_01809	MAV_RS18655	62	210	98.90710382513662	8.9e-68
+OMGOKNPM_01811	MAV_RS18635	85	172	80.64516129032258	3.36e-55
+OMGOKNPM_01812	MAV_RS18630	74	168	100.0	1.3e-53
+OMGOKNPM_01813	MAV_RS18625	74	453	96.23824451410658	1.52e-159
+OMGOKNPM_01814	MAV_RS18620	74	726	99.41060903732809	2.32e-261
+OMGOKNPM_01815	MAV_RS18615	65	382	99.66216216216216	8.01e-131
+
+
+
+>>
+33. NZ_KK322661
+Source: Mycobacterium avium XTB13-223 adWtH-supercont1.2, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2601.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	X425_RS17825	76	492	96.26436781609196	3.88e-174
+OMGOKNPM_01809	X425_RS17830	62	210	98.90710382513662	8.9e-68
+OMGOKNPM_01811	X425_RS17850	85	172	80.64516129032258	3.36e-55
+OMGOKNPM_01812	X425_RS17855	75	169	100.0	3.19e-54
+OMGOKNPM_01813	X425_RS17860	74	450	96.23824451410658	1.77e-158
+OMGOKNPM_01814	X425_RS17865	74	726	99.41060903732809	2.32e-261
+OMGOKNPM_01815	X425_RS17870	65	382	99.66216216216216	8.01e-131
+
+
+
+>>
+34. NZ_CP016396
+Source: Mycobacterium avium strain RCAD0278 isolate SC150824 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2600.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	BBJ32_RS14700	77	493	96.26436781609196	1.36e-174
+OMGOKNPM_01809	BBJ32_RS14705	64	214	98.90710382513662	1.34e-69
+OMGOKNPM_01811	BBJ32_RS14725	85	173	80.64516129032258	1.67e-55
+OMGOKNPM_01812	BBJ32_RS14730	71	161	100.0	5.07e-51
+OMGOKNPM_01813	BBJ32_RS14735	74	453	96.23824451410658	1.52e-159
+OMGOKNPM_01814	BBJ32_RS14740	73	724	99.41060903732809	2.69e-260
+OMGOKNPM_01815	BBJ32_RS14745	65	382	99.66216216216216	8.01e-131
+
+
+
+>>
+35. NZ_CP060405
+Source: Mycobacterium avium subsp. hominissuis strain W9 chromosome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2600.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	H8Z48_RS06840	77	491	95.6896551724138	1.58e-173
+OMGOKNPM_01809	H8Z48_RS06845	64	214	98.90710382513662	1.9e-69
+OMGOKNPM_01811	H8Z48_RS06865	84	172	80.64516129032258	6.78e-55
+OMGOKNPM_01812	H8Z48_RS06870	73	165	100.0	1.52e-52
+OMGOKNPM_01813	H8Z48_RS06875	74	450	96.23824451410658	1.77e-158
+OMGOKNPM_01814	H8Z48_RS06880	74	726	99.41060903732809	2.32e-261
+OMGOKNPM_01815	H8Z48_RS06885	65	382	99.66216216216216	8.01e-131
+
+
+
+>>
+36. NZ_CP060407
+Source: Mycobacterium avium subsp. hominissuis strain w14 chromosome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2600.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	H8Z54_RS16975	77	491	95.6896551724138	1.58e-173
+OMGOKNPM_01809	H8Z54_RS16970	64	214	98.90710382513662	1.9e-69
+OMGOKNPM_01811	H8Z54_RS16950	84	172	80.64516129032258	6.78e-55
+OMGOKNPM_01812	H8Z54_RS16945	73	165	100.0	1.52e-52
+OMGOKNPM_01813	H8Z54_RS16940	74	450	96.23824451410658	1.77e-158
+OMGOKNPM_01814	H8Z54_RS16935	74	726	99.41060903732809	2.32e-261
+OMGOKNPM_01815	H8Z54_RS16930	65	382	99.66216216216216	8.01e-131
+
+
+
+>>
+37. NZ_HG315953
+Source: Mycobacterium simiae ATCC 25275 = DSM 44165, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2496.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	TY06_RS22920	72	469	97.98850574712644	5.04e-165
+OMGOKNPM_01809	TY06_RS22925	68	211	91.2568306010929	2.06e-68
+OMGOKNPM_01811	TY06_RS22940	73	148	80.64516129032258	1.33e-45
+OMGOKNPM_01812	TY06_RS22945	71	159	100.0	4.17e-50
+OMGOKNPM_01813	TY06_RS22950	70	432	96.86520376175548	1.82e-151
+OMGOKNPM_01814	TY06_RS22955	73	707	98.82121807465619	9.68e-254
+OMGOKNPM_01815	TY06_RS22960	64	370	99.66216216216216	1.08e-126
+
+
+
+>>
+38. NZ_AP020326
+Source: Mycobacterium avium subsp. hominissuis strain JP-H-1 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2007.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	JPH1_RS19205	77	491	95.6896551724138	1.58e-173
+OMGOKNPM_01809	JPH1_RS19200	64	214	98.90710382513662	1.9e-69
+OMGOKNPM_01811	JPH1_RS19175	84	172	80.64516129032258	6.78e-55
+OMGOKNPM_01812	JPH1_RS19170	73	165	100.0	1.52e-52
+OMGOKNPM_01813	JPH1_RS19165	73	447	96.23824451410658	2.06e-157
+OMGOKNPM_01814	JPH1_RS19160	87	132	14.538310412573674	1.75e-34
+OMGOKNPM_01815	JPH1_RS19155	66	386	99.66216216216216	2.43e-132
+
+
+
+>>
+39. NZ_AP022573
+Source: Mycobacterium saskatchewanense strain JCM 13016 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2840.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	G6N56_RS26160	75	494	99.13793103448276	5.48e-175
+OMGOKNPM_01809	G6N56_RS26170	62	207	95.62841530054644	9.97e-67
+OMGOKNPM_01809	G6N56_RS26240	53	152	81.9672131147541	1.68e-45
+OMGOKNPM_01811	G6N56_RS26215	88	178	80.64516129032258	2.47e-57
+OMGOKNPM_01812	G6N56_RS26220	79	172	100.0	3.88e-55
+OMGOKNPM_01813	G6N56_RS26225	78	480	96.86520376175548	2.56e-170
+OMGOKNPM_01814	G6N56_RS26230	77	752	100.19646365422396	2.45e-271
+OMGOKNPM_01815	G6N56_RS26235	70	405	99.32432432432432	3.28e-140
+
+
+
+>>
+40. NZ_AP022582
+Source: Mycobacterium seoulense strain JCM 16018 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2830.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	G6N37_RS01660	79	511	97.70114942528735	1.22e-181
+OMGOKNPM_01809	G6N37_RS01670	62	209	97.81420765027322	2.18e-67
+OMGOKNPM_01809	G6N37_RS01730	54	151	81.9672131147541	4.77e-45
+OMGOKNPM_01811	G6N37_RS01705	85	172	80.64516129032258	4.78e-55
+OMGOKNPM_01812	G6N37_RS01710	76	170	100.0	1.58e-54
+OMGOKNPM_01813	G6N37_RS01715	78	479	96.23824451410658	7.33e-170
+OMGOKNPM_01814	G6N37_RS01720	76	747	100.78585461689586	1.64e-269
+OMGOKNPM_01815	G6N37_RS01725	66	391	99.66216216216216	1.36e-134
+
+
+
+>>
+41. NZ_JACPNT010000048
+Source: MAG: Mycobacterium nebraskense isolate NC_groundwater_582_Pr5_B-0.1um_67_19 alan_book_18_scaffold_245435, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2826.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	HYX30_RS16610	76	497	97.70114942528735	5.2e-176
+OMGOKNPM_01809	HYX30_RS16600	62	208	97.81420765027322	6.22e-67
+OMGOKNPM_01809	HYX30_RS16545	54	152	81.9672131147541	4.17e-45
+OMGOKNPM_01811	HYX30_RS16570	82	165	80.64516129032258	2.64e-52
+OMGOKNPM_01812	HYX30_RS16565	77	172	100.0	3.88e-55
+OMGOKNPM_01813	HYX30_RS16560	78	481	96.23824451410658	1.81e-170
+OMGOKNPM_01814	HYX30_RS16555	75	749	100.78585461689586	4.04e-270
+OMGOKNPM_01815	HYX30_RS16550	68	402	99.66216216216216	5.38e-139
+
+
+
+>>
+42. NZ_AP022590
+Source: Mycobacterium mantenii strain JCM 18113 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2809.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	G6N50_RS00295	78	519	99.71264367816092	1.42e-184
+OMGOKNPM_01809	G6N50_RS00305	63	195	91.80327868852459	7.95e-62
+OMGOKNPM_01809	G6N50_RS00360	53	152	83.60655737704919	2.17e-45
+OMGOKNPM_01811	G6N50_RS00335	83	172	80.64516129032258	4.78e-55
+OMGOKNPM_01812	G6N50_RS00340	74	169	100.0	3.19e-54
+OMGOKNPM_01813	G6N50_RS00345	75	462	96.23824451410658	5e-163
+OMGOKNPM_01814	G6N50_RS00350	75	737	100.0	1.28e-265
+OMGOKNPM_01815	G6N50_RS00355	69	403	99.66216216216216	3.85e-139
+
+
+
+>>
+43. NZ_AP024828
+Source: Mycobacterium senriense strain TY59 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2808.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	MTY59_RS00200	77	509	99.71264367816092	6.37e-181
+OMGOKNPM_01809	MTY59_RS00190	60	207	100.5464480874317	1.56e-66
+OMGOKNPM_01809	MTY59_RS00125	51	149	85.24590163934425	7.63e-44
+OMGOKNPM_01811	MTY59_RS00150	81	169	80.64516129032258	5.57e-54
+OMGOKNPM_01812	MTY59_RS00145	73	168	100.0	9.14e-54
+OMGOKNPM_01813	MTY59_RS00140	75	455	96.23824451410658	1.93e-160
+OMGOKNPM_01814	MTY59_RS00135	75	754	99.80353634577604	3.66e-272
+OMGOKNPM_01815	MTY59_RS00130	67	397	99.66216216216216	1.03e-136
+
+
+
+>>
+44. NZ_LT719128
+Source: Mycobacterium colombiense strain CSURP297, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2805.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	B0530_RS06115	77	511	98.85057471264368	2.23e-181
+OMGOKNPM_01809	B0530_RS06125	65	203	86.88524590163934	1.37e-65
+OMGOKNPM_01809	B0530_RS06190	51	154	85.24590163934425	6.08e-46
+OMGOKNPM_01811	B0530_RS06165	85	174	80.64516129032258	1.17e-55
+OMGOKNPM_01812	B0530_RS06170	73	166	100.0	5.29e-53
+OMGOKNPM_01813	B0530_RS06175	76	458	95.61128526645768	1.66e-161
+OMGOKNPM_01814	B0530_RS06180	76	747	99.80353634577604	1.41e-269
+OMGOKNPM_01815	B0530_RS06185	66	392	99.66216216216216	7.01e-135
+
+
+
+>>
+45. NZ_CP065047
+Source: Mycobacterium kubicae strain JCM 13573 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2762.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	I2456_RS08430	74	486	97.70114942528735	1.46e-171
+OMGOKNPM_01809	I2456_RS08440	66	199	85.79234972677595	1.49e-63
+OMGOKNPM_01809	I2456_RS08505	53	154	82.5136612021858	3.03e-46
+OMGOKNPM_01811	I2456_RS08480	82	167	80.64516129032258	3.22e-53
+OMGOKNPM_01812	I2456_RS08485	73	165	100.0	1.52e-52
+OMGOKNPM_01813	I2456_RS08490	75	471	98.11912225705329	1.37e-166
+OMGOKNPM_01814	I2456_RS08495	74	730	99.60707269155206	9.56e-263
+OMGOKNPM_01815	I2456_RS08500	67	390	99.66216216216216	3.28e-134
+
+
+
+>>
+46. NZ_CP045081
+Source: Mycobacterium kubicae strain NJH_MKUB1 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2759.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	GAN17_RS07855	74	485	97.70114942528735	2.61e-171
+OMGOKNPM_01809	GAN17_RS07865	66	199	85.79234972677595	1.49e-63
+OMGOKNPM_01809	GAN17_RS07930	53	154	82.5136612021858	3.03e-46
+OMGOKNPM_01811	GAN17_RS07905	82	167	80.64516129032258	3.22e-53
+OMGOKNPM_01812	GAN17_RS07910	73	164	100.0	3.06e-52
+OMGOKNPM_01813	GAN17_RS07915	75	469	98.11912225705329	7.88e-166
+OMGOKNPM_01814	GAN17_RS07920	74	731	99.60707269155206	4.74e-263
+OMGOKNPM_01815	GAN17_RS07925	67	390	99.66216216216216	3.28e-134
+
+
+
+>>
+47. NZ_AP025179
+Source: Mycobacterium sp. IWGMT90018-18076 strain IWGMT90018 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2725.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	L6444_RS08620	75	498	99.42528735632183	3.2e-176
+OMGOKNPM_01809	L6444_RS08630	60	198	97.26775956284153	3.01e-63
+OMGOKNPM_01809	L6444_RS08605	51	149	81.9672131147541	2.73e-44
+OMGOKNPM_01811	L6444_RS08655	79	163	80.64516129032258	2.04e-51
+OMGOKNPM_01812	L6444_RS08660	71	154	100.0	3.99e-48
+OMGOKNPM_01813	L6444_RS08665	73	453	95.61128526645768	1.07e-159
+OMGOKNPM_01814	L6444_RS08670	73	729	99.80353634577604	2.23e-262
+OMGOKNPM_01815	L6444_RS08675	66	381	99.66216216216216	5.66e-131
+
+
+
+>>
+48. NZ_AP018164
+Source: Mycobacterium shigaense strain JCM 32072 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2714.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	MSG_RS07550	76	494	98.5632183908046	7.5e-175
+OMGOKNPM_01809	MSG_RS07560	66	212	93.98907103825137	1.06e-68
+OMGOKNPM_01809	MSG_RS07540	52	144	81.9672131147541	2.85e-42
+OMGOKNPM_01811	MSG_RS07580	81	166	80.64516129032258	9.23e-53
+OMGOKNPM_01812	MSG_RS07585	73	162	100.0	1.77e-51
+OMGOKNPM_01813	MSG_RS07590	73	431	95.61128526645768	5.03e-151
+OMGOKNPM_01814	MSG_RS07595	76	743	99.41060903732809	5.06e-268
+OMGOKNPM_01815	MSG_RS07600	63	362	99.66216216216216	1.71e-123
+
+
+
+>>
+49. NZ_CP059165
+Source: Mycobacterium vicinigordonae strain 24 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2711.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	H0P51_RS09140	74	494	98.27586206896551	7.5e-175
+OMGOKNPM_01809	H0P51_RS09150	63	202	95.62841530054644	6.63e-65
+OMGOKNPM_01809	H0P51_RS09125	51	149	81.9672131147541	3.17e-44
+OMGOKNPM_01811	H0P51_RS09175	79	166	80.64516129032258	8.67e-53
+OMGOKNPM_01812	H0P51_RS09180	68	150	100.0	1.89e-46
+OMGOKNPM_01813	H0P51_RS09185	71	435	95.61128526645768	1.52e-152
+OMGOKNPM_01814	H0P51_RS09190	74	730	99.80353634577604	7.8e-263
+OMGOKNPM_01815	H0P51_RS09195	66	385	99.66216216216216	3.92e-132
+
+
+
+>>
+50. NZ_AP024251
+Source: Mycobacterium paraintracellulare strain M011 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2652.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01808	JN179_RS18045	76	508	99.71264367816092	2.59e-180
+OMGOKNPM_01809	JN179_RS18035	60	203	100.0	3.4e-65
+OMGOKNPM_01811	JN179_RS17990	87	177	79.83870967741935	3.51e-57
+OMGOKNPM_01812	JN179_RS17985	75	165	100.0	2.15e-52
+OMGOKNPM_01813	JN179_RS17980	76	468	96.55172413793103	2.61e-165
+OMGOKNPM_01814	JN179_RS17975	77	761	99.80353634577604	6.69e-275
+OMGOKNPM_01815	JN179_RS17970	65	370	99.66216216216216	1.51e-126
+

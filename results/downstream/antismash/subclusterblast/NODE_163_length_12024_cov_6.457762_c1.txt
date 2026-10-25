@@ -1,0 +1,17 @@
+ClusterBlast scores for NODE_163_length_12024_cov_6.457762
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_03803	682	883	-	hypothetical protein	
+OMGOKNPM_03804	924	2118	-	4,4'-dithiodibutanoate disulfide reductase	
+OMGOKNPM_03805	2225	3071	+	Bifunctional protein FolD protein	
+OMGOKNPM_03806	3067	3361	+	hypothetical protein	
+OMGOKNPM_03807	3364	3781	-	Putative lipoprotein LprJ	
+OMGOKNPM_03808	4034	5477	+	putative FAD-linked oxidoreductase YvdP	
+OMGOKNPM_03809	5724	11307	+	D-alanine--D-alanyl carrier protein ligase	
+OMGOKNPM_03810	11150	11801	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

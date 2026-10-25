@@ -1,0 +1,132 @@
+ClusterBlast scores for NODE_47_length_26826_cov_7.602981
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_01800	2677	3493	-	Acetoacetate decarboxylase	
+OMGOKNPM_01801	3489	4428	-	CLA biosynthesis dehydrogenase/reductase	
+OMGOKNPM_01802	4702	5176	+	hypothetical protein	
+OMGOKNPM_01803	5365	5647	+	hypothetical protein	
+OMGOKNPM_01804	5650	6151	+	hypothetical protein	
+OMGOKNPM_01805	6092	7145	+	L-asparagine permease 1	
+OMGOKNPM_01806	7226	7829	+	hypothetical protein	
+OMGOKNPM_01807	7822	8530	+	hypothetical protein	
+OMGOKNPM_01808	8646	9693	+	Isopentenyl-diphosphate delta-isomerase	
+OMGOKNPM_01809	9702	10254	-	hypothetical protein	
+OMGOKNPM_01810	10299	12609	-	Trehalose monomycolate exporter MmpL3	
+OMGOKNPM_01811	12602	12977	-	hypothetical protein	
+OMGOKNPM_01812	12973	13297	-	hypothetical protein	
+OMGOKNPM_01813	13293	14253	-	15-cis-phytoene synthase	
+OMGOKNPM_01814	14249	15779	-	zeta-carotene-forming phytoene desaturase	
+OMGOKNPM_01815	15803	16694	-	(2E,6E)-farnesyl diphosphate synthase	
+OMGOKNPM_01816	17338	17671	+	hypothetical protein	
+OMGOKNPM_01817	17667	17958	+	hypothetical protein	
+OMGOKNPM_01818	17976	19365	-	Carnitine monooxygenase oxygenase subunit	
+OMGOKNPM_01819	19372	19921	-	hypothetical protein	
+OMGOKNPM_01820	20249	20459	+	hypothetical protein	
+OMGOKNPM_01821	20528	21548	+	hypothetical protein	
+OMGOKNPM_01822	21658	22825	+	Acyl-CoA dehydrogenase FadE12	
+OMGOKNPM_01823	22920	24081	+	Steroid 3-ketoacyl-CoA thiolase FadA6	
+OMGOKNPM_01824	24184	24790	+	hypothetical protein	
+OMGOKNPM_01825	24786	25134	+	hypothetical protein	
+OMGOKNPM_01826	25138	25291	+	hypothetical protein	
+OMGOKNPM_01827	25399	26671	+	Cytochrome P450 144	
+
+
+Significant hits: 
+1. BGC0000636.3	carotenoid
+2. BGC0001456.3	isorenieratene
+3. BGC0000633.3	carotenoid
+4. BGC0001227.3	isorenieratene
+5. BGC0000664.5	isorenieratene
+6. BGC0000649.3	carotenoid
+
+
+Details:
+
+>>
+1. BGC0000636.3
+Source: carotenoid
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 205.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01811	AAF65587.1	55	108	75.80645161290323	9.46e-32
+OMGOKNPM_01812	AAF65588.1	46	97	93.45794392523365	2.98e-27
+
+
+
+>>
+2. BGC0001456.3
+Source: isorenieratene
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 881.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01813	crtaB	53	307	96.86520376175548	1.27e-103
+OMGOKNPM_01814	crtaI	62	574	97.64243614931237	6.11e-203
+
+
+
+>>
+3. BGC0000633.3
+Source: carotenoid
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 871.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01813	BAB69145.1	54	300	94.67084639498434	6.5e-101
+OMGOKNPM_01814	BAB69144.1	61	571	99.01768172888016	6.8e-202
+
+
+
+>>
+4. BGC0001227.3
+Source: isorenieratene
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 850.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01813	B446_02725	55	299	98.11912225705329	1.62e-100
+OMGOKNPM_01814	B446_02730	61	551	95.08840864440079	3.32e-194
+
+
+
+>>
+5. BGC0000664.5
+Source: isorenieratene
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 850.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01813	SGR_6828	54	290	96.55172413793103	7.84e-97
+OMGOKNPM_01814	SGR_6829	61	560	97.24950884086444	9.73e-198
+
+
+
+>>
+6. BGC0000649.3
+Source: carotenoid
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 807.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01813	AAG28701.1	49	253	96.55172413793103	3.38e-82
+OMGOKNPM_01814	AAG28700.1	60	554	97.24950884086444	2.6e-195
+

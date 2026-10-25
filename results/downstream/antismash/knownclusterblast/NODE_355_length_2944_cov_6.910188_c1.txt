@@ -1,0 +1,11 @@
+ClusterBlast scores for NODE_355_length_2944_cov_6.910188
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_05110	126	1428	-	hypothetical protein	
+OMGOKNPM_05111	1406	2879	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

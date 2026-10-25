@@ -1,0 +1,28 @@
+ClusterBlast scores for NODE_18_length_38275_cov_7.216578
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_00913	67	808	+	hypothetical protein	
+OMGOKNPM_00914	837	2388	-	Biotin-dependent long chain acyl-coenzyme A carboxylase beta4 subunit	
+OMGOKNPM_00915	2417	7769	-	Polyketide synthase Pks13	
+OMGOKNPM_00916	7791	9681	-	Long-chain-fatty-acid--AMP ligase FadD32	
+OMGOKNPM_00917	9997	11011	-	Carboxylesterase/lipase Culp6	
+OMGOKNPM_00918	11247	12153	-	MPT51/MPB51 antigen	
+OMGOKNPM_00919	12328	13342	-	Diacylglycerol acyltransferase/mycolyltransferase Ag85A	
+OMGOKNPM_00920	13738	15739	-	Terminal beta-(1->2)-arabinofuranosyltransferase	
+OMGOKNPM_00921	15713	16622	-	Decaprenyl-phosphate phosphoribosyltransferase	
+OMGOKNPM_00922	16618	17164	-	Decaprenylphosphoryl-5-phosphoribose phosphatase	
+OMGOKNPM_00923	17156	19055	-	Galactofuranosyltransferase GlfT2	
+OMGOKNPM_00924	19051	20260	-	UDP-galactopyranose mutase	
+OMGOKNPM_00925	20548	21463	+	Exported repetitive protein	
+OMGOKNPM_00926	21663	23289	+	hypothetical protein	
+OMGOKNPM_00927	23304	24033	-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU	
+OMGOKNPM_00928	24128	24914	-	hypothetical protein	
+OMGOKNPM_00929	24947	25703	-	hypothetical protein	
+OMGOKNPM_00930	25706	26486	-	hypothetical protein	
+OMGOKNPM_00931	26558	27389	+	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

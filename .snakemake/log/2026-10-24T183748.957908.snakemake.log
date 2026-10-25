@@ -1,0 +1,137 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job stats:
+job               count
+--------------  -------
+all                   1
+fastqc_raw            1
+fastqc_trimmed        1
+multiqc               1
+quast                 1
+spades                1
+trimmomatic           1
+total                 7
+
+Select jobs to execute...
+Execute 2 jobs...
+
+[Sat Oct 24 18:37:49 2026]
+localrule trimmomatic:
+    input: data/ERR3335404_1.fastq.gz, data/ERR3335404_2.fastq.gz
+    output: results/trimmed/ERR3335404_1_trimmed.fastq.gz, results/trimmed/ERR3335404_1_unpaired.fastq.gz, results/trimmed/ERR3335404_2_trimmed.fastq.gz, results/trimmed/ERR3335404_2_unpaired.fastq.gz
+    jobid: 4
+    reason: Missing output files: results/trimmed/ERR3335404_2_trimmed.fastq.gz, results/trimmed/ERR3335404_1_trimmed.fastq.gz
+    wildcards: sample=ERR3335404
+    threads: 8
+    resources: tmpdir=/tmp
+
+
+        trimmomatic PE -threads 8 -phred33         data/ERR3335404_1.fastq.gz data/ERR3335404_2.fastq.gz         results/trimmed/ERR3335404_1_trimmed.fastq.gz results/trimmed/ERR3335404_1_unpaired.fastq.gz         results/trimmed/ERR3335404_2_trimmed.fastq.gz results/trimmed/ERR3335404_2_unpaired.fastq.gz         LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+        
+
+[Sat Oct 24 18:37:49 2026]
+localrule fastqc_raw:
+    input: data/ERR3335404_1.fastq.gz, data/ERR3335404_2.fastq.gz
+    output: results/fastqc/raw/ERR3335404_1_fastqc.html, results/fastqc/raw/ERR3335404_1_fastqc.zip, results/fastqc/raw/ERR3335404_2_fastqc.html, results/fastqc/raw/ERR3335404_2_fastqc.zip
+    jobid: 2
+    reason: Missing output files: results/fastqc/raw/ERR3335404_1_fastqc.zip
+    wildcards: sample=ERR3335404
+    resources: tmpdir=/tmp
+
+
+        mkdir -p results/fastqc/raw
+        fastqc -o results/fastqc/raw data/ERR3335404_1.fastq.gz data/ERR3335404_2.fastq.gz
+        
+[Sat Oct 24 18:38:05 2026]
+Finished job 2.
+1 of 7 steps (14%) done
+[Sat Oct 24 18:38:11 2026]
+Finished job 4.
+2 of 7 steps (29%) done
+Select jobs to execute...
+Execute 2 jobs...
+
+[Sat Oct 24 18:38:11 2026]
+localrule spades:
+    input: results/trimmed/ERR3335404_1_trimmed.fastq.gz, results/trimmed/ERR3335404_2_trimmed.fastq.gz
+    output: results/spades/ERR3335404/contigs.fasta
+    jobid: 6
+    reason: Missing output files: results/spades/ERR3335404/contigs.fasta; Input files updated by another job: results/trimmed/ERR3335404_2_trimmed.fastq.gz, results/trimmed/ERR3335404_1_trimmed.fastq.gz
+    wildcards: sample=ERR3335404
+    threads: 8
+    resources: tmpdir=/tmp
+
+
+        spades.py --careful -1 results/trimmed/ERR3335404_1_trimmed.fastq.gz -2 results/trimmed/ERR3335404_2_trimmed.fastq.gz -o results/spades/ERR3335404 -t 8 -m 5
+        
+
+[Sat Oct 24 18:38:11 2026]
+localrule fastqc_trimmed:
+    input: results/trimmed/ERR3335404_1_trimmed.fastq.gz, results/trimmed/ERR3335404_2_trimmed.fastq.gz
+    output: results/fastqc/trimmed/ERR3335404_1_trimmed_fastqc.html, results/fastqc/trimmed/ERR3335404_1_trimmed_fastqc.zip, results/fastqc/trimmed/ERR3335404_2_trimmed_fastqc.html, results/fastqc/trimmed/ERR3335404_2_trimmed_fastqc.zip
+    jobid: 3
+    reason: Missing output files: results/fastqc/trimmed/ERR3335404_1_trimmed_fastqc.zip; Input files updated by another job: results/trimmed/ERR3335404_2_trimmed.fastq.gz, results/trimmed/ERR3335404_1_trimmed.fastq.gz
+    wildcards: sample=ERR3335404
+    resources: tmpdir=/tmp
+
+
+        mkdir -p results/fastqc/trimmed
+        fastqc -o results/fastqc/trimmed results/trimmed/ERR3335404_1_trimmed.fastq.gz results/trimmed/ERR3335404_2_trimmed.fastq.gz
+        
+[Sat Oct 24 18:38:37 2026]
+Finished job 3.
+3 of 7 steps (43%) done
+[Sat Oct 24 18:44:48 2026]
+Finished job 6.
+4 of 7 steps (57%) done
+Select jobs to execute...
+Execute 1 jobs...
+
+[Sat Oct 24 18:44:48 2026]
+localrule quast:
+    input: results/spades/ERR3335404/contigs.fasta
+    output: results/quast/ERR3335404/report.html
+    jobid: 5
+    reason: Missing output files: results/quast/ERR3335404/report.html; Input files updated by another job: results/spades/ERR3335404/contigs.fasta
+    wildcards: sample=ERR3335404
+    resources: tmpdir=/tmp
+
+
+        quast.py results/spades/ERR3335404/contigs.fasta -o results/quast/ERR3335404
+        
+[Sat Oct 24 18:44:51 2026]
+Finished job 5.
+5 of 7 steps (71%) done
+Select jobs to execute...
+Execute 1 jobs...
+
+[Sat Oct 24 18:44:51 2026]
+localrule multiqc:
+    input: results/fastqc/raw/ERR3335404_1_fastqc.zip, results/fastqc/trimmed/ERR3335404_1_trimmed_fastqc.zip, results/quast/ERR3335404/report.html
+    output: results/multiqc/multiqc_report.html
+    jobid: 1
+    reason: Missing output files: results/multiqc/multiqc_report.html; Input files updated by another job: results/fastqc/trimmed/ERR3335404_1_trimmed_fastqc.zip, results/fastqc/raw/ERR3335404_1_fastqc.zip, results/quast/ERR3335404/report.html
+    resources: tmpdir=/tmp
+
+
+        multiqc results/ -o results/multiqc/
+        
+[Sat Oct 24 18:44:54 2026]
+Finished job 1.
+6 of 7 steps (86%) done
+Select jobs to execute...
+Execute 1 jobs...
+
+[Sat Oct 24 18:44:54 2026]
+localrule all:
+    input: results/multiqc/multiqc_report.html
+    jobid: 0
+    reason: Input files updated by another job: results/multiqc/multiqc_report.html
+    resources: tmpdir=/tmp
+
+[Sat Oct 24 18:44:54 2026]
+Finished job 0.
+7 of 7 steps (100%) done
+Complete log: .snakemake/log/2026-10-24T183748.957908.snakemake.log

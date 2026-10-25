@@ -1,0 +1,11 @@
+ClusterBlast scores for NODE_371_length_2455_cov_9.074313
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_05158	614	2171	+	Dimodular nonribosomal peptide synthase	
+OMGOKNPM_05159	2167	2431	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

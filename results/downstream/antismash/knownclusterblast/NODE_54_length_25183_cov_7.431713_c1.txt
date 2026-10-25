@@ -1,0 +1,47 @@
+ClusterBlast scores for NODE_54_length_25183_cov_7.431713
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_01982	517	1552	-	Glycolipid sulfotransferase	
+OMGOKNPM_01983	1707	2793	-	Alpha-pyrone synthesis polyketide synthase-like Pks18	
+OMGOKNPM_01984	2789	4181	-	hypothetical protein	
+OMGOKNPM_01985	4519	5560	-	Putative diacylated glycolipid transporter LprF	
+OMGOKNPM_01986	5806	7012	+	Protein	
+OMGOKNPM_01987	7027	7600	+	hypothetical protein	
+OMGOKNPM_01988	7645	7873	+	putative protein	
+OMGOKNPM_01989	7903	8866	+	Flavin-dependent monooxygenase	
+OMGOKNPM_01990	8871	11703	-	hypothetical protein	
+OMGOKNPM_01991	11884	12292	-	hypothetical protein	
+OMGOKNPM_01992	12291	12813	-	Transcription antitermination protein NusB	
+OMGOKNPM_01993	12815	13379	-	Elongation factor P	
+OMGOKNPM_01994	13393	14449	-	Aminopeptidase YpdF	
+OMGOKNPM_01995	14545	15304	+	hypothetical protein	
+OMGOKNPM_01996	15300	15729	-	3-dehydroquinate dehydratase	
+OMGOKNPM_01997	15737	16826	-	3-dehydroquinate synthase	
+OMGOKNPM_01998	16822	17377	-	Shikimate kinase	
+OMGOKNPM_01999	17385	18609	-	Chorismate synthase	
+OMGOKNPM_02000	18685	19129	-	hypothetical protein	
+OMGOKNPM_02001	19140	19974	-	Shikimate dehydrogenase (NADP(+))	
+OMGOKNPM_02002	19970	21227	-	Endolytic murein transglycosylase	
+OMGOKNPM_02003	21219	21651	-	Putative pre-16S rRNA nuclease	
+
+
+Significant hits: 
+1. BGC0002439.3	diastaphenazine/izumiphenazine C
+
+
+Details:
+
+>>
+1. BGC0002439.3
+Source: diastaphenazine/izumiphenazine C
+Type: other:other
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1008.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01997	QJS40203.1	63	404	94.1988950276243	1.84e-140
+OMGOKNPM_01998	QJS40202.1	46	119	89.67391304347827	6.88e-32
+OMGOKNPM_01999	QJS40201.1	65	485	96.80589680589681	2.3e-171
+

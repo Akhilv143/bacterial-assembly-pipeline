@@ -1,0 +1,22 @@
+ClusterBlast scores for NODE_102_length_17472_cov_7.209455
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_02964	151	274	+	hypothetical protein	
+OMGOKNPM_02965	365	1418	+	N-acetyl-gamma-glutamyl-phosphate reductase	
+OMGOKNPM_02966	1490	2705	+	Arginine biosynthesis bifunctional protein ArgJ	
+OMGOKNPM_02967	2701	3583	+	Acetylglutamate kinase	
+OMGOKNPM_02968	3579	4770	+	Acetylornithine aminotransferase	
+OMGOKNPM_02969	4766	5693	+	Ornithine carbamoyltransferase	
+OMGOKNPM_02970	5689	6190	+	Arginine repressor	
+OMGOKNPM_02971	6238	7435	+	Argininosuccinate synthase	
+OMGOKNPM_02972	7529	8942	+	Argininosuccinate lyase	
+OMGOKNPM_02973	9045	10107	+	Polyketide synthase-like Pks10	
+OMGOKNPM_02974	10596	12909	+	Mycoketide-CoA synthase	
+OMGOKNPM_02975	12930	16605	+	Phenolphthiocerol synthesis polyketide synthase type I Pks15/1	
+OMGOKNPM_02976	16797	17427	+	Putative inactive phenolphthiocerol synthesis polyketide synthase type I Pks15	
+
+
+Significant hits: 
+
+
+Details:

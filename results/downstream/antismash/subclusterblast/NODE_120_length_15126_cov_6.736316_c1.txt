@@ -1,0 +1,25 @@
+ClusterBlast scores for NODE_120_length_15126_cov_6.736316
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_03248	99	1080	-	Baeyer-Villiger monooxygenase	
+OMGOKNPM_03249	1385	2471	+	Amine dehydrogenase	
+OMGOKNPM_03250	2467	3241	+	12alpha-hydroxysteroid dehydrogenase	
+OMGOKNPM_03251	3275	4310	-	Hydroxypyruvate reductase	
+OMGOKNPM_03252	4432	8359	+	Delta-poly-L-ornithine synthetase	
+OMGOKNPM_03253	8355	9681	+	Aminopeptidase N	
+OMGOKNPM_03254	9709	10066	-	hypothetical protein	
+OMGOKNPM_03255	10145	10481	-	PE family immunomodulator PE35	
+OMGOKNPM_03256	11017	11257	-	hypothetical protein	
+OMGOKNPM_03257	11385	11871	+	hypothetical protein	
+OMGOKNPM_03258	11942	12326	+	hypothetical protein	
+OMGOKNPM_03259	12390	12744	+	hypothetical protein	
+OMGOKNPM_03260	12823	12997	+	hypothetical protein	
+OMGOKNPM_03261	13011	13176	-	hypothetical protein	
+OMGOKNPM_03262	13318	14131	+	hypothetical protein	
+OMGOKNPM_03263	14127	14691	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

@@ -1,0 +1,28 @@
+ClusterBlast scores for NODE_63_length_22900_cov_7.589777
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_02199	16	3121	+	Linear gramicidin synthase subunit B	
+OMGOKNPM_02200	3145	4855	+	Dimodular nonribosomal peptide synthase	
+OMGOKNPM_02201	4879	6193	+	AMB antimetabolite synthetase AmbE	
+OMGOKNPM_02202	6214	8008	-	Biotin-dependent acyl-coenzyme A carboxylase alpha3 subunit	
+OMGOKNPM_02203	8118	8538	-	putative SufE-like protein	
+OMGOKNPM_02204	8534	9440	-	Putative thiosulfate sulfurtransferase SseA	
+OMGOKNPM_02205	9479	10130	-	Nucleoside triphosphate pyrophosphatase	
+OMGOKNPM_02206	10126	10447	-	Biotin-dependent acetyl-/propionyl-coenzyme A carboxylase epsilon subunit	
+OMGOKNPM_02207	10443	12084	-	Biotin-dependent acetyl-/propionyl-coenzyme A carboxylase beta5 subunit	
+OMGOKNPM_02208	12234	13065	+	Biotin--[acetyl-CoA-carboxylase] ligase	
+OMGOKNPM_02209	13127	13646	+	hypothetical protein	
+OMGOKNPM_02210	13600	14284	-	hypothetical protein	
+OMGOKNPM_02211	14324	15599	+	N5-carboxyaminoimidazole ribonucleotide synthase	
+OMGOKNPM_02212	15591	16107	+	N5-carboxyaminoimidazole ribonucleotide mutase	
+OMGOKNPM_02213	16131	17301	+	putative acyl-CoA dehydrogenase FadE25	
+OMGOKNPM_02214	17494	18733	+	Regulator of RpoS	
+OMGOKNPM_02215	18729	20352	+	Adaptive-response sensory-kinase SasA	
+OMGOKNPM_02216	20348	20789	+	Response regulator Rcp1	
+OMGOKNPM_02217	20802	22698	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

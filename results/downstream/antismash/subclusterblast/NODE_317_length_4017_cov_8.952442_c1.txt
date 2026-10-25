@@ -1,0 +1,12 @@
+ClusterBlast scores for NODE_317_length_4017_cov_8.952442
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_04969	103	247	-	hypothetical protein	
+OMGOKNPM_04970	247	499	+	hypothetical protein	
+OMGOKNPM_04971	534	3915	+	Plipastatin synthase subunit B	
+
+
+Significant hits: 
+
+
+Details:

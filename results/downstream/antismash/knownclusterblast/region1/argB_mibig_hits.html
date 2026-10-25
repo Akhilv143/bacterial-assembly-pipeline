@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ctg1_orf1259</td>
+              <td></td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001752.4">BGC0001752.4</a></td>
+              <td>NRPS:Type I</td>
+              <td>60.0</td>
+              <td>95.9</td>
+              <td>336.0</td>
+              <td>1.03e-115</td>
+          </tr>
+    
+          <tr>
+              <td>EFE73303.1</td>
+              <td>N-acetylglutamate_kinase_ArgB</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000431.5">BGC0000431.5</a></td>
+              <td>NRPS:Type I</td>
+              <td>56.0</td>
+              <td>96.2</td>
+              <td>313.0</td>
+              <td>7.15e-107</td>
+          </tr>
+    
+          <tr>
+              <td>CBZ42136.1</td>
+              <td>acetylglutamate_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001117.5">BGC0001117.5</a></td>
+              <td>NRPS:Type I</td>
+              <td>53.0</td>
+              <td>90.4</td>
+              <td>256.0</td>
+              <td>5.38e-84</td>
+          </tr>
+    
+          <tr>
+              <td>ABX24488.1</td>
+              <td>acetylglutamate_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000877.5">BGC0000877.5</a></td>
+              <td>other:other</td>
+              <td>49.0</td>
+              <td>91.8</td>
+              <td>232.0</td>
+              <td>2.83e-75</td>
+          </tr>
+    
+          <tr>
+              <td>ARF06211.1</td>
+              <td>AmCP-L-glutamate_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001593.5">BGC0001593.5</a></td>
+              <td>NRPS:Type I</td>
+              <td>34.0</td>
+              <td>92.8</td>
+              <td>107.0</td>
+              <td>3.58e-27</td>
+          </tr>
+    
+          <tr>
+              <td>BAV57461.1</td>
+              <td>LysZ</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001818.4">BGC0001818.4</a></td>
+              <td>NRPS:Type I</td>
+              <td>35.0</td>
+              <td>92.8</td>
+              <td>102.0</td>
+              <td>2.51e-25</td>
+          </tr>
+    
+          <tr>
+              <td>BAW27676.1</td>
+              <td>AmCP-L-glutamate_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001764.4">BGC0001764.4</a></td>
+              <td>NRPS:Type I</td>
+              <td>34.0</td>
+              <td>92.2</td>
+              <td>95.0</td>
+              <td>1.79e-22</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

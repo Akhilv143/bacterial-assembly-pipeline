@@ -1,0 +1,343 @@
+ClusterBlast scores for NODE_124_length_14817_cov_6.505106
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_03308	43	820	-	hypothetical protein	
+OMGOKNPM_03309	915	1344	-	hypothetical protein	
+OMGOKNPM_03310	1794	3564	+	Energy-dependent translational throttle protein EttA	
+OMGOKNPM_03311	3560	4862	+	Putative cytochrome P450 139	
+OMGOKNPM_03312	4844	5906	-	Methyl-branched alkylpyrone synthesis polyketide synthase-like Pks11	
+OMGOKNPM_03313	6060	9153	-	Polyketide synthase GfsA	
+OMGOKNPM_03314	9155	14687	-	Phenolphthiocerol synthesis polyketide synthase type I Pks15/1	
+
+
+Significant hits: 
+1. BGC0001665.3	methylated alkyl-resorcinol/methylated acyl-phloroglucinol
+2. BGC0000021.5	apoptolidin
+3. BGC0001062.5	TLN-05220
+4. BGC0001856.4	caniferolide A/caniferolide B/caniferolide C/caniferolide D
+5. BGC0001877.4	cyphomycin
+6. BGC0002541.2	notonesomycin A
+7. BGC0000042.5	cremimycin
+8. BGC0000034.5	candicidin
+9. BGC0001580.3	ebelactone
+10. BGC0000158.5	tautomycetin
+11. BGC0000157.5	tautomycetin
+12. BGC0001194.5	hitachimycin
+13. BGC0002540.3	tetramycin B
+14. BGC0002356.3	mediomycin A
+15. BGC0002498.3	desulfoclethramycin/clethramycin
+16. BGC0002104.3	eurocidin D/eurocidin E
+17. BGC0002497.3	hexacosalactone A
+18. BGC0000096.5	midecamycin
+19. BGC0000106.5	naphthomycin A
+
+
+Details:
+
+>>
+1. BGC0001665.3
+Source: methylated alkyl-resorcinol/methylated acyl-phloroglucinol
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 10938.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03311	MMAR_2475	100	852	100.0	1.62e-315
+OMGOKNPM_03312	MMAR_2474	99	686	100.0	1.55e-252
+OMGOKNPM_03312	MMAR_2470	73	532	100.0	1.88e-191
+OMGOKNPM_03313	MMAR_2473	99	1934	99.90291262135922	0.0
+OMGOKNPM_03313	MMAR_2472	51	786	86.11650485436894	2.03e-258
+OMGOKNPM_03314	MMAR_2472	99	3468	100.0	0.0
+OMGOKNPM_03314	MMAR_2471	60	2003	101.5735214324471	0.0
+OMGOKNPM_03314	MMAR_2473	53	677	40.477482365708084	3.16e-219
+
+
+
+>>
+2. BGC0000021.5
+Source: apoptolidin
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1935.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	AEP40937.1	49	314	41.262135922330096	1.93e-90
+OMGOKNPM_03314	AEP40936.1	54	1621	98.04666304937601	0.0
+
+
+
+>>
+3. BGC0001062.5
+Source: TLN-05220
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1644.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	ADB23402.1	49	352	40.29126213592233	1.91e-111
+OMGOKNPM_03314	ADB23403.1	46	1292	99.29462832338578	0.0
+
+
+
+>>
+4. BGC0001856.4
+Source: caniferolide A/caniferolide B/caniferolide C/caniferolide D
+Type: PKS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 6786.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	QBF51760.1	46	629	87.47572815533981	1.24e-195
+OMGOKNPM_03314	QBF51758.1	51	1617	104.93760173629951	0.0
+OMGOKNPM_03314	QBF51759.1	51	1553	101.03092783505154	0.0
+OMGOKNPM_03314	QBF51757.1	50	1499	100.21703743895823	0.0
+OMGOKNPM_03314	QBF51756.1	49	1488	103.09278350515463	0.0
+
+
+
+>>
+5. BGC0001877.4
+Source: cyphomycin
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 6781.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	FS847_01955	46	634	87.28155339805825	1.72e-197
+OMGOKNPM_03314	FS847_01965	50	1596	106.23982637004883	0.0
+OMGOKNPM_03314	FS847_01960	51	1550	101.89907759088443	0.0
+OMGOKNPM_03314	FS847_01990	51	1517	99.29462832338578	0.0
+OMGOKNPM_03314	FS847_01995	49	1484	103.90667390124797	0.0
+
+
+
+>>
+6. BGC0002541.2
+Source: notonesomycin A
+Type: other:other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 5305.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	QIQ28636.1	46	602	81.45631067961165	2.85e-186
+OMGOKNPM_03314	QIQ28636.1	50	1620	107.27075420510037	0.0
+OMGOKNPM_03314	QIQ28634.1	50	1496	102.11611502984266	0.0
+OMGOKNPM_03314	QIQ28637.1	51	856	54.91047205642974	7.54e-281
+OMGOKNPM_03314	QIQ28638.1	53	731	45.74064026044493	2.29e-225
+
+
+
+>>
+7. BGC0000042.5
+Source: cremimycin
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 4541.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	BAO66519.1	47	646	85.8252427184466	9.4e-202
+OMGOKNPM_03314	BAO66519.1	53	1631	100.32555615843732	0.0
+OMGOKNPM_03314	BAO66529.1	51	1495	99.83722192078133	0.0
+OMGOKNPM_03314	BAO66528.1	57	769	41.88822571893652	3.49e-254
+
+
+
+>>
+8. BGC0000034.5
+Source: candicidin
+Type: NRPS:Type I+PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 4084.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	AAQ82564.1	46	620	85.14563106796118	1.72e-192
+OMGOKNPM_03314	AAQ82567.1	52	1532	98.75203472599023	0.0
+OMGOKNPM_03314	AAQ82565.1	46	1359	101.03092783505154	0.0
+OMGOKNPM_03314	AAQ82561.1	48	573	40.74877916440586	3.89e-173
+
+
+
+>>
+9. BGC0001580.3
+Source: ebelactone
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 3571.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	SCN11949.1	46	699	93.98058252427185	2.33e-236
+OMGOKNPM_03314	SCN11952.1	50	1449	97.39555073250136	0.0
+OMGOKNPM_03314	SCN11950.1	47	1423	105.4259359739555	0.0
+
+
+
+>>
+10. BGC0000158.5
+Source: tautomycetin
+Type: PKS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 3538.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	ABV91286.1	46	711	93.98058252427185	4.07e-224
+OMGOKNPM_03314	ABV91287.1	51	1481	98.48073792729247	0.0
+OMGOKNPM_03314	ABV91286.1	46	1346	99.67444384156266	0.0
+
+
+
+>>
+11. BGC0000157.5
+Source: tautomycetin
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 3531.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	ABI94379.1	46	708	93.98058252427185	6.41e-223
+OMGOKNPM_03314	ABI94380.1	51	1480	98.48073792729247	0.0
+OMGOKNPM_03314	ABI94379.1	46	1343	99.67444384156266	0.0
+
+
+
+>>
+12. BGC0001194.5
+Source: hitachimycin
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 3164.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	BAR73007.1	46	617	86.01941747572816	1.67e-191
+OMGOKNPM_03314	BAR73007.1	54	1650	98.64351600651112	0.0
+OMGOKNPM_03314	BAR73017.1	52	897	59.57677699403147	5.37e-281
+
+
+
+>>
+13. BGC0002540.3
+Source: tetramycin B
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2882.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	QIZ24102.1	46	631	86.40776699029125	1.7e-196
+OMGOKNPM_03314	QIZ24100.1	48	1367	98.53499728703201	0.0
+OMGOKNPM_03314	QIZ24099.1	51	884	59.46825827455237	2.47e-288
+
+
+
+>>
+14. BGC0002356.3
+Source: mediomycin A
+Type: PKS+other:other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2262.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	BAW35641.1	46	651	84.85436893203884	2.96e-203
+OMGOKNPM_03314	BAW35634.1	52	1611	99.24036896364623	0.0
+
+
+
+>>
+15. BGC0002498.3
+Source: desulfoclethramycin/clethramycin
+Type: other:other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2258.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	QQZ01583.1	46	645	85.53398058252426	3.98e-201
+OMGOKNPM_03314	QQZ01588.1	53	1613	99.29462832338578	0.0
+
+
+
+>>
+16. BGC0002104.3
+Source: eurocidin D/eurocidin E
+Type: NRPS:Type I+PKS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2191.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	AF335_RS14755	46	646	85.72815533980582	1.17e-201
+OMGOKNPM_03314	AF335_RS14745	50	1545	103.1470428648942	0.0
+
+
+
+>>
+17. BGC0002497.3
+Source: hexacosalactone A
+Type: other:other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2061.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	QQZ01628.1	46	620	87.66990291262135	1.4e-192
+OMGOKNPM_03314	QQZ01626.1	47	1441	103.58111774281062	0.0
+
+
+
+>>
+18. BGC0000096.5
+Source: midecamycin
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1971.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	ctg1_orf27	46	634	92.23300970873787	1.36e-197
+OMGOKNPM_03314	ctg1_orf29	46	1337	105.69723277265328	0.0
+
+
+
+>>
+19. BGC0000106.5
+Source: naphthomycin A
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1562.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03313	ADM46357.1	46	616	85.63106796116506	3.3e-191
+OMGOKNPM_03314	ADM46360.1	51	946	61.63863266413456	1.01e-297
+

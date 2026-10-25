@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ONK09687.1</td>
+              <td>putative_protein-S-isoprenylcysteine_methyltransferase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001647.3">BGC0001647.3</a></td>
+              <td>PKS</td>
+              <td>59.0</td>
+              <td>95.9</td>
+              <td>207.0</td>
+              <td>5.2e-69</td>
+          </tr>
+    
+          <tr>
+              <td>BAG17300.1</td>
+              <td>methyltransferase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000282.3">BGC0000282.3</a></td>
+              <td>PKS:Type III</td>
+              <td>60.0</td>
+              <td>99.4</td>
+              <td>199.0</td>
+              <td>6.29e-66</td>
+          </tr>
+    
+          <tr>
+              <td>AQA28565.1</td>
+              <td>isoprenylcysteine_carboxyl_methyltransferase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001663.3">BGC0001663.3</a></td>
+              <td>PKS</td>
+              <td>35.0</td>
+              <td>94.1</td>
+              <td>115.0</td>
+              <td>2.29e-32</td>
+          </tr>
+    
+          <tr>
+              <td>AMB48453.1</td>
+              <td>isoprenylcysteine_carboxyl_methyltransferase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001357.3">BGC0001357.3</a></td>
+              <td>PKS</td>
+              <td>33.0</td>
+              <td>94.7</td>
+              <td>107.0</td>
+              <td>2.25e-29</td>
+          </tr>
+    
+          <tr>
+              <td>AFV96144.1</td>
+              <td>phospholipid_methyltransferase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001064.5">BGC0001064.5</a></td>
+              <td>PKS:Type I</td>
+              <td>33.0</td>
+              <td>94.1</td>
+              <td>105.0</td>
+              <td>8.93e-29</td>
+          </tr>
+    
+          <tr>
+              <td>ARU81124.1</td>
+              <td>CylJ</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001566.3">BGC0001566.3</a></td>
+              <td>PKS</td>
+              <td>33.0</td>
+              <td>94.1</td>
+              <td>105.0</td>
+              <td>8.93e-29</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

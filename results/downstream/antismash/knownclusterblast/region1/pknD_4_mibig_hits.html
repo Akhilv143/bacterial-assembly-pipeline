@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ABX02675.1</td>
+              <td>serine/threonine_protein_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001521.3">BGC0001521.3</a></td>
+              <td>NRPS:Type I</td>
+              <td>33.0</td>
+              <td>43.6</td>
+              <td>149.0</td>
+              <td>3.25e-37</td>
+          </tr>
+    
+          <tr>
+              <td>PVC99880.1</td>
+              <td>serine/threonine_protein_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002100.2">BGC0002100.2</a></td>
+              <td>NRPS:Type I+other:other</td>
+              <td>31.0</td>
+              <td>43.3</td>
+              <td>115.0</td>
+              <td>1.95e-26</td>
+          </tr>
+    
+          <tr>
+              <td>QBF29340.1</td>
+              <td>serine/threonine-protein_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002294.3">BGC0002294.3</a></td>
+              <td>other:other</td>
+              <td>38.0</td>
+              <td>30.3</td>
+              <td>106.0</td>
+              <td>4.51e-24</td>
+          </tr>
+    
+          <tr>
+              <td>MDU8992556.1</td>
+              <td>serine/threonine-protein_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002805.2">BGC0002805.2</a></td>
+              <td>other:other</td>
+              <td>37.0</td>
+              <td>32.7</td>
+              <td>99.0</td>
+              <td>1.55e-21</td>
+          </tr>
+    
+          <tr>
+              <td>CBL93711.1</td>
+              <td>Serine/threonine_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000360.5">BGC0000360.5</a></td>
+              <td>NRPS:Type I</td>
+              <td>35.0</td>
+              <td>30.7</td>
+              <td>89.0</td>
+              <td>1.03e-17</td>
+          </tr>
+    
+          <tr>
+              <td>CAF05639.1</td>
+              <td>hypothetical_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001053.5">BGC0001053.5</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>32.0</td>
+              <td>33.0</td>
+              <td>77.0</td>
+              <td>1.18e-14</td>
+          </tr>
+    
+          <tr>
+              <td>QDA77046.1</td>
+              <td>protein_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002025.4">BGC0002025.4</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>32.0</td>
+              <td>24.8</td>
+              <td>78.0</td>
+              <td>2.5e-14</td>
+          </tr>
+    
+          <tr>
+              <td>ALA09381.1</td>
+              <td>serine/threonine_protein_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001303.5">BGC0001303.5</a></td>
+              <td>PKS</td>
+              <td>32.0</td>
+              <td>31.5</td>
+              <td>73.0</td>
+              <td>3.4e-13</td>
+          </tr>
+    
+          <tr>
+              <td>QDA77053.1</td>
+              <td>protein_kinase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002025.4">BGC0002025.4</a></td>
+              <td>NRPS:Type I+PKS</td>
+              <td>33.0</td>
+              <td>25.5</td>
+              <td>71.0</td>
+              <td>3.88e-12</td>
+          </tr>
+    
+          <tr>
+              <td>XP_011392657.1</td>
+              <td>serine/threonine_protein_kinase_ATG1</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001281.3">BGC0001281.3</a></td>
+              <td>PKS</td>
+              <td>24.0</td>
+              <td>44.0</td>
+              <td>67.0</td>
+              <td>3.51e-11</td>
+          </tr>
+    
+          <tr>
+              <td>Manes.12G133400</td>
+              <td></td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001318.4">BGC0001318.4</a></td>
+              <td>other:other</td>
+              <td>25.0</td>
+              <td>29.1</td>
+              <td>57.0</td>
+              <td>3.58e-08</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

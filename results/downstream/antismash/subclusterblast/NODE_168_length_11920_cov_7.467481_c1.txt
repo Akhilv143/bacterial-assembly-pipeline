@@ -1,0 +1,23 @@
+ClusterBlast scores for NODE_168_length_11920_cov_7.467481
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_03856	453	1317	-	hypothetical protein	
+OMGOKNPM_03857	1456	1678	+	hypothetical protein	
+OMGOKNPM_03858	1977	2466	+	hypothetical protein	
+OMGOKNPM_03859	2479	3616	-	hypothetical protein	
+OMGOKNPM_03860	3876	4353	-	putative HTH-type transcriptional regulator	
+OMGOKNPM_03861	4432	5635	+	Indole-3-acetate monooxygenase	
+OMGOKNPM_03862	5631	6600	+	hypothetical protein	
+OMGOKNPM_03863	6603	7611	+	Putative NADP-dependent oxidoreductase YfmJ	
+OMGOKNPM_03864	7632	8883	-	hypothetical protein	
+OMGOKNPM_03865	8846	9110	-	hypothetical protein	
+OMGOKNPM_03866	9175	9532	-	Nucleoside triphosphate pyrophosphohydrolase	
+OMGOKNPM_03867	9568	10159	-	Nucleoside triphosphate pyrophosphohydrolase	
+OMGOKNPM_03868	10242	11187	-	tRNA dimethylallyltransferase	
+OMGOKNPM_03869	11355	11679	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

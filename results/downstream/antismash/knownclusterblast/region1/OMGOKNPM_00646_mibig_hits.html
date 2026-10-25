@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ACO94503.1</td>
+              <td>PlsC-type_phospholipid/glycerol_acyltransferase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000097.5">BGC0000097.5</a></td>
+              <td>PKS:Type I</td>
+              <td>57.0</td>
+              <td>90.9</td>
+              <td>264.0</td>
+              <td>2.32e-89</td>
+          </tr>
+    
+          <tr>
+              <td>ACO94475.1</td>
+              <td>PlsC-type_phospholipid/glycerol_acyltransferase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000029.5">BGC0000029.5</a></td>
+              <td>PKS:Type I</td>
+              <td>56.0</td>
+              <td>90.9</td>
+              <td>262.0</td>
+              <td>1.83e-88</td>
+          </tr>
+    
+          <tr>
+              <td>QEV63742.1</td>
+              <td>1-acyl-sn-glycerol-3-phosphate_acyltransferase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002657.2">BGC0002657.2</a></td>
+              <td>PKS+NRPS:Type I</td>
+              <td>48.0</td>
+              <td>90.9</td>
+              <td>215.0</td>
+              <td>5.67e-70</td>
+          </tr>
+    
+          <tr>
+              <td>ATY46607.1</td>
+              <td>putative_phosphate_acyltransferase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0001666.3">BGC0001666.3</a></td>
+              <td>PKS</td>
+              <td>47.0</td>
+              <td>85.6</td>
+              <td>186.0</td>
+              <td>2.78e-58</td>
+          </tr>
+    
+          <tr>
+              <td>AAG38841.1</td>
+              <td>putative_acetyl_transferase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0000840.5">BGC0000840.5</a></td>
+              <td>other:other</td>
+              <td>35.0</td>
+              <td>64.6</td>
+              <td>78.0</td>
+              <td>7.87e-17</td>
+          </tr>
+    
+          <tr>
+              <td>QEV63749.1</td>
+              <td>1-acyl-sn-glycerol-3-phosphate_acyltransferase</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002657.2">BGC0002657.2</a></td>
+              <td>PKS+NRPS:Type I</td>
+              <td>35.0</td>
+              <td>67.1</td>
+              <td>77.0</td>
+              <td>9.79e-17</td>
+          </tr>
+    
+          <tr>
+              <td>MBA5221223.1</td>
+              <td>acyltransferase_family_protein</td>
+              <td><a target="_new" href="https://mibig.secondarymetabolites.org/go/BGC0002090.3">BGC0002090.3</a></td>
+              <td>PKS:Type I+NRPS:Type I</td>
+              <td>29.0</td>
+              <td>65.0</td>
+              <td>60.0</td>
+              <td>5.72e-10</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

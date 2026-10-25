@@ -1,0 +1,16 @@
+ClusterBlast scores for NODE_124_length_14817_cov_6.505106
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_03308	43	820	-	hypothetical protein	
+OMGOKNPM_03309	915	1344	-	hypothetical protein	
+OMGOKNPM_03310	1794	3564	+	Energy-dependent translational throttle protein EttA	
+OMGOKNPM_03311	3560	4862	+	Putative cytochrome P450 139	
+OMGOKNPM_03312	4844	5906	-	Methyl-branched alkylpyrone synthesis polyketide synthase-like Pks11	
+OMGOKNPM_03313	6060	9153	-	Polyketide synthase GfsA	
+OMGOKNPM_03314	9155	14687	-	Phenolphthiocerol synthesis polyketide synthase type I Pks15/1	
+
+
+Significant hits: 
+
+
+Details:

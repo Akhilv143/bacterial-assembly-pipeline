@@ -1,0 +1,10 @@
+ClusterBlast scores for NODE_259_length_6467_cov_5.627129
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_04653	13	6076	+	Phenolphthiocerol synthesis polyketide synthase type I Pks15/1	
+
+
+Significant hits: 
+
+
+Details:

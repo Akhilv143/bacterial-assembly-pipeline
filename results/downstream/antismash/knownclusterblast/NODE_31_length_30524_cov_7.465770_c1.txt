@@ -1,0 +1,66 @@
+ClusterBlast scores for NODE_31_length_30524_cov_7.465770
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_01337	300	1113	+	Phthiotriol/phenolphthiotriol dimycocerosates methyltransferase	
+OMGOKNPM_01338	1672	7972	+	Mycocerosic acid synthase	
+OMGOKNPM_01339	8175	9420	-	Phthiocerol/phthiodiolone dimycocerosyl transferase	
+OMGOKNPM_01340	9453	10284	-	putative doxorubicin resistance ABC transporter permease protein DrrC	
+OMGOKNPM_01341	10280	11150	-	Doxorubicin resistance ABC transporter permease protein DrrB	
+OMGOKNPM_01342	11146	12142	-	Doxorubicin resistance ATP-binding protein DrrA	
+OMGOKNPM_01343	12152	16598	-	Phenolphthiocerol/phthiocerol polyketide synthase subunit E	
+OMGOKNPM_01344	16603	22024	-	Phenolphthiocerol/phthiocerol polyketide synthase subunit C	
+OMGOKNPM_01345	22023	28629	-	Phenolphthiocerol/phthiocerol polyketide synthase subunit C	
+OMGOKNPM_01346	28628	30359	-	Phenolphthiocerol/phthiocerol polyketide synthase subunit B	
+
+
+Significant hits: 
+1. BGC0001332.5	microtermolide A
+2. BGC0000026.5	avilamycin A/avilamycin C
+3. BGC0000033.5	calicheamicin
+
+
+Details:
+
+>>
+1. BGC0001332.5
+Source: microtermolide A
+Type: NRPS:Type I+PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1374.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01343	B073_RS0123875	47	753	61.71505739365294	6.71e-242
+OMGOKNPM_01344	B073_RS0123885	46	621	45.182724252491695	1.45e-197
+
+
+
+>>
+2. BGC0000026.5
+Source: avilamycin A/avilamycin C
+Type: saccharide:oligosaccharide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 971.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01342	AAG32068.1	46	254	92.74924471299094	7.09e-83
+OMGOKNPM_01344	AAK83194.1	47	717	53.37763012181617	2.15e-231
+
+
+
+>>
+3. BGC0000033.5
+Source: calicheamicin
+Type: PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 959.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_01342	AAM70341.1	46	255	94.5619335347432	4.14e-83
+OMGOKNPM_01344	AAM70355.1	46	704	52.879291251384274	7.46e-227
+

@@ -1,0 +1,128 @@
+ClusterBlast scores for NODE_143_length_13389_cov_8.109863
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_03563	103	418	-	Tryptophan 6-halogenase ThaL	
+OMGOKNPM_03564	1064	1439	+	hypothetical protein	
+OMGOKNPM_03565	1496	6137	+	D-alanine--D-alanyl carrier protein ligase	
+OMGOKNPM_03566	6149	6785	+	hypothetical protein	
+OMGOKNPM_03567	7591	10579	+	D-alanine--D-alanyl carrier protein ligase	
+OMGOKNPM_03568	10598	11156	+	Flavin reductase (NADPH)	
+OMGOKNPM_03569	11230	12442	+	Na(+)/H(+)-K(+) antiporter GerN	
+OMGOKNPM_03570	12612	13287	+	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE	
+
+
+Significant hits: 
+1. BGC0000376.5	JBIR-34/JBIR-35
+2. BGC0000809.3	AT2433-A1
+3. BGC0002426.3	deschlorosvetamycin A/svetamycin H/svetamycin A
+4. BGC0000821.5	rebeccamycin
+5. BGC0000378.5	Kutzneride 1/Kutzneride 2/Kutzneride 3/Kutzneride 4/Kutzneride 5/Kutzneride 6/Kutzneride 7/Kutzneride 8
+6. BGC0001334.5	caldoniamide A/cladoniamide B/cladoniamide C7/cladoniamide D/cladoniamide E/cladoniamide F/cladoniamide G
+7. BGC0001782.3	spiroindimicin A/spiroindimicin B/spiroindimicin C/spiroindimicin D/indimicin A/indimicin B/indimicin C/indimicin D/indimicin E/lynamicin A/lynamicin D/lynamicin F/lynamicin G
+
+
+Details:
+
+>>
+1. BGC0000376.5
+Source: JBIR-34/JBIR-35
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 472.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03563	BAP16687.1	73	155	89.42307692307693	7.45e-46
+OMGOKNPM_03567	BAP16699.1	46	317	44.120603015075375	4.57e-90
+
+
+
+>>
+2. BGC0000809.3
+Source: AT2433-A1
+Type: other:other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 420.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03563	ABC02805.1	70	150	98.07692307692307	4.62e-44
+OMGOKNPM_03569	ABC02797.1	47	270	92.3076923076923	1.5e-86
+
+
+
+>>
+3. BGC0002426.3
+Source: deschlorosvetamycin A/svetamycin H/svetamycin A
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 305.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03563	QXL90848.1	75	154	90.38461538461539	1.1e-45
+OMGOKNPM_03568	QXL90849.1	48	151	94.05405405405406	9.72e-47
+
+
+
+>>
+4. BGC0000821.5
+Source: rebeccamycin
+Type: other:other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 290.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03563	BAC10682.1	71	154	92.3076923076923	7.99e-46
+OMGOKNPM_03568	BAC10680.1	46	136	85.4054054054054	9.28e-41
+
+
+
+>>
+5. BGC0000378.5
+Source: Kutzneride 1/Kutzneride 2/Kutzneride 3/Kutzneride 4/Kutzneride 5/Kutzneride 6/Kutzneride 7/Kutzneride 8
+Type: NRPS:Type I
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 289.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03563	ABV56597.1	73	154	90.38461538461539	1.16e-45
+OMGOKNPM_03568	ABV56599.1	47	135	86.48648648648648	2.96e-40
+
+
+
+>>
+6. BGC0001334.5
+Source: caldoniamide A/cladoniamide B/cladoniamide C7/cladoniamide D/cladoniamide E/cladoniamide F/cladoniamide G
+Type: other:other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 249.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03563	AEO12707.1	48	97	84.61538461538461	1.54e-24
+OMGOKNPM_03568	AEO12709.1	47	152	91.35135135135135	7.29e-47
+
+
+
+>>
+7. BGC0001782.3
+Source: spiroindimicin A/spiroindimicin B/spiroindimicin C/spiroindimicin D/indimicin A/indimicin B/indimicin C/indimicin D/indimicin E/lynamicin A/lynamicin D/lynamicin F/lynamicin G
+Type: other:other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 234.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_03563	ARP51747.1	47	94	84.61538461538461	1.92e-23
+OMGOKNPM_03568	ARP51746.1	49	140	84.32432432432432	3.06e-42
+

@@ -1,0 +1,16 @@
+ClusterBlast scores for NODE_135_length_14094_cov_6.637646
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_03467	7253	7826	+	hypothetical protein	
+OMGOKNPM_03468	7910	8645	-	hypothetical protein	
+OMGOKNPM_03469	9052	9811	-	hypothetical protein	
+OMGOKNPM_03470	9944	10583	-	Putative glyoxylase CFP32	
+OMGOKNPM_03471	10613	10730	-	hypothetical protein	
+OMGOKNPM_03472	12162	12474	-	hypothetical protein	
+OMGOKNPM_03473	12902	13988	+	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

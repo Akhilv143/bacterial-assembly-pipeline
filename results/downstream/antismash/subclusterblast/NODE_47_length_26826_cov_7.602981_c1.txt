@@ -1,0 +1,37 @@
+ClusterBlast scores for NODE_47_length_26826_cov_7.602981
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_01800	2677	3493	-	Acetoacetate decarboxylase	
+OMGOKNPM_01801	3489	4428	-	CLA biosynthesis dehydrogenase/reductase	
+OMGOKNPM_01802	4702	5176	+	hypothetical protein	
+OMGOKNPM_01803	5365	5647	+	hypothetical protein	
+OMGOKNPM_01804	5650	6151	+	hypothetical protein	
+OMGOKNPM_01805	6092	7145	+	L-asparagine permease 1	
+OMGOKNPM_01806	7226	7829	+	hypothetical protein	
+OMGOKNPM_01807	7822	8530	+	hypothetical protein	
+OMGOKNPM_01808	8646	9693	+	Isopentenyl-diphosphate delta-isomerase	
+OMGOKNPM_01809	9702	10254	-	hypothetical protein	
+OMGOKNPM_01810	10299	12609	-	Trehalose monomycolate exporter MmpL3	
+OMGOKNPM_01811	12602	12977	-	hypothetical protein	
+OMGOKNPM_01812	12973	13297	-	hypothetical protein	
+OMGOKNPM_01813	13293	14253	-	15-cis-phytoene synthase	
+OMGOKNPM_01814	14249	15779	-	zeta-carotene-forming phytoene desaturase	
+OMGOKNPM_01815	15803	16694	-	(2E,6E)-farnesyl diphosphate synthase	
+OMGOKNPM_01816	17338	17671	+	hypothetical protein	
+OMGOKNPM_01817	17667	17958	+	hypothetical protein	
+OMGOKNPM_01818	17976	19365	-	Carnitine monooxygenase oxygenase subunit	
+OMGOKNPM_01819	19372	19921	-	hypothetical protein	
+OMGOKNPM_01820	20249	20459	+	hypothetical protein	
+OMGOKNPM_01821	20528	21548	+	hypothetical protein	
+OMGOKNPM_01822	21658	22825	+	Acyl-CoA dehydrogenase FadE12	
+OMGOKNPM_01823	22920	24081	+	Steroid 3-ketoacyl-CoA thiolase FadA6	
+OMGOKNPM_01824	24184	24790	+	hypothetical protein	
+OMGOKNPM_01825	24786	25134	+	hypothetical protein	
+OMGOKNPM_01826	25138	25291	+	hypothetical protein	
+OMGOKNPM_01827	25399	26671	+	Cytochrome P450 144	
+
+
+Significant hits: 
+
+
+Details:

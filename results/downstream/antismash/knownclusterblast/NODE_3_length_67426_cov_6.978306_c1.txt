@@ -1,0 +1,46 @@
+ClusterBlast scores for NODE_3_length_67426_cov_6.978306
+
+Table of genes, locations, strands and annotations of query cluster:
+OMGOKNPM_00169	131	323	-	hypothetical protein	
+OMGOKNPM_00170	430	1651	+	K(+)/H(+) antiporter NhaP	
+OMGOKNPM_00171	1772	2585	+	(-)-trans-carveol dehydrogenase	
+OMGOKNPM_00172	2707	3313	+	HTH-type transcriptional regulator BetI	
+OMGOKNPM_00173	3309	4044	+	putative ABC transporter ATP-binding protein	
+OMGOKNPM_00174	4037	6425	+	hypothetical protein	
+OMGOKNPM_00176	6617	7109	+	Nucleotide-binding protein	
+OMGOKNPM_00177	7210	7747	+	hypothetical protein	
+OMGOKNPM_00178	7895	8102	+	hypothetical protein	
+OMGOKNPM_00179	8154	10914	+	hypothetical protein	
+OMGOKNPM_00180	11268	11430	-	hypothetical protein	
+OMGOKNPM_00181	11481	13143	+	FAD-containing monooxygenase EthA	
+OMGOKNPM_00182	13171	14668	-	hypothetical protein	
+OMGOKNPM_00183	14797	15853	+	Glycerol-3-phosphate dehydrogenase [NAD(P)+] 1	
+OMGOKNPM_00184	16293	16605	+	hypothetical protein	
+OMGOKNPM_00185	16641	17640	+	hypothetical protein	
+OMGOKNPM_00186	17932	18247	+	hypothetical protein	
+OMGOKNPM_00187	18252	19533	+	hypothetical protein	
+OMGOKNPM_00188	19553	20414	-	Protease HtpX	
+allorf_15859_15984	15858	15984	+		
+allorf_16148_16237	16147	16237	-		
+
+
+Significant hits: 
+1. BGC0000257.5	Roseophilin/Prodigiosin R1/Prodigiosin R2/Prodigiosin R3
+
+
+Details:
+
+>>
+1. BGC0000257.5
+Source: Roseophilin/Prodigiosin R1/Prodigiosin R2/Prodigiosin R3
+Type: PKS:Type I
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1145.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+OMGOKNPM_00172	BAG84246.1	51	177	96.51741293532339	4.07e-56
+OMGOKNPM_00173	BAG84245.1	64	303	100.0	1.21e-104
+OMGOKNPM_00174	BAG84244.1	52	665	98.61635220125787	1.77e-230
+
